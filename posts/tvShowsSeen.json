@@ -1,0 +1,807 @@
+[
+	{
+		"tconst": "tt1439629",
+		"primary_title": "Community",
+		"genres": "Comedy",
+		"start_year": 2009,
+		"end_year": 2015,
+		"creators": [
+			"Dan Harmon"
+		]
+	},
+	{
+		"tconst": "tt2467372",
+		"primary_title": "Brooklyn Nine-Nine",
+		"genres": "Police, Sitcom",
+		"start_year": 2013,
+		"end_year": null,
+		"creators": [
+			"Dan Goor",
+			"Michael Schur"
+		]
+	},
+	{
+		"tconst": "tt0303461",
+		"primary_title": "Firefly",
+		"genres": "Space, Western, Drama",
+		"start_year": 2002,
+		"end_year": 2002,
+		"creators": [
+			"Joss Whedon"
+		]
+	},
+	{
+		"tconst": "tt0092455",
+		"primary_title": "Star Trek: The Next Generation",
+		"genres": "Science Fiction",
+		"start_year": 1987,
+		"end_year": 1994,
+		"creators": [
+			"Gene Roddenberry"
+		]
+	},
+	{
+		"tconst": "tt0118480",
+		"primary_title": "Stargate SG-1",
+		"genres": "Science Fiction",
+		"start_year": 1997,
+		"end_year": 2007,
+		"creators": [
+			"Brad Wright",
+			"Jonathan Glassner"
+		]
+	},
+	{
+		"tconst": "tt0306414",
+		"primary_title": "The Wire",
+		"genres": "Crime, Drama",
+		"start_year": 2002,
+		"end_year": 2008,
+		"creators": [
+			"David Simon"
+		]
+	},
+	{
+		"tconst": "tt0379632",
+		"primary_title": "Hustle",
+		"genres": "Crime, Drama",
+		"start_year": 2004,
+		"end_year": 2012,
+		"creators": [
+			"Tony Jordan"
+		]
+	},
+	{
+		"tconst": "tt4158110",
+		"primary_title": "Mr. Robot",
+		"genres": "Drama, Thriller",
+		"start_year": 2015,
+		"end_year": null,
+		"creators": [
+			"Sam Esmail"
+		]
+	},
+	{
+		"tconst": "tt4288182",
+		"primary_title": "Atlanta",
+		"genres": "Comedy, Drama",
+		"start_year": 2016,
+		"end_year": null,
+		"creators": [
+			"Donald Glover"
+		]
+	},
+	{
+		"tconst": "tt5491994",
+		"primary_title": "Planet Earth II",
+		"genres": "Nature, Documentary",
+		"start_year": 2016,
+		"end_year": 2016,
+		"creators": [
+			"BBC"
+		]
+	},
+	{
+		"tconst": "tt2250192",
+		"primary_title": "Sword Art Online",
+		"genres": "Anime",
+		"start_year": 2012,
+		"end_year": 2012,
+		"creators": [
+			"Reki Kawahara"
+		]
+	},
+	{
+		"tconst": "tt4574334",
+		"primary_title": "Stranger Things",
+		"genres": "Science Fiction, Horror",
+		"start_year": 2016,
+		"end_year": null,
+		"creators": [
+			"Matt Duffer",
+			"Ross Duffer"
+		]
+	},
+	{
+		"tconst": "tt2560140",
+		"primary_title": "Attack On Titan",
+		"genres": "Anime",
+		"start_year": 2013,
+		"end_year": null,
+		"creators": [
+			"Hajime Isayama"
+		]
+	},
+	{
+		"tconst": "tt1266020",
+		"primary_title": "Parks & Recreation",
+		"genres": "Political, Satire, Sitcom",
+		"start_year": 2009,
+		"end_year": 2015,
+		"creators": [
+			"Greg Daniels",
+			"Michael Schur"
+		]
+	},
+	{
+		"tconst": "tt1486217",
+		"primary_title": "Archer",
+		"genres": "Animated, Sitcom",
+		"start_year": 2009,
+		"end_year": null,
+		"creators": [
+			"Adam Reed"
+		]
+	},
+	{
+		"tconst": "tt0487831",
+		"primary_title": "The IT Crowd",
+		"genres": "Sitcom",
+		"start_year": 2006,
+		"end_year": 2013,
+		"creators": [
+			"Graham Linehan"
+		]
+	},
+	{
+		"tconst": "tt0472954",
+		"primary_title": "It's Always Sunny in Philadelphia",
+		"genres": "Sitcom",
+		"start_year": 2005,
+		"end_year": null,
+		"creators": [
+			"Rob McElhenney"
+		]
+	},
+	{
+		"tconst": "tt0362357",
+		"primary_title": "New Tricks",
+		"genres": "Police, Procedural, Drama",
+		"start_year": 2003,
+		"end_year": 2015,
+		"creators": [
+			"Nigel McCrery",
+			"Roy Mitchell"
+		]
+	},
+	{
+		"tconst": "tt0380136",
+		"primary_title": "QI",
+		"genres": "Comedy, Panel, Game",
+		"start_year": 2003,
+		"end_year": null,
+		"creators": [
+			"John Lloyd"
+		]
+	},
+	{
+		"tconst": "tt0238784",
+		"primary_title": "Gilmore Girls",
+		"genres": "Comedy, Drama",
+		"start_year": 2000,
+		"end_year": 2007,
+		"creators": [
+			"Amy Sherman-Palladino"
+		]
+	},
+	{
+		"tconst": "tt0213338",
+		"primary_title": "Cowboy Bebop",
+		"genres": "Anime",
+		"start_year": 1998,
+		"end_year": 1998,
+		"creators": [
+			"Cain Kuga"
+		]
+	},
+	{
+		"tconst": "tt2861424",
+		"primary_title": "Rick & Morty",
+		"genres": "Animated, Science Fiction, Adventure, Comedy",
+		"start_year": 2013,
+		"end_year": null,
+		"creators": [
+			"Justin Roiland",
+			"Dan Harmon"
+		]
+	},
+	{
+		"tconst": "tt7343832",
+		"primary_title": "Neo Yokio",
+		"genres": "Anime",
+		"start_year": 2017,
+		"end_year": null,
+		"creators": [
+			"Ezra Koenig"
+		]
+	},
+	{
+		"tconst": "tt0903747",
+		"primary_title": "Breaking Bad",
+		"genres": "Neo-Western, Crime, Drama",
+		"start_year": 2008,
+		"end_year": 2013,
+		"creators": [
+			"Vince Gilligan"
+		]
+	},
+	{
+		"tconst": "tt3322312",
+		"primary_title": "Daredevil",
+		"genres": "Superhero",
+		"start_year": 2015,
+		"end_year": null,
+		"creators": [
+			"Drew Goddard"
+		]
+	},
+	{
+		"tconst": "tt0374455",
+		"primary_title": "Stargate Atlantis",
+		"genres": "Science Fiction",
+		"start_year": 2004,
+		"end_year": 2009,
+		"creators": [
+			"Brad Wright",
+			"Robert C. Cooper"
+		]
+	},
+	{
+		"tconst": "tt0118363",
+		"primary_title": "Jonathan Creek",
+		"start_year": 1997,
+		"end_year": 2016,
+		"genres": "Crime,Drama,Mystery",
+		"creators": [
+			"David Renwick"
+		]
+	},
+	{
+		"tconst": "tt3398228",
+		"primary_title": "BoJack Horseman",
+		"genres": "Animated, Comedy, Drama",
+		"start_year": 2014,
+		"end_year": null,
+		"creators": [
+			"Raphael Bob-Waksberg"
+		]
+	},
+	{
+		"tconst": "tt0096697",
+		"primary_title": "The Simpsons",
+		"genres": "Animated, Sitcom",
+		"start_year": 1989,
+		"end_year": 1996,
+		"creators": [
+			"Matt Groening"
+		]
+	},
+	{
+		"tconst": "tt0436992",
+		"primary_title": "Doctor Who",
+		"genres": "Science Fiction",
+		"start_year": 1963,
+		"end_year": null,
+		"creators": [
+			"Sydney Newman",
+			"C. E. Webber",
+			"Donald Wilson"
+		]
+	},
+	{
+		"tconst": "tt0813715",
+		"primary_title": "Heroes",
+		"genres": "Science Fiction",
+		"start_year": 2006,
+		"end_year": 2010,
+		"creators": [
+			"Tim Kring"
+		]
+	},
+	{
+		"tconst": "tt0944947",
+		"primary_title": "Game of Thrones",
+		"genres": "Fantasy, Drama",
+		"start_year": 2011,
+		"end_year": null,
+		"creators": [
+			"David Benioff",
+			"D. B. Weiss"
+		]
+	},
+	{
+		"tconst": "tt7700928",
+		"primary_title": "Anime Crimes Division",
+		"genres": "Action, Adventure, Comedy",
+		"start_year": 2017,
+		"end_year": null,
+		"creators": [
+			"Darnell Murphy Jr.",
+			"Freddie Wong"
+		]
+	},
+	{
+		"tconst": "tt5687612",
+		"primary_title": "Fleabag",
+		"start_year": 2016,
+		"end_year": null,
+		"genres": "Comedy,Drama",
+		"creators": [
+			"Phoebe Waller-Bridge"
+		]
+	},
+	{
+		"tconst": "tt0478942",
+		"primary_title": "Life on Mars",
+		"start_year": 2006,
+		"end_year": 2007,
+		"genres": "Crime,Drama,Mystery",
+		"creators": [
+			"Matthew Graham",
+			"Ashley Pharoah",
+			"Tony Jordan"
+		]
+	},
+	{
+		"tconst": "tt1008108",
+		"primary_title": "Ashes to Ashes",
+		"start_year": 2008,
+		"end_year": 2010,
+		"genres": "Crime,Drama,Fantasy",
+		"creators": [
+			"Ashley Pharoah",
+			"Matthew Graham"
+		]
+	},
+	{
+		"tconst": "tt0459159",
+		"primary_title": "The Thick of It",
+		"start_year": 2005,
+		"end_year": 2012,
+		"genres": "Comedy",
+		"creators": [
+			"Armando Iannucci"
+		]
+	},
+	{
+		"tconst": "tt12027034",
+		"primary_title": "Middleditch & Schwartz",
+		"start_year": 2020,
+		"end_year": null,
+		"genres": "Comedy",
+		"creators": [
+			"Ben Schwartz",
+			"Thomas Middleditch"
+		]
+	},
+	{
+		"tconst": "tt9348692",
+		"primary_title": "Criminal: UK",
+		"start_year": 2019,
+		"end_year": null,
+		"genres": "Crime,Drama,Mystery",
+		"creators": [
+			"George Kay",
+			"Jim Field Smith"
+		]
+	},
+	{
+		"tconst": "tt0121955",
+		"primary_title": "South Park",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 22,
+		"genres": "Animation,Comedy",
+		"creators": [
+			"Trey Parker",
+			"Matt Stone"
+		]
+	},
+	{
+		"tconst": "tt7016936",
+		"primary_title": "Killing Eve",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 43,
+		"genres": "Drama,Thriller",
+		"creators": [
+			"Luke Jennings",
+			"Phoebe Waller-Bridge"
+		]
+	},
+	{
+		"tconst": "tt1475582",
+		"primary_title": "Sherlock",
+		"genres": "Crime, Drama",
+		"start_year": 2010,
+		"end_year": null,
+		"creators": [
+			"Mark Gatiss",
+			"Stephen Moffat"
+		]
+	},
+	{
+		"tconst": "tt0773262",
+		"primary_title": "Dexter",
+		"genres": "Crime, Drama",
+		"start_year": 2006,
+		"end_year": 2006,
+		"creators": [
+			"James Manos, Jr.",
+			"Jeff Lindsay"
+		]
+	},
+	{
+		"tconst": "tt0499410",
+		"primary_title": "That Mitchell & Webb Look",
+		"genres": "Sketch, Comedy",
+		"start_year": 2006,
+		"end_year": 2010,
+		"creators": [
+			"David Mitchell",
+			"Robert Webb"
+		]
+	},
+	{
+		"tconst": "tt1495848",
+		"primary_title": "Limmy’s Show!",
+		"genres": "Sketch, Comedy",
+		"start_year": 2010,
+		"end_year": 2013,
+		"creators": [
+			"Brian Limond"
+		]
+	},
+	{
+		"tconst": "tt2085059",
+		"primary_title": "Black Mirror",
+		"start_year": 2011,
+		"end_year": null,
+		"genres": "Drama,Sci-Fi,Thriller",
+		"creators": [
+			"Charlie Brooker"
+		]
+	},
+	{
+		"tconst": "tt6317068",
+		"primary_title": "Final Space",
+		"genres": "Animated, Science Fiction, Comedy",
+		"start_year": 2018,
+		"end_year": null,
+		"creators": [
+			"Olan Rogers"
+		]
+	},
+	{
+		"tconst": "tt5675620",
+		"primary_title": "The Punisher",
+		"genres": "Superhero",
+		"start_year": 2017,
+		"end_year": null,
+		"creators": [
+			"Steve Lightfoot"
+		]
+	},
+	{
+		"tconst": "tt10359446",
+		"primary_title": "The Chef Show",
+		"start_year": 2019,
+		"end_year": null,
+		"genres": "Documentary",
+		"creators": [
+			"Jon Favreau"
+		]
+	},
+	{
+		"tconst": "tt0816397",
+		"primary_title": "Ouran High School Host Club",
+		"genres": "Anime",
+		"start_year": 2011,
+		"end_year": 2011,
+		"creators": [
+			"Yōji Enokido",
+			"Bisco Hatori"
+		]
+	},
+	{
+		"tconst": "tt9612516",
+		"primary_title": "Space Force",
+		"start_year": 2020,
+		"end_year": null,
+		"genres": "Comedy",
+		"creators": [
+			"Steve Carell",
+			"Greg Daniels"
+		]
+	},
+	{
+		"tconst": "tt0108778",
+		"primary_title": "Friends",
+		"genres": "Sitcom",
+		"start_year": 1994,
+		"end_year": 2004,
+		"creators": [
+			"David Crane",
+			"Marta Kauffman"
+		]
+	},
+	{
+		"tconst": "tt0098800",
+		"primary_title": "The Fresh Prince of Bel-Air",
+		"genres": "Sitcom",
+		"start_year": 1990,
+		"end_year": 1996,
+		"creators": [
+			"Andy Borowitz",
+			"Susan Borowitz"
+		]
+	},
+	{
+		"tconst": "tt0094535",
+		"primary_title": "Red Dwarf",
+		"genres": "Science Fiction, Comedy",
+		"start_year": 1998,
+		"end_year": null,
+		"creators": [
+			"Rob Grant",
+			"Doug Naylor"
+		]
+	},
+	{
+		"tconst": "tt0463827",
+		"primary_title": "Mock the Week",
+		"genres": "Topical, Satire, Panel",
+		"start_year": 2005,
+		"end_year": null,
+		"creators": [
+			"Dan Patterson",
+			"Mark Leveson"
+		]
+	},
+	{
+		"tconst": "tt5290382",
+		"primary_title": "Mindhunter",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 60,
+		"genres": "Crime,Drama,Thriller",
+		"creators": [
+			"Joe Penhall"
+		]
+	},
+	{
+		"tconst": "tt5060048",
+		"primary_title": "Asian Provocateur",
+		"start_year": 2015,
+		"end_year": null,
+		"genres": "Biography,Comedy,Documentary",
+		"creators": [
+			"Romesh Ranganathan"
+		]
+	},
+	{
+		"tconst": "tt1628033",
+		"primary_title": "Top Gear",
+		"genres": "Motoring, Comedy",
+		"start_year": 2002,
+		"end_year": 2015,
+		"creators": [
+			"Jeremy Clarkson",
+			"Andy Wilman"
+		]
+	},
+	{
+		"tconst": "tt2733252",
+		"primary_title": "The Musketeers",
+		"genres": "Period, Action, Drama",
+		"start_year": 2014,
+		"end_year": 2016,
+		"creators": [
+			"Adrian Hodges"
+		]
+	},
+	{
+		"tconst": "tt5712554",
+		"primary_title": "The Grand Tour",
+		"genres": "Motoring, Comedy",
+		"start_year": 2016,
+		"end_year": null,
+		"creators": [
+			"Jeremy Clarkson",
+			"Richard Hammond",
+			"James May",
+			"Andy Wilman"
+		]
+	},
+	{
+		"tconst": "tt2357547",
+		"primary_title": "Jessica Jones",
+		"genres": "Superhero",
+		"start_year": 2015,
+		"end_year": null,
+		"creators": [
+			"Melissa Rosenberg"
+		]
+	},
+	{
+		"tconst": "tt1632701",
+		"primary_title": "Suits",
+		"genres": "Legal, Drama",
+		"start_year": 2011,
+		"end_year": null,
+		"creators": [
+			"Aaron Korsh"
+		]
+	},
+	{
+		"tconst": "tt5057054",
+		"primary_title": "Tom Clancy's Jack Ryan",
+		"start_year": 2018,
+		"end_year": null,
+		"genres": "Action,Drama,Thriller",
+		"creators": [
+			"Carlton Cuse",
+			"Graham Roland"
+		]
+	},
+	{
+		"tconst": "tt0060028",
+		"primary_title": "Star Trek",
+		"genres": "Science Fiction",
+		"start_year": 1966,
+		"end_year": 1969,
+		"creators": [
+			"Gene Roddenberry"
+		]
+	},
+	{
+		"tconst": "tt0877057",
+		"primary_title": "Death Note",
+		"genres": "Anime",
+		"start_year": 2006,
+		"end_year": 2007,
+		"creators": [
+			"Toshiki Inoue",
+			"Tsugumi Ohba"
+		]
+	},
+	{
+		"tconst": "tt0386676",
+		"primary_title": "The Office",
+		"start_year": 2005,
+		"end_year": 2013,
+		"runtime_minutes": 22,
+		"genres": "Comedy",
+		"creators": [
+			"Ricky Gervais",
+			"Stephen Merchant"
+		]
+	},
+	{
+		"tconst": "tt0290978",
+		"primary_title": "The Office",
+		"start_year": 2001,
+		"end_year": 2003,
+		"runtime_minutes": 30,
+		"genres": "Comedy,Drama",
+		"creators": [
+			"Ricky Gervais",
+			"Stephen Merchant"
+		]
+	},
+	{
+		"tconst": "tt7453996",
+		"primary_title": "Jack Whitehall: Travels With My Father",
+		"genres": "Travel, Documentary, Road-trip, Comedy",
+		"start_year": 2017,
+		"end_year": 2017,
+		"creators": [
+			"Jack Whitehall"
+		]
+	},
+	{
+		"tconst": "tt7493974",
+		"primary_title": "Bodyguard",
+		"start_year": 2018,
+		"end_year": null,
+		"genres": "Crime,Drama,Thriller",
+		"creators": [
+			"Jed Mercurio"
+		]
+	},
+	{
+		"tconst": "tt4061080",
+		"primary_title": "Love",
+		"genres": "Romantic, Comedy",
+		"start_year": 2016,
+		"end_year": 2018,
+		"creators": [
+			"Judd Apatow",
+			"Lesley Arfin",
+			"Paul Rust"
+		]
+	},
+	{
+		"tconst": "tt0163949",
+		"primary_title": "Martial Law",
+		"genres": "Action, Adventure, Comedy",
+		"start_year": 1998,
+		"end_year": 2000,
+		"creators": [
+			"Carlton Cuse"
+		]
+	},
+	{
+		"tconst": "tt0244365",
+		"primary_title": "Star Trek: Enterprise",
+		"start_year": 2001,
+		"end_year": 2005,
+		"genres": "Action,Adventure,Drama",
+		"creators": [
+			"Brannon Braga",
+			"Rick Berman"
+		]
+	},
+	{
+		"tconst": "tt7718088",
+		"primary_title": "Bonding",
+		"start_year": 2018,
+		"end_year": null,
+		"genres": "Comedy,Drama",
+		"creators": [
+			"Rightor Doyle"
+		]
+	},
+	{
+		"tconst": "tt3322310",
+		"primary_title": "Iron Fist",
+		"genres": "Superhero",
+		"start_year": 2017,
+		"end_year": null,
+		"creators": [
+			"Scott Buck"
+		]
+	},
+	{
+		"tconst": "tt5171438",
+		"primary_title": "Star Trek: Discovery",
+		"start_year": 2017,
+		"end_year": null,
+		"genres": "Action,Adventure,Drama",
+		"creators": [
+			"Alex Kurtzman",
+			"Bryan Fuller"
+		]
+	},
+	{
+		"tconst": "tt0898266",
+		"primary_title": "The Big Bang Theory",
+		"genres": "Sitcom",
+		"start_year": 2007,
+		"end_year": null,
+		"creators": [
+			"Chuck Lorre",
+			"Bill Prady"
+		]
+	}
+]

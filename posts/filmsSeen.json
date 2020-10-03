@@ -1,0 +1,9444 @@
+[
+	{
+		"tconst": "tt0129167",
+		"primary_title": "The Iron Giant",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 86,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Brad Bird"
+		],
+		"writers": [
+			"Tim McCanlies",
+			"Ted Hughes",
+			"Jerry Siegel",
+			"Joe Shuster",
+			"Brent Forrester",
+			"Brad Bird"
+		]
+	},
+	{
+		"tconst": "tt0120737",
+		"primary_title": "The Lord of the Rings: The Fellowship of the Ring",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 178,
+		"genres": "Adventure,Drama,Fantasy",
+		"directors": [
+			"Peter Jackson"
+		],
+		"writers": [
+			"Fran Walsh",
+			"J.R.R. Tolkien",
+			"Philippa Boyens",
+			"Peter Jackson"
+		]
+	},
+	{
+		"tconst": "tt0113824",
+		"primary_title": "Whisper of the Heart",
+		"start_year": 1995,
+		"end_year": null,
+		"runtime_minutes": 111,
+		"genres": "Animation,Drama,Family",
+		"directors": [
+			"Yoshifumi Kondô"
+		],
+		"writers": [
+			"Hayao Miyazaki",
+			"Aoi Hiiragi",
+			"Cindy Davis Hewitt",
+			"Donald H. Hewitt"
+		]
+	},
+	{
+		"tconst": "tt0167261",
+		"primary_title": "The Lord of the Rings: The Two Towers",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 179,
+		"genres": "Adventure,Drama,Fantasy",
+		"directors": [
+			"Peter Jackson"
+		],
+		"writers": [
+			"Fran Walsh",
+			"Philippa Boyens",
+			"J.R.R. Tolkien",
+			"Stephen Sinclair",
+			"Peter Jackson"
+		]
+	},
+	{
+		"tconst": "tt0104652",
+		"primary_title": "Porco Rosso",
+		"start_year": 1992,
+		"end_year": null,
+		"runtime_minutes": 94,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Hayao Miyazaki"
+		]
+	},
+	{
+		"tconst": "tt0167260",
+		"primary_title": "The Lord of the Rings: The Return of the King",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 201,
+		"genres": "Adventure,Drama,Fantasy",
+		"directors": [
+			"Peter Jackson"
+		],
+		"writers": [
+			"J.R.R. Tolkien",
+			"Fran Walsh",
+			"Philippa Boyens",
+			"Peter Jackson"
+		]
+	},
+	{
+		"tconst": "tt1798188",
+		"primary_title": "From Up on Poppy Hill",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 91,
+		"genres": "Animation,Drama,Family",
+		"directors": [
+			"Gorô Miyazaki"
+		],
+		"writers": [
+			"Tetsurô Sayama",
+			"Hayao Miyazaki",
+			"Keiko Niwa",
+			"Patrick Mullen",
+			"Chizuru Takahashi"
+		]
+	},
+	{
+		"tconst": "tt0093779",
+		"primary_title": "The Princess Bride",
+		"start_year": 1987,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"Rob Reiner"
+		],
+		"writers": [
+			"William Goldman"
+		]
+	},
+	{
+		"tconst": "tt0087544",
+		"primary_title": "Nausicaä of the Valley of the Wind",
+		"start_year": 1984,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Adventure,Animation,Fantasy",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Hayao Miyazaki",
+			"Cindy Davis Hewitt",
+			"Donald H. Hewitt",
+			"Kazunori Itô"
+		]
+	},
+	{
+		"tconst": "tt0382932",
+		"primary_title": "Ratatouille",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 111,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Jan Pinkava",
+			"Brad Bird"
+		],
+		"writers": [
+			"Brad Bird",
+			"Jan Pinkava",
+			"Jim Capobianco",
+			"Emily Cook",
+			"Kathy Greenberg",
+			"Bob Peterson"
+		]
+	},
+	{
+		"tconst": "tt0096283",
+		"primary_title": "My Neighbor Totoro",
+		"start_year": 1988,
+		"end_year": null,
+		"runtime_minutes": 86,
+		"genres": "Animation,Family,Fantasy",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Hayao Miyazaki"
+		]
+	},
+	{
+		"tconst": "tt3890160",
+		"primary_title": "Baby Driver",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Action,Crime,Music",
+		"directors": [
+			"Edgar Wright"
+		],
+		"writers": [
+			"Edgar Wright"
+		]
+	},
+	{
+		"tconst": "tt0240772",
+		"primary_title": "Ocean's Eleven",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Crime,Thriller",
+		"directors": [
+			"Steven Soderbergh"
+		],
+		"writers": [
+			"George Clayton Johnson",
+			"Jack Golden Russell",
+			"Harry Brown",
+			"Charles Lederer",
+			"Ted Griffin"
+		]
+	},
+	{
+		"tconst": "tt0097814",
+		"primary_title": "Kiki's Delivery Service",
+		"start_year": 1989,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Adventure,Animation,Drama",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Eiko Kadono",
+			"Hayao Miyazaki"
+		]
+	},
+	{
+		"tconst": "tt0432283",
+		"primary_title": "Fantastic Mr. Fox",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 87,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Wes Anderson"
+		],
+		"writers": [
+			"Roald Dahl",
+			"Noah Baumbach",
+			"Wes Anderson"
+		]
+	},
+	{
+		"tconst": "tt1659337",
+		"primary_title": "The Perks of Being a Wallflower",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 102,
+		"genres": "Drama,Romance",
+		"directors": [
+			"Stephen Chbosky"
+		],
+		"writers": [
+			"Stephen Chbosky"
+		]
+	},
+	{
+		"tconst": "tt0082971",
+		"primary_title": "Raiders of the Lost Ark",
+		"start_year": 1981,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Adventure",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Lawrence Kasdan",
+			"George Lucas",
+			"Philip Kaufman"
+		]
+	},
+	{
+		"tconst": "tt5311514",
+		"primary_title": "Your Name.",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Animation,Drama,Fantasy",
+		"directors": [
+			"Makoto Shinkai"
+		],
+		"writers": [
+			"Makoto Shinkai",
+			"Clark Cheng"
+		]
+	},
+	{
+		"tconst": "tt0910970",
+		"primary_title": "WALL·E",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Andrew Stanton"
+		],
+		"writers": [
+			"Andrew Stanton",
+			"Pete Docter",
+			"Jim Reardon"
+		]
+	},
+	{
+		"tconst": "tt3521164",
+		"primary_title": "Moana",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Chris Williams",
+			"John Musker",
+			"Don Hall",
+			"Ron Clements"
+		],
+		"writers": [
+			"Jared Bush",
+			"Ron Clements",
+			"John Musker",
+			"Chris Williams",
+			"Don Hall",
+			"Pamela Ribon",
+			"Aaron Kandell",
+			"Jordan Kandell"
+		]
+	},
+	{
+		"tconst": "tt3783958",
+		"primary_title": "La La Land",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Comedy,Drama,Music",
+		"directors": [
+			"Damien Chazelle"
+		],
+		"writers": [
+			"Damien Chazelle"
+		]
+	},
+	{
+		"tconst": "tt0076759",
+		"primary_title": "Star Wars: Episode IV - A New Hope",
+		"start_year": 1977,
+		"end_year": null,
+		"runtime_minutes": 121,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"George Lucas"
+		],
+		"writers": [
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt2582802",
+		"primary_title": "Whiplash",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Drama,Music",
+		"directors": [
+			"Damien Chazelle"
+		],
+		"writers": [
+			"Damien Chazelle"
+		]
+	},
+	{
+		"tconst": "tt0110912",
+		"primary_title": "Pulp Fiction",
+		"start_year": 1994,
+		"end_year": null,
+		"runtime_minutes": 154,
+		"genres": "Crime,Drama",
+		"directors": [
+			"Quentin Tarantino"
+		],
+		"writers": [
+			"Quentin Tarantino",
+			"Roger Avary"
+		]
+	},
+	{
+		"tconst": "tt0183790",
+		"primary_title": "A Knight's Tale",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 132,
+		"genres": "Action,Adventure,Romance",
+		"directors": [
+			"Brian Helgeland"
+		],
+		"writers": [
+			"Brian Helgeland"
+		]
+	},
+	{
+		"tconst": "tt0083658",
+		"primary_title": "Blade Runner",
+		"start_year": 1982,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Sci-Fi,Thriller",
+		"directors": [
+			"Ridley Scott"
+		],
+		"writers": [
+			"Hampton Fancher",
+			"David Webb Peoples",
+			"Philip K. Dick"
+		]
+	},
+	{
+		"tconst": "tt1856101",
+		"primary_title": "Blade Runner 2049",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 164,
+		"genres": "Drama,Mystery,Sci-Fi",
+		"directors": [
+			"Denis Villeneuve"
+		],
+		"writers": [
+			"Hampton Fancher",
+			"Michael Green",
+			"Philip K. Dick"
+		]
+	},
+	{
+		"tconst": "tt3774114",
+		"primary_title": "Snowden",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 134,
+		"genres": "Biography,Drama,Thriller",
+		"directors": [
+			"Oliver Stone"
+		],
+		"writers": [
+			"Kieran Fitzgerald",
+			"Anatoly Kucherena",
+			"Luke Harding",
+			"Oliver Stone"
+		]
+	},
+	{
+		"tconst": "tt0347149",
+		"primary_title": "Howl's Moving Castle",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Hayao Miyazaki",
+			"Diana Wynne Jones"
+		]
+	},
+	{
+		"tconst": "tt1638355",
+		"primary_title": "The Man from U.N.C.L.E.",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Guy Ritchie"
+		],
+		"writers": [
+			"Guy Ritchie",
+			"David C. Wilson",
+			"Sam Rolfe",
+			"Lionel Wigram",
+			"Jeff Kleeman"
+		]
+	},
+	{
+		"tconst": "tt0137523",
+		"primary_title": "Fight Club",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 139,
+		"genres": "Drama",
+		"directors": [
+			"David Fincher"
+		],
+		"writers": [
+			"Chuck Palahniuk",
+			"Jim Uhls"
+		]
+	},
+	{
+		"tconst": "tt2015381",
+		"primary_title": "Guardians of the Galaxy",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 121,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"James Gunn"
+		],
+		"writers": [
+			"James Gunn",
+			"Nicole Perlman",
+			"Andy Lanning",
+			"Bill Mantlo",
+			"Keith Giffen",
+			"Jim Starlin",
+			"Steve Englehart",
+			"Steve Gan",
+			"Steve Gerber",
+			"Val Mayerik",
+			"Gene Colan",
+			"Arnold Drake",
+			"Dan Abnett",
+			"Jack Kirby",
+			"Stan Lee",
+			"Roger Stern",
+			"Marv Wolfman",
+			"Larry Lieber",
+			"Don Heck",
+			"John Buscema",
+			"Mike Friedrich"
+		]
+	},
+	{
+		"tconst": "tt2013293",
+		"primary_title": "The Wind Rises",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 126,
+		"genres": "Animation,Biography,Drama",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Hayao Miyazaki"
+		]
+	},
+	{
+		"tconst": "tt0780521",
+		"primary_title": "The Princess and the Frog",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 97,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"John Musker",
+			"Ron Clements"
+		],
+		"writers": [
+			"Ron Clements",
+			"John Musker",
+			"Greg Erb",
+			"Jason Oremland",
+			"Rob Edwards",
+			"E.D. Baker"
+		]
+	},
+	{
+		"tconst": "tt0093105",
+		"primary_title": "Good Morning, Vietnam",
+		"start_year": 1987,
+		"end_year": null,
+		"runtime_minutes": 121,
+		"genres": "Biography,Comedy,Drama",
+		"directors": [
+			"Barry Levinson"
+		],
+		"writers": [
+			"Mitch Markowitz"
+		]
+	},
+	{
+		"tconst": "tt0092067",
+		"primary_title": "Castle in the Sky",
+		"start_year": 1986,
+		"end_year": null,
+		"runtime_minutes": 125,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Hayao Miyazaki",
+			"Jonathan Swift"
+		]
+	},
+	{
+		"tconst": "tt4698684",
+		"primary_title": "Hunt for the Wilderpeople",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Adventure,Comedy,Drama",
+		"directors": [
+			"Taika Waititi"
+		],
+		"writers": [
+			"Taika Waititi",
+			"Barry Crump",
+			"Te Arepa Kahi"
+		]
+	},
+	{
+		"tconst": "tt0119698",
+		"primary_title": "Princess Mononoke",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 134,
+		"genres": "Adventure,Animation,Fantasy",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Hayao Miyazaki",
+			"Neil Gaiman"
+		]
+	},
+	{
+		"tconst": "tt0347618",
+		"primary_title": "The Cat Returns",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 75,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Hiroyuki Morita"
+		],
+		"writers": [
+			"Reiko Yoshida",
+			"Cindy Davis Hewitt",
+			"Aoi Hiiragi",
+			"Donald H. Hewitt"
+		]
+	},
+	{
+		"tconst": "tt0245429",
+		"primary_title": "Spirited Away",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 125,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Kirk Wise",
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Hayao Miyazaki"
+		]
+	},
+	{
+		"tconst": "tt0398286",
+		"primary_title": "Tangled",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Nathan Greno",
+			"Byron Howard"
+		],
+		"writers": [
+			"Dan Fogelman",
+			"Jacob Grimm",
+			"Wilhelm Grimm"
+		]
+	},
+	{
+		"tconst": "tt5104604",
+		"primary_title": "Isle of Dogs",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Wes Anderson"
+		],
+		"writers": [
+			"Jason Schwartzman",
+			"Roman Coppola",
+			"Wes Anderson",
+			"Kunichi Nomura"
+		]
+	},
+	{
+		"tconst": "tt0120783",
+		"primary_title": "The Parent Trap",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Adventure,Comedy,Drama",
+		"directors": [
+			"Nancy Meyers"
+		],
+		"writers": [
+			"Erich Kästner",
+			"David Swift",
+			"Nancy Meyers",
+			"Charles Shyer"
+		]
+	},
+	{
+		"tconst": "tt0095327",
+		"primary_title": "Grave of the Fireflies",
+		"start_year": 1988,
+		"end_year": null,
+		"runtime_minutes": 89,
+		"genres": "Animation,Drama,War",
+		"directors": [
+			"Isao Takahata"
+		],
+		"writers": [
+			"Akiyuki Nosaka",
+			"Isao Takahata"
+		]
+	},
+	{
+		"tconst": "tt0446029",
+		"primary_title": "Scott Pilgrim vs. the World",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Action,Comedy,Romance",
+		"directors": [
+			"Edgar Wright"
+		],
+		"writers": [
+			"Michael Bacall",
+			"Edgar Wright",
+			"Bryan Lee O'Malley"
+		]
+	},
+	{
+		"tconst": "tt0111282",
+		"primary_title": "Stargate",
+		"start_year": 1994,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Roland Emmerich"
+		],
+		"writers": [
+			"Dean Devlin",
+			"Roland Emmerich"
+		]
+	},
+	{
+		"tconst": "tt0133093",
+		"primary_title": "The Matrix",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Action,Sci-Fi",
+		"directors": [
+			"Lana Wachowski",
+			"Lilly Wachowski"
+		],
+		"writers": [
+			"Lana Wachowski",
+			"Lilly Wachowski"
+		]
+	},
+	{
+		"tconst": "tt0080684",
+		"primary_title": "Star Wars: Episode V - The Empire Strikes Back",
+		"start_year": 1980,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Irvin Kershner"
+		],
+		"writers": [
+			"Leigh Brackett",
+			"Lawrence Kasdan",
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt0119217",
+		"primary_title": "Good Will Hunting",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 126,
+		"genres": "Drama",
+		"directors": [
+			"Gus Van Sant"
+		],
+		"writers": [
+			"Matt Damon",
+			"Ben Affleck"
+		]
+	},
+	{
+		"tconst": "tt0425112",
+		"primary_title": "Hot Fuzz",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 121,
+		"genres": "Action,Comedy",
+		"directors": [
+			"Edgar Wright"
+		],
+		"writers": [
+			"Edgar Wright",
+			"Simon Pegg"
+		]
+	},
+	{
+		"tconst": "tt0114709",
+		"primary_title": "Toy Story",
+		"start_year": 1995,
+		"end_year": null,
+		"runtime_minutes": 81,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"John Lasseter"
+		],
+		"writers": [
+			"Pete Docter",
+			"Andrew Stanton",
+			"Joe Ranft",
+			"Joss Whedon",
+			"Joel Cohen",
+			"AlecSokolow",
+			"John Lasseter"
+		]
+	},
+	{
+		"tconst": "tt0061852",
+		"primary_title": "The Jungle Book",
+		"start_year": 1967,
+		"end_year": null,
+		"runtime_minutes": 78,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Wolfgang Reitherman"
+		],
+		"writers": [
+			"Ken Anderson",
+			"Vance Gerry",
+			"Rudyard Kipling",
+			"Larry Clemmons",
+			"Ralph Wright"
+		]
+	},
+	{
+		"tconst": "tt0091042",
+		"primary_title": "Ferris Bueller's Day Off",
+		"start_year": 1986,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Comedy",
+		"directors": [
+			"John Hughes"
+		],
+		"writers": [
+			"John Hughes"
+		]
+	},
+	{
+		"tconst": "tt0096928",
+		"primary_title": "Bill & Ted's Excellent Adventure",
+		"start_year": 1989,
+		"end_year": null,
+		"runtime_minutes": 90,
+		"genres": "Adventure,Comedy,Music",
+		"directors": [
+			"Stephen Herek"
+		],
+		"writers": [
+			"Chris Matheson",
+			"Ed Solomon"
+		]
+	},
+	{
+		"tconst": "tt1132620",
+		"primary_title": "The Girl with the Dragon Tattoo",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 152,
+		"genres": "Crime,Drama,Mystery",
+		"directors": [
+			"Niels Arden Oplev"
+		],
+		"writers": [
+			"Nikolaj Arcel",
+			"Rasmus Heisterberg",
+			"Stieg Larsson"
+		]
+	},
+	{
+		"tconst": "tt2277860",
+		"primary_title": "Finding Dory",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 97,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Angus MacLane",
+			"Andrew Stanton"
+		],
+		"writers": [
+			"Andrew Stanton",
+			"Victoria Strouse",
+			"Bob Peterson",
+			"Angus MacLane"
+		]
+	},
+	{
+		"tconst": "tt1285016",
+		"primary_title": "The Social Network",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 120,
+		"genres": "Biography,Drama",
+		"directors": [
+			"David Fincher"
+		],
+		"writers": [
+			"Ben Mezrich",
+			"Aaron Sorkin"
+		]
+	},
+	{
+		"tconst": "tt2488496",
+		"primary_title": "Star Wars: Episode VII - The Force Awakens",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"J.J. Abrams"
+		],
+		"writers": [
+			"Lawrence Kasdan",
+			"J.J. Abrams",
+			"Michael Arndt",
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt0266543",
+		"primary_title": "Finding Nemo",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Andrew Stanton",
+			"Lee Unkrich"
+		],
+		"writers": [
+			"Andrew Stanton",
+			"Bob Peterson",
+			"David Reynolds"
+		]
+	},
+	{
+		"tconst": "tt0468569",
+		"primary_title": "The Dark Knight",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 152,
+		"genres": "Action,Crime,Drama",
+		"directors": [
+			"Christopher Nolan"
+		],
+		"writers": [
+			"Jonathan Nolan",
+			"Christopher Nolan",
+			"David S. Goyer",
+			"Bob Kane"
+		]
+	},
+	{
+		"tconst": "tt1853728",
+		"primary_title": "Django Unchained",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 165,
+		"genres": "Drama,Western",
+		"directors": [
+			"Quentin Tarantino"
+		],
+		"writers": [
+			"Quentin Tarantino"
+		]
+	},
+	{
+		"tconst": "tt5083738",
+		"primary_title": "The Favourite",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Biography,History",
+		"directors": [
+			"Yorgos Lanthimos"
+		],
+		"writers": [
+			"Tony McNamara",
+			"Deborah Davis"
+		]
+	},
+	{
+		"tconst": "tt0070608",
+		"primary_title": "Robin Hood",
+		"start_year": 1973,
+		"end_year": null,
+		"runtime_minutes": 83,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Wolfgang Reitherman"
+		],
+		"writers": [
+			"Larry Clemmons",
+			"Ken Anderson",
+			"Vance Gerry",
+			"Frank Thomas",
+			"Eric Cleworth",
+			"Julius Svendsen",
+			"David Michener"
+		]
+	},
+	{
+		"tconst": "tt0117110",
+		"primary_title": "Muppet Treasure Island",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 99,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"David Lane",
+			"Brian Henson"
+		],
+		"writers": [
+			"Robert Louis Stevenson",
+			"Jerry Juhl",
+			"Kirk R. Thatcher",
+			"James V. Hart"
+		]
+	},
+	{
+		"tconst": "tt2267998",
+		"primary_title": "Gone Girl",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 149,
+		"genres": "Crime,Drama,Mystery",
+		"directors": [
+			"David Fincher"
+		],
+		"writers": [
+			"Gillian Flynn"
+		]
+	},
+	{
+		"tconst": "tt0120762",
+		"primary_title": "Mulan",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Tony Bancroft",
+			"Barry Cook"
+		],
+		"writers": [
+			"Robert D. San Souci",
+			"Rita Hsiao",
+			"Chris Sanders",
+			"Raymond Singer",
+			"Eugenia Bostwick-Singer",
+			"Dean DeBlois",
+			"John Sanford",
+			"Chris Williams",
+			"Tim Hodge",
+			"Burny Mattinson",
+			"Lorna Cook",
+			"Barry Johnson",
+			"Thom Enriquez",
+			"Ed Gombert",
+			"Joe Grant",
+			"Floyd Norman",
+			"Linda Woolverton",
+			"Jodi Ann Johnson",
+			"Julius Aguimatang",
+			"Philip LaZebnik",
+			"David Reynolds",
+			"Don Dougherty",
+			"Jorgen Klubien",
+			"Denis Rich",
+			"Joe Ekers",
+			"Alan Ormsby",
+			"Larry Scholl",
+			"Daan Jippes",
+			"Frank Nissen",
+			"Jeff Snow",
+			"Anonymous",
+			"Theodore Newton"
+		]
+	},
+	{
+		"tconst": "tt0435761",
+		"primary_title": "Toy Story 3",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Lee Unkrich"
+		],
+		"writers": [
+			"John Lasseter",
+			"Andrew Stanton",
+			"Lee Unkrich",
+			"Michael Arndt"
+		]
+	},
+	{
+		"tconst": "tt0110008",
+		"primary_title": "Pom Poko",
+		"start_year": 1994,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Animation,Comedy,Drama",
+		"directors": [
+			"Isao Takahata"
+		],
+		"writers": [
+			"Hayao Miyazaki",
+			"Isao Takahata"
+		]
+	},
+	{
+		"tconst": "tt3501632",
+		"primary_title": "Thor: Ragnarok",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Taika Waititi"
+		],
+		"writers": [
+			"Eric Pearson",
+			"Craig Kyle",
+			"Christopher Yost",
+			"Stan Lee",
+			"Larry Lieber",
+			"Jack Kirby"
+		]
+	},
+	{
+		"tconst": "tt0158811",
+		"primary_title": "Muppets from Space",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 87,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Tim Hill"
+		],
+		"writers": [
+			"Jerry Juhl",
+			"Joey Mazzarino",
+			"Ken Kaufman"
+		]
+	},
+	{
+		"tconst": "tt3659388",
+		"primary_title": "The Martian",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 144,
+		"genres": "Adventure,Drama,Sci-Fi",
+		"directors": [
+			"Ridley Scott"
+		],
+		"writers": [
+			"Drew Goddard",
+			"Andy Weir"
+		]
+	},
+	{
+		"tconst": "tt0372784",
+		"primary_title": "Batman Begins",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 140,
+		"genres": "Action,Adventure",
+		"directors": [
+			"Christopher Nolan"
+		],
+		"writers": [
+			"Bob Kane",
+			"David S. Goyer",
+			"Christopher Nolan"
+		]
+	},
+	{
+		"tconst": "tt0120630",
+		"primary_title": "Chicken Run",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 84,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Peter Lord",
+			"Nick Park"
+		],
+		"writers": [
+			"Peter Lord",
+			"Nick Park",
+			"Karey Kirkpatrick",
+			"Mark Burton",
+			"John O'Farrell"
+		]
+	},
+	{
+		"tconst": "tt0097576",
+		"primary_title": "Indiana Jones and the Last Crusade",
+		"start_year": 1989,
+		"end_year": null,
+		"runtime_minutes": 127,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Jeffrey Boam",
+			"George Lucas",
+			"Menno Meyjes",
+			"Philip Kaufman"
+		]
+	},
+	{
+		"tconst": "tt0104940",
+		"primary_title": "The Muppet Christmas Carol",
+		"start_year": 1992,
+		"end_year": null,
+		"runtime_minutes": 85,
+		"genres": "Comedy,Drama,Family",
+		"directors": [
+			"Brian Henson"
+		],
+		"writers": [
+			"Charles Dickens",
+			"Jerry Juhl"
+		]
+	},
+	{
+		"tconst": "tt0086190",
+		"primary_title": "Star Wars: Episode VI - Return of the Jedi",
+		"start_year": 1983,
+		"end_year": null,
+		"runtime_minutes": 131,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Richard Marquand"
+		],
+		"writers": [
+			"Lawrence Kasdan",
+			"James Kahn",
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt2278388",
+		"primary_title": "The Grand Budapest Hotel",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 99,
+		"genres": "Adventure,Comedy,Drama",
+		"directors": [
+			"Wes Anderson"
+		],
+		"writers": [
+			"Stefan Zweig",
+			"Wes Anderson",
+			"Hugo Guinness"
+		]
+	},
+	{
+		"tconst": "tt1490017",
+		"primary_title": "The Lego Movie",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Christopher Miller",
+			"Phil Lord"
+		],
+		"writers": [
+			"Jerry Siegel",
+			"Sam Simon",
+			"J.R.R. Tolkien",
+			"Tatsuo Yoshida",
+			"Harry G. Peter",
+			"Phil Lord",
+			"Christopher Miller",
+			"Dan Hageman",
+			"Kevin Hageman",
+			"Robert Kanigher",
+			"Jens Nygaard Knudsen",
+			"Peter Laird",
+			"Kevin Eastman",
+			"George Lucas",
+			"James L. Brooks",
+			"Lawrence Kasdan",
+			"Bob Kane",
+			"Matt Groening",
+			"Leigh Brackett",
+			"Ole Kirk Christiansen",
+			"Bill Finger",
+			"Carmine Infantino",
+			"Gil Kane",
+			"Bill Lawrence",
+			"William Moulton Marston",
+			"J.K. Rowling",
+			"Godtfred Kirk Christiansen",
+			"Joe Shuster",
+			"John Broome"
+		]
+	},
+	{
+		"tconst": "tt1022603",
+		"primary_title": "500 Days of Summer",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 95,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Marc Webb"
+		],
+		"writers": [
+			"Scott Neustadter",
+			"Michael H. Weber"
+		]
+	},
+	{
+		"tconst": "tt0120363",
+		"primary_title": "Toy Story 2",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 92,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Lee Unkrich",
+			"John Lasseter",
+			"Ash Brannon"
+		],
+		"writers": [
+			"John Lasseter",
+			"Pete Docter",
+			"Ash Brannon",
+			"Rita Hsiao",
+			"Doug Chamberlin",
+			"Chris Webb",
+			"Andrew Stanton"
+		]
+	},
+	{
+		"tconst": "tt0190332",
+		"primary_title": "Crouching Tiger, Hidden Dragon",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 120,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Ang Lee"
+		],
+		"writers": [
+			"Du Lu Wang",
+			"Hui-Ling Wang",
+			"James Schamus",
+			"Kuo Jung Tsai"
+		]
+	},
+	{
+		"tconst": "tt0381061",
+		"primary_title": "Casino Royale",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 144,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Martin Campbell"
+		],
+		"writers": [
+			"Neal Purvis",
+			"Robert Wade",
+			"Paul Haggis",
+			"Ian Fleming"
+		]
+	},
+	{
+		"tconst": "tt0314331",
+		"primary_title": "Love Actually",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 135,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Richard Curtis"
+		],
+		"writers": [
+			"Richard Curtis"
+		]
+	},
+	{
+		"tconst": "tt0112384",
+		"primary_title": "Apollo 13",
+		"start_year": 1995,
+		"end_year": null,
+		"runtime_minutes": 140,
+		"genres": "Adventure,Drama,History",
+		"directors": [
+			"Ron Howard"
+		],
+		"writers": [
+			"Jim Lovell",
+			"Jeffrey Kluger",
+			"Al Reinert",
+			"William Broyles Jr."
+		]
+	},
+	{
+		"tconst": "tt0795421",
+		"primary_title": "Mamma Mia!",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Comedy,Musical,Romance",
+		"directors": [
+			"Phyllida Lloyd"
+		],
+		"writers": [
+			"Catherine Johnson"
+		]
+	},
+	{
+		"tconst": "tt2802144",
+		"primary_title": "Kingsman: The Secret Service",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 129,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Matthew Vaughn"
+		],
+		"writers": [
+			"Jane Goldman",
+			"Matthew Vaughn",
+			"Mark Millar",
+			"Dave Gibbons"
+		]
+	},
+	{
+		"tconst": "tt0317705",
+		"primary_title": "The Incredibles",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Brad Bird"
+		],
+		"writers": [
+			"Brad Bird"
+		]
+	},
+	{
+		"tconst": "tt0332379",
+		"primary_title": "School of Rock",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Comedy,Music",
+		"directors": [
+			"Richard Linklater"
+		],
+		"writers": [
+			"Mike White"
+		]
+	},
+	{
+		"tconst": "tt0120382",
+		"primary_title": "The Truman Show",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Comedy,Drama,Sci-Fi",
+		"directors": [
+			"Peter Weir"
+		],
+		"writers": [
+			"Andrew Niccol"
+		]
+	},
+	{
+		"tconst": "tt0325980",
+		"primary_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 143,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Gore Verbinski"
+		],
+		"writers": [
+			"Ted Elliott",
+			"Jay Wolpert",
+			"Terry Rossio",
+			"Stuart Beattie"
+		]
+	},
+	{
+		"tconst": "tt0079833",
+		"primary_title": "Lupin III: The Castle of Cagliostro",
+		"start_year": 1979,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Hayao Miyazaki"
+		],
+		"writers": [
+			"Monkey Punch",
+			"Hayao Miyazaki",
+			"Haruya Yamazaki",
+			"Mary Claypool",
+			"Maurice Leblanc"
+		]
+	},
+	{
+		"tconst": "tt6266538",
+		"primary_title": "Vice",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 132,
+		"genres": "Biography,Comedy,Drama",
+		"directors": [
+			"Adam McKay"
+		],
+		"writers": [
+			"Adam McKay"
+		]
+	},
+	{
+		"tconst": "tt4633694",
+		"primary_title": "Spider-Man: Into the Spider-Verse",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Bob Persichetti",
+			"Peter Ramsey",
+			"Rodney Rothman"
+		],
+		"writers": [
+			"Phil Lord",
+			"Steve Ditko",
+			"Sara Pichelli",
+			"Stan Lee",
+			"Brian Michael Bendis"
+		]
+	},
+	{
+		"tconst": "tt4154756",
+		"primary_title": "Avengers: Infinity War",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 149,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Anthony Russo",
+			"Joe Russo"
+		],
+		"writers": [
+			"Christopher Markus",
+			"Stan Lee",
+			"Jack Kirby",
+			"Joe Simon",
+			"Steve Englehart",
+			"Steve Gan",
+			"Bill Mantlo",
+			"Stephen McFeely",
+			"Keith Giffen",
+			"Jim Starlin",
+			"Larry Lieber",
+			"Don Heck"
+		]
+	},
+	{
+		"tconst": "tt4154796",
+		"primary_title": "Avengers: Endgame",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 182,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Joe Russo",
+			"Anthony Russo"
+		],
+		"writers": [
+			"Christopher Markus",
+			"Stephen McFeely",
+			"Jack Kirby",
+			"Stan Lee",
+			"Jim Starlin"
+		]
+	},
+	{
+		"tconst": "tt3606756",
+		"primary_title": "Incredibles 2",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Brad Bird"
+		],
+		"writers": [
+			"Brad Bird"
+		]
+	},
+	{
+		"tconst": "tt2527336",
+		"primary_title": "Star Wars: Episode VIII - The Last Jedi",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 152,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Rian Johnson"
+		],
+		"writers": [
+			"Rian Johnson",
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt1596363",
+		"primary_title": "The Big Short",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Biography,Comedy,Drama",
+		"directors": [
+			"Adam McKay"
+		],
+		"writers": [
+			"Charles Randolph",
+			"Adam McKay",
+			"Michael Lewis"
+		]
+	},
+	{
+		"tconst": "tt2250912",
+		"primary_title": "Spider-Man: Homecoming",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 133,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Jon Watts"
+		],
+		"writers": [
+			"Jonathan Goldstein",
+			"John Francis Daley",
+			"Jon Watts",
+			"Christopher Ford",
+			"Chris McKenna",
+			"Erik Sommers",
+			"Stan Lee",
+			"Steve Ditko",
+			"Joe Simon",
+			"Jack Kirby"
+		]
+	},
+	{
+		"tconst": "tt1748122",
+		"primary_title": "Moonrise Kingdom",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 94,
+		"genres": "Adventure,Comedy,Drama",
+		"directors": [
+			"Wes Anderson"
+		],
+		"writers": [
+			"Wes Anderson",
+			"Roman Coppola"
+		]
+	},
+	{
+		"tconst": "tt0087755",
+		"primary_title": "The Muppets Take Manhattan",
+		"start_year": 1984,
+		"end_year": null,
+		"runtime_minutes": 94,
+		"genres": "Adventure,Comedy,Drama",
+		"directors": [
+			"Frank Oz"
+		],
+		"writers": [
+			"Tom Patchett",
+			"Jay Tarses",
+			"Frank Oz"
+		]
+	},
+	{
+		"tconst": "tt2948356",
+		"primary_title": "Zootopia",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Byron Howard",
+			"Rich Moore",
+			"Jared Bush"
+		],
+		"writers": [
+			"Byron Howard",
+			"Rich Moore",
+			"Jared Bush",
+			"Jim Reardon",
+			"Phil Johnston",
+			"Jennifer Lee",
+			"Josie Trinidad"
+		]
+	},
+	{
+		"tconst": "tt0198781",
+		"primary_title": "Monsters, Inc.",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 92,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Pete Docter",
+			"David Silverman",
+			"Lee Unkrich"
+		],
+		"writers": [
+			"Pete Docter",
+			"Jill Culton",
+			"Jeff Pidgeon",
+			"Ralph Eggleston",
+			"Andrew Stanton",
+			"Daniel Gerson",
+			"Bob Peterson",
+			"David Silverman",
+			"Joe Ranft",
+			"Robert L. Baird",
+			"Rhett Reese",
+			"Jonathan Roberts"
+		]
+	},
+	{
+		"tconst": "tt4276820",
+		"primary_title": "The Founder",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Biography,Drama,History",
+		"directors": [
+			"John Lee Hancock"
+		],
+		"writers": [
+			"Robert D. Siegel"
+		]
+	},
+	{
+		"tconst": "tt6911608",
+		"primary_title": "Mamma Mia! Here We Go Again",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 114,
+		"genres": "Comedy,Musical",
+		"directors": [
+			"Ol Parker"
+		],
+		"writers": [
+			"Ol Parker",
+			"Richard Curtis",
+			"Catherine Johnson",
+			"Judy Craymer"
+		]
+	},
+	{
+		"tconst": "tt1155056",
+		"primary_title": "I Love You, Man",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Comedy,Romance",
+		"directors": [
+			"John Hamburg"
+		],
+		"writers": [
+			"John Hamburg",
+			"Larry Levin"
+		]
+	},
+	{
+		"tconst": "tt1375666",
+		"primary_title": "Inception",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 148,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Christopher Nolan"
+		],
+		"writers": [
+			"Christopher Nolan"
+		]
+	},
+	{
+		"tconst": "tt0371746",
+		"primary_title": "Iron Man",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 126,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Jon Favreau"
+		],
+		"writers": [
+			"Mark Fergus",
+			"Hawk Ostby",
+			"Art Marcum",
+			"Matt Holloway",
+			"Stan Lee",
+			"Don Heck",
+			"Larry Lieber",
+			"Jack Kirby"
+		]
+	},
+	{
+		"tconst": "tt3748528",
+		"primary_title": "Rogue One: A Star Wars Story",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 133,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Gareth Edwards"
+		],
+		"writers": [
+			"George Lucas",
+			"Chris Weitz",
+			"John Knoll",
+			"Gary Whitta",
+			"Tony Gilroy"
+		]
+	},
+	{
+		"tconst": "tt0087469",
+		"primary_title": "Indiana Jones and the Temple of Doom",
+		"start_year": 1984,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Action,Adventure",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Willard Huyck",
+			"Gloria Katz",
+			"George Lucas",
+			"Philip Kaufman"
+		]
+	},
+	{
+		"tconst": "tt0119116",
+		"primary_title": "The Fifth Element",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 126,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Luc Besson"
+		],
+		"writers": [
+			"Luc Besson",
+			"Robert Mark Kamen"
+		]
+	},
+	{
+		"tconst": "tt3896198",
+		"primary_title": "Guardians of the Galaxy Vol. 2",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"James Gunn"
+		],
+		"writers": [
+			"James Gunn",
+			"Dan Abnett",
+			"Andy Lanning",
+			"Steve Englehart",
+			"Steve Gan",
+			"Jim Starlin",
+			"Stan Lee",
+			"Larry Lieber",
+			"Jack Kirby",
+			"Bill Mantlo",
+			"Keith Giffen",
+			"Steve Gerber",
+			"Val Mayerik"
+		]
+	},
+	{
+		"tconst": "tt1109624",
+		"primary_title": "Paddington",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 95,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Paul King"
+		],
+		"writers": [
+			"Paul King",
+			"Hamish McColl",
+			"Michael Bond"
+		]
+	},
+	{
+		"tconst": "tt0365748",
+		"primary_title": "Shaun of the Dead",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 99,
+		"genres": "Comedy,Horror",
+		"directors": [
+			"Edgar Wright"
+		],
+		"writers": [
+			"Simon Pegg",
+			"Edgar Wright"
+		]
+	},
+	{
+		"tconst": "tt4468740",
+		"primary_title": "Paddington 2",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Paul King"
+		],
+		"writers": [
+			"Paul King",
+			"Michael Bond",
+			"Simon Farnaby"
+		]
+	},
+	{
+		"tconst": "tt1431045",
+		"primary_title": "Deadpool",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Tim Miller"
+		],
+		"writers": [
+			"Rhett Reese",
+			"Paul Wernick",
+			"Geoff Johns",
+			"Rob Liefeld",
+			"Len Wein",
+			"Dave Cockrum",
+			"Fabian Nicieza",
+			"Grant Morrison",
+			"Joe Kelly",
+			"Ed McGuinness",
+			"Frank Quitely",
+			"Joe Madureira",
+			"Shawn Martinbrough",
+			"Walter A. McDaniel"
+		]
+	},
+	{
+		"tconst": "tt0266697",
+		"primary_title": "Kill Bill: Vol. 1",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 111,
+		"genres": "Action,Crime,Thriller",
+		"directors": [
+			"Quentin Tarantino"
+		],
+		"writers": [
+			"Quentin Tarantino",
+			"Uma Thurman"
+		]
+	},
+	{
+		"tconst": "tt0378194",
+		"primary_title": "Kill Bill: Vol. 2",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 137,
+		"genres": "Action,Crime,Thriller",
+		"directors": [
+			"Quentin Tarantino"
+		],
+		"writers": [
+			"Quentin Tarantino",
+			"Uma Thurman"
+		]
+	},
+	{
+		"tconst": "tt0117008",
+		"primary_title": "Matilda",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Comedy,Family,Fantasy",
+		"directors": [
+			"Danny DeVito"
+		],
+		"writers": [
+			"Roald Dahl",
+			"Nicholas Kazan",
+			"Robin Swicord"
+		]
+	},
+	{
+		"tconst": "tt2883512",
+		"primary_title": "Chef",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 114,
+		"genres": "Adventure,Comedy,Drama",
+		"directors": [
+			"Jon Favreau"
+		],
+		"writers": [
+			"Jon Favreau"
+		]
+	},
+	{
+		"tconst": "tt0499549",
+		"primary_title": "Avatar",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 162,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"James Cameron"
+		],
+		"writers": [
+			"James Cameron"
+		]
+	},
+	{
+		"tconst": "tt1213641",
+		"primary_title": "First Man",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Biography,Drama,History",
+		"directors": [
+			"Damien Chazelle"
+		],
+		"writers": [
+			"Josh Singer",
+			"James R. Hansen"
+		]
+	},
+	{
+		"tconst": "tt0111161",
+		"primary_title": "The Shawshank Redemption",
+		"start_year": 1994,
+		"end_year": null,
+		"runtime_minutes": 142,
+		"genres": "Drama",
+		"directors": [
+			"Frank Darabont"
+		],
+		"writers": [
+			"Stephen King",
+			"Frank Darabont"
+		]
+	},
+	{
+		"tconst": "tt5390504",
+		"primary_title": "Detroit",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 143,
+		"genres": "Crime,Drama,History",
+		"directors": [
+			"Kathryn Bigelow"
+		],
+		"writers": [
+			"Mark Boal"
+		]
+	},
+	{
+		"tconst": "tt0319262",
+		"primary_title": "The Day After Tomorrow",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Roland Emmerich"
+		],
+		"writers": [
+			"Roland Emmerich",
+			"Jeffrey Nachmanoff"
+		]
+	},
+	{
+		"tconst": "tt0088763",
+		"primary_title": "Back to the Future",
+		"start_year": 1985,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Adventure,Comedy,Sci-Fi",
+		"directors": [
+			"Robert Zemeckis"
+		],
+		"writers": [
+			"Robert Zemeckis",
+			"Bob Gale"
+		]
+	},
+	{
+		"tconst": "tt0096874",
+		"primary_title": "Back to the Future Part II",
+		"start_year": 1989,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Adventure,Comedy,Sci-Fi",
+		"directors": [
+			"Robert Zemeckis"
+		],
+		"writers": [
+			"Robert Zemeckis",
+			"Bob Gale"
+		]
+	},
+	{
+		"tconst": "tt0099088",
+		"primary_title": "Back to the Future Part III",
+		"start_year": 1990,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Adventure,Comedy,Sci-Fi",
+		"directors": [
+			"Robert Zemeckis"
+		],
+		"writers": [
+			"Robert Zemeckis",
+			"Bob Gale"
+		]
+	},
+	{
+		"tconst": "tt0892769",
+		"primary_title": "How to Train Your Dragon",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Dean DeBlois",
+			"Chris Sanders"
+		],
+		"writers": [
+			"William Davies",
+			"Cressida Cowell",
+			"Adam F. Goldberg",
+			"Dean DeBlois",
+			"Chris Sanders"
+		]
+	},
+	{
+		"tconst": "tt0120616",
+		"primary_title": "The Mummy",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Stephen Sommers"
+		],
+		"writers": [
+			"Stephen Sommers",
+			"Lloyd Fonvielle",
+			"Kevin Jarre",
+			"John L. Balderston",
+			"Nina Wilcox Putnam",
+			"Richard Schayer"
+		]
+	},
+	{
+		"tconst": "tt0478970",
+		"primary_title": "Ant-Man",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Peyton Reed"
+		],
+		"writers": [
+			"Edgar Wright",
+			"Larry Lieber",
+			"Joe Cornish",
+			"Adam McKay",
+			"Paul Rudd",
+			"Stan Lee",
+			"Jack Kirby"
+		]
+	},
+	{
+		"tconst": "tt3416742",
+		"primary_title": "What We Do in the Shadows",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 86,
+		"genres": "Comedy,Horror",
+		"directors": [
+			"Jemaine Clement",
+			"Taika Waititi"
+		],
+		"writers": [
+			"Jemaine Clement",
+			"Taika Waititi"
+		]
+	},
+	{
+		"tconst": "tt0816692",
+		"primary_title": "Interstellar",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 169,
+		"genres": "Adventure,Drama,Sci-Fi",
+		"directors": [
+			"Christopher Nolan"
+		],
+		"writers": [
+			"Jonathan Nolan",
+			"Christopher Nolan"
+		]
+	},
+	{
+		"tconst": "tt0119654",
+		"primary_title": "Men in Black",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Adventure,Comedy,Mystery",
+		"directors": [
+			"Barry Sonnenfeld"
+		],
+		"writers": [
+			"Lowell Cunningham",
+			"Ed Solomon"
+		]
+	},
+	{
+		"tconst": "tt1895587",
+		"primary_title": "Spotlight",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Crime,Drama,History",
+		"directors": [
+			"Tom McCarthy"
+		],
+		"writers": [
+			"Josh Singer",
+			"Tom McCarthy"
+		]
+	},
+	{
+		"tconst": "tt1345836",
+		"primary_title": "The Dark Knight Rises",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 164,
+		"genres": "Action,Thriller",
+		"directors": [
+			"Christopher Nolan"
+		],
+		"writers": [
+			"Jonathan Nolan",
+			"Christopher Nolan",
+			"David S. Goyer",
+			"Bob Kane"
+		]
+	},
+	{
+		"tconst": "tt3682448",
+		"primary_title": "Bridge of Spies",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 142,
+		"genres": "Drama,History,Thriller",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Matt Charman",
+			"Ethan Coen",
+			"Joel Coen"
+		]
+	},
+	{
+		"tconst": "tt0988045",
+		"primary_title": "Sherlock Holmes",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Action,Adventure,Crime",
+		"directors": [
+			"Guy Ritchie"
+		],
+		"writers": [
+			"Michael Robert Johnson",
+			"Lionel Wigram",
+			"Anthony Peckham",
+			"Arthur Conan Doyle",
+			"Simon Kinberg"
+		]
+	},
+	{
+		"tconst": "tt6294822",
+		"primary_title": "The Post",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Biography,Drama,History",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Liz Hannah",
+			"Josh Singer"
+		]
+	},
+	{
+		"tconst": "tt0454876",
+		"primary_title": "Life of Pi",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 127,
+		"genres": "Adventure,Drama,Fantasy",
+		"directors": [
+			"Ang Lee"
+		],
+		"writers": [
+			"David Magee",
+			"Yann Martel"
+		]
+	},
+	{
+		"tconst": "tt4154664",
+		"primary_title": "Captain Marvel",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 123,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Anna Boden",
+			"Ryan Fleck"
+		],
+		"writers": [
+			"Anna Boden",
+			"Ryan Fleck",
+			"Geneva Robertson-Dworet",
+			"Nicole Perlman",
+			"Meg LeFauve"
+		]
+	},
+	{
+		"tconst": "tt0138749",
+		"primary_title": "The Road to El Dorado",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 89,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Don Paul",
+			"Bibo Bergeron",
+			"Jeffrey Katzenberg"
+		],
+		"writers": [
+			"Ted Elliott",
+			"Karey Kirkpatrick",
+			"Terry Rossio"
+		]
+	},
+	{
+		"tconst": "tt6933454",
+		"primary_title": "Puzzle",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Drama",
+		"directors": [
+			"Marc Turtletaub"
+		],
+		"writers": [
+			"Oren Moverman",
+			"Polly Mann",
+			"Natalia Smirnoff"
+		]
+	},
+	{
+		"tconst": "tt1124035",
+		"primary_title": "The Ides of March",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Drama,Thriller",
+		"directors": [
+			"George Clooney"
+		],
+		"writers": [
+			"George Clooney",
+			"Grant Heslov",
+			"Beau Willimon"
+		]
+	},
+	{
+		"tconst": "tt0372588",
+		"primary_title": "Team America: World Police",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Action,Comedy",
+		"directors": [
+			"Trey Parker"
+		],
+		"writers": [
+			"Trey Parker",
+			"Matt Stone",
+			"Pam Brady"
+		]
+	},
+	{
+		"tconst": "tt1343092",
+		"primary_title": "The Great Gatsby",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 143,
+		"genres": "Drama,Romance",
+		"directors": [
+			"Baz Luhrmann"
+		],
+		"writers": [
+			"Baz Luhrmann",
+			"Craig Pearce",
+			"F. Scott Fitzgerald"
+		]
+	},
+	{
+		"tconst": "tt0311289",
+		"primary_title": "Holes",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Adventure,Comedy,Drama",
+		"directors": [
+			"Andrew Davis"
+		],
+		"writers": [
+			"Louis Sachar"
+		]
+	},
+	{
+		"tconst": "tt0887912",
+		"primary_title": "The Hurt Locker",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 131,
+		"genres": "Drama,History,Thriller",
+		"directors": [
+			"Kathryn Bigelow"
+		],
+		"writers": [
+			"Mark Boal"
+		]
+	},
+	{
+		"tconst": "tt0110357",
+		"primary_title": "The Lion King",
+		"start_year": 1994,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Adventure,Animation,Drama",
+		"directors": [
+			"Roger Allers",
+			"Rob Minkoff"
+		],
+		"writers": [
+			"Irene Mecchi",
+			"Jonathan Roberts",
+			"Burny Mattinson",
+			"Barry Johnson",
+			"Lorna Cook",
+			"Thom Enriquez",
+			"Andy Gaskill",
+			"Gary Trousdale",
+			"Jim Capobianco",
+			"Kevin Harkey",
+			"Jorgen Klubien",
+			"Chris Sanders",
+			"Tom Sito",
+			"Larry Leker",
+			"Joe Ranft",
+			"Rick Maki",
+			"Ed Gombert",
+			"Francis Glebas",
+			"Mark Kausler",
+			"Linda Woolverton",
+			"J.T. Allen",
+			"George Scribner",
+			"Miguel Tejada-Flores",
+			"Jenny Tripp",
+			"Bob Tzudiker",
+			"Christopher Vogler",
+			"Kirk Wise",
+			"Noni White",
+			"Brenda Chapman"
+		]
+	},
+	{
+		"tconst": "tt0379786",
+		"primary_title": "Serenity",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Joss Whedon"
+		],
+		"writers": [
+			"Joss Whedon"
+		]
+	},
+	{
+		"tconst": "tt2584384",
+		"primary_title": "Jojo Rabbit",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Comedy,Drama,War",
+		"directors": [
+			"Taika Waititi"
+		],
+		"writers": [
+			"Taika Waititi",
+			"Christine Leunens"
+		]
+	},
+	{
+		"tconst": "tt5095030",
+		"primary_title": "Ant-Man and the Wasp",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Peyton Reed"
+		],
+		"writers": [
+			"Chris McKenna",
+			"Erik Sommers",
+			"Paul Rudd",
+			"Andrew Barrer",
+			"Stan Lee",
+			"Larry Lieber",
+			"Jack Kirby",
+			"Gabriel Ferrari"
+		]
+	},
+	{
+		"tconst": "tt0113189",
+		"primary_title": "GoldenEye",
+		"start_year": 1995,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Martin Campbell"
+		],
+		"writers": [
+			"Michael France",
+			"Ian Fleming",
+			"Jeffrey Caine",
+			"Bruce Feirstein"
+		]
+	},
+	{
+		"tconst": "tt1250777",
+		"primary_title": "Kick-Ass",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Action,Comedy",
+		"directors": [
+			"Matthew Vaughn"
+		],
+		"writers": [
+			"Jane Goldman",
+			"Matthew Vaughn",
+			"Mark Millar",
+			"John Romita Jr."
+		]
+	},
+	{
+		"tconst": "tt1217209",
+		"primary_title": "Brave",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Mark Andrews",
+			"Brenda Chapman",
+			"Steve Purcell"
+		],
+		"writers": [
+			"Brenda Chapman",
+			"Mark Andrews",
+			"Steve Purcell",
+			"Irene Mecchi"
+		]
+	},
+	{
+		"tconst": "tt5178264",
+		"primary_title": "Life in the Doghouse",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 84,
+		"genres": "Documentary",
+		"directors": [
+			"Ron Davis"
+		],
+		"writers": []
+	},
+	{
+		"tconst": "tt3799694",
+		"primary_title": "The Nice Guys",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Shane Black"
+		],
+		"writers": [
+			"Shane Black",
+			"Anthony Bagarozzi"
+		]
+	},
+	{
+		"tconst": "tt0230011",
+		"primary_title": "Atlantis: The Lost Empire",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 95,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Gary Trousdale",
+			"Kirk Wise"
+		],
+		"writers": [
+			"Tab Murphy",
+			"Kirk Wise",
+			"Gary Trousdale",
+			"Joss Whedon",
+			"Bryce Zabel",
+			"Jackie Zabel",
+			"David Reynolds",
+			"Plato"
+		]
+	},
+	{
+		"tconst": "tt0469494",
+		"primary_title": "There Will Be Blood",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 158,
+		"genres": "Drama",
+		"directors": [
+			"Paul Thomas Anderson"
+		],
+		"writers": [
+			"Paul Thomas Anderson",
+			"Upton Sinclair"
+		]
+	},
+	{
+		"tconst": "tt0114814",
+		"primary_title": "The Usual Suspects",
+		"start_year": 1995,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Crime,Mystery,Thriller",
+		"directors": [
+			"Bryan Singer"
+		],
+		"writers": [
+			"Christopher McQuarrie"
+		]
+	},
+	{
+		"tconst": "tt0105236",
+		"primary_title": "Reservoir Dogs",
+		"start_year": 1992,
+		"end_year": null,
+		"runtime_minutes": 99,
+		"genres": "Crime,Drama,Thriller",
+		"directors": [
+			"Quentin Tarantino"
+		],
+		"writers": [
+			"Quentin Tarantino",
+			"Roger Avary"
+		]
+	},
+	{
+		"tconst": "tt3553976",
+		"primary_title": "Captain Fantastic",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Comedy,Drama",
+		"directors": [
+			"Matt Ross"
+		],
+		"writers": [
+			"Matt Ross"
+		]
+	},
+	{
+		"tconst": "tt0071853",
+		"primary_title": "Monty Python and the Holy Grail",
+		"start_year": 1975,
+		"end_year": null,
+		"runtime_minutes": 91,
+		"genres": "Adventure,Comedy,Fantasy",
+		"directors": [
+			"Terry Jones",
+			"Terry Gilliam"
+		],
+		"writers": [
+			"Graham Chapman",
+			"John Cleese",
+			"Eric Idle",
+			"Terry Gilliam",
+			"Terry Jones",
+			"Michael Palin"
+		]
+	},
+	{
+		"tconst": "tt4116284",
+		"primary_title": "The Lego Batman Movie",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 104,
+		"genres": "Action,Animation,Comedy",
+		"directors": [
+			"Chris McKay"
+		],
+		"writers": [
+			"Chris McKenna",
+			"Seth Grahame-Smith",
+			"Erik Sommers",
+			"Jerry Siegel",
+			"Bob Kane",
+			"Jared Stern",
+			"John Whittington",
+			"Bill Finger",
+			"Joe Shuster",
+			"Jens Nygaard Knudsen",
+			"William Moulton Marston",
+			"Ole Kirk Christiansen",
+			"Godtfred Kirk Christiansen",
+			"Harry G. Peter"
+		]
+	},
+	{
+		"tconst": "tt0274166",
+		"primary_title": "Johnny English",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Peter Howitt"
+		],
+		"writers": [
+			"Neal Purvis",
+			"Robert Wade",
+			"William Davies",
+			"Peter Howitt"
+		]
+	},
+	{
+		"tconst": "tt2262345",
+		"primary_title": "Long Way North",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 81,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Rémi Chayé"
+		],
+		"writers": [
+			"Patricia Valeix",
+			"Claire Paoletti",
+			"Fabrice de Costil"
+		]
+	},
+	{
+		"tconst": "tt0133240",
+		"primary_title": "Treasure Planet",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 95,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Ron Clements",
+			"John Musker"
+		],
+		"writers": [
+			"Robert Louis Stevenson",
+			"Ron Clements",
+			"John Musker",
+			"Rob Edwards",
+			"Ted Elliott",
+			"Terry Rossio"
+		]
+	},
+	{
+		"tconst": "tt1302006",
+		"primary_title": "The Irishman",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 209,
+		"genres": "Biography,Crime,Drama",
+		"directors": [
+			"Martin Scorsese"
+		],
+		"writers": [
+			"Steven Zaillian",
+			"Charles Brandt"
+		]
+	},
+	{
+		"tconst": "tt7653254",
+		"primary_title": "Marriage Story",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 137,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Noah Baumbach"
+		],
+		"writers": [
+			"Noah Baumbach"
+		]
+	},
+	{
+		"tconst": "tt7215388",
+		"primary_title": "The China Hustle",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 82,
+		"genres": "Documentary",
+		"directors": [
+			"Jed Rothstein"
+		],
+		"writers": [
+			"Jed Rothstein"
+		]
+	},
+	{
+		"tconst": "tt0087538",
+		"primary_title": "The Karate Kid",
+		"start_year": 1984,
+		"end_year": null,
+		"runtime_minutes": 126,
+		"genres": "Action,Drama,Family",
+		"directors": [
+			"John G. Avildsen"
+		],
+		"writers": [
+			"Robert Mark Kamen"
+		]
+	},
+	{
+		"tconst": "tt0099685",
+		"primary_title": "Goodfellas",
+		"start_year": 1990,
+		"end_year": null,
+		"runtime_minutes": 146,
+		"genres": "Biography,Crime,Drama",
+		"directors": [
+			"Martin Scorsese"
+		],
+		"writers": [
+			"Martin Scorsese",
+			"Nicholas Pileggi"
+		]
+	},
+	{
+		"tconst": "tt0275847",
+		"primary_title": "Lilo & Stitch",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 85,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Chris Sanders",
+			"Dean DeBlois"
+		],
+		"writers": [
+			"Dean DeBlois",
+			"Chris Sanders"
+		]
+	},
+	{
+		"tconst": "tt0304141",
+		"primary_title": "Harry Potter and the Prisoner of Azkaban",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 142,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"Alfonso Cuarón"
+		],
+		"writers": [
+			"J.K. Rowling",
+			"Steve Kloves"
+		]
+	},
+	{
+		"tconst": "tt1131729",
+		"primary_title": "Pirate Radio",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 135,
+		"genres": "Comedy,Drama,Music",
+		"directors": [
+			"Richard Curtis"
+		],
+		"writers": [
+			"Richard Curtis"
+		]
+	},
+	{
+		"tconst": "tt0117381",
+		"primary_title": "Primal Fear",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 129,
+		"genres": "Crime,Drama,Mystery",
+		"directors": [
+			"Gregory Hoblit"
+		],
+		"writers": [
+			"Steve Shagan",
+			"William Diehl",
+			"Ann Biderman"
+		]
+	},
+	{
+		"tconst": "tt1398426",
+		"primary_title": "Straight Outta Compton",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 147,
+		"genres": "Biography,Drama,History",
+		"directors": [
+			"F. Gary Gray"
+		],
+		"writers": [
+			"S. Leigh Savidge",
+			"Andrea Berloff",
+			"Alan Wenkus",
+			"Jonathan Herman"
+		]
+	},
+	{
+		"tconst": "tt6751668",
+		"primary_title": "Parasite",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 132,
+		"genres": "Comedy,Drama,Thriller",
+		"directors": [
+			"Bong Joon Ho"
+		],
+		"writers": [
+			"Bong Joon Ho",
+			"Jin Won Han"
+		]
+	},
+	{
+		"tconst": "tt0118617",
+		"primary_title": "Anastasia",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 94,
+		"genres": "Adventure,Animation,Drama",
+		"directors": [
+			"Don Bluth",
+			"Gary Goldman"
+		],
+		"writers": [
+			"Susan Gauthier",
+			"Bruce Graham",
+			"Bob Tzudiker",
+			"Eric Tuchman",
+			"Noni White"
+		]
+	},
+	{
+		"tconst": "tt0091326",
+		"primary_title": "The Karate Kid Part II",
+		"start_year": 1986,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Action,Family,Romance",
+		"directors": [
+			"John G. Avildsen"
+		],
+		"writers": [
+			"Robert Mark Kamen"
+		]
+	},
+	{
+		"tconst": "tt0097647",
+		"primary_title": "The Karate Kid Part III",
+		"start_year": 1989,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Action,Drama,Family",
+		"directors": [
+			"John G. Avildsen"
+		],
+		"writers": [
+			"Robert Mark Kamen"
+		]
+	},
+	{
+		"tconst": "tt0129290",
+		"primary_title": "Patch Adams",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Biography,Comedy,Drama",
+		"directors": [
+			"Tom Shadyac"
+		],
+		"writers": [
+			"Patch Adams",
+			"Maureen Mylander",
+			"Steve Oedekerk"
+		]
+	},
+	{
+		"tconst": "tt0106611",
+		"primary_title": "Cool Runnings",
+		"start_year": 1993,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Jon Turteltaub"
+		],
+		"writers": [
+			"Lynn Siefert",
+			"Michael Ritchie",
+			"Tommy Swerdlow",
+			"MichaelGoldberg"
+		]
+	},
+	{
+		"tconst": "tt2084970",
+		"primary_title": "The Imitation Game",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 114,
+		"genres": "Biography,Drama,History",
+		"directors": [
+			"Morten Tyldum"
+		],
+		"writers": [
+			"Graham Moore",
+			"Andrew Hodges"
+		]
+	},
+	{
+		"tconst": "tt0120917",
+		"primary_title": "The Emperor's New Groove",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 78,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Mark Dindal"
+		],
+		"writers": [
+			"Chris Williams",
+			"Mark Dindal",
+			"David Reynolds",
+			"Stephen J. Anderson",
+			"Don Hall",
+			"John Norton",
+			"Roger Allers",
+			"Matthew Jacobs",
+			"Doug Frankel",
+			"Mark Kennedy",
+			"Mark Walton"
+		]
+	},
+	{
+		"tconst": "tt0088847",
+		"primary_title": "The Breakfast Club",
+		"start_year": 1985,
+		"end_year": null,
+		"runtime_minutes": 97,
+		"genres": "Comedy,Drama",
+		"directors": [
+			"John Hughes"
+		],
+		"writers": [
+			"John Hughes"
+		]
+	},
+	{
+		"tconst": "tt2980516",
+		"primary_title": "The Theory of Everything",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 123,
+		"genres": "Biography,Drama,Romance",
+		"directors": [
+			"James Marsh"
+		],
+		"writers": [
+			"Jane Hawking",
+			"Anthony McCarten"
+		]
+	},
+	{
+		"tconst": "tt6900448",
+		"primary_title": "Mirai",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Adventure,Animation,Drama",
+		"directors": [
+			"Mamoru Hosoda"
+		],
+		"writers": [
+			"Mamoru Hosoda"
+		]
+	},
+	{
+		"tconst": "tt0116629",
+		"primary_title": "Independence Day",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 145,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Roland Emmerich"
+		],
+		"writers": [
+			"Dean Devlin",
+			"Roland Emmerich"
+		]
+	},
+	{
+		"tconst": "tt0361748",
+		"primary_title": "Inglourious Basterds",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 153,
+		"genres": "Adventure,Drama,War",
+		"directors": [
+			"Quentin Tarantino",
+			"Eli Roth"
+		],
+		"writers": [
+			"Quentin Tarantino"
+		]
+	},
+	{
+		"tconst": "tt0371724",
+		"primary_title": "The Hitchhiker's Guide to the Galaxy",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 109,
+		"genres": "Adventure,Comedy,Sci-Fi",
+		"directors": [
+			"Garth Jennings"
+		],
+		"writers": [
+			"Douglas Adams",
+			"Karey Kirkpatrick"
+		]
+	},
+	{
+		"tconst": "tt0258463",
+		"primary_title": "The Bourne Identity",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Action,Mystery,Thriller",
+		"directors": [
+			"Doug Liman"
+		],
+		"writers": [
+			"Tony Gilroy",
+			"W. Blake Herron",
+			"Robert Ludlum"
+		]
+	},
+	{
+		"tconst": "tt0120611",
+		"primary_title": "Blade",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 120,
+		"genres": "Action,Horror",
+		"directors": [
+			"Stephen Norrington"
+		],
+		"writers": [
+			"David S. Goyer"
+		]
+	},
+	{
+		"tconst": "tt0107977",
+		"primary_title": "Robin Hood: Men in Tights",
+		"start_year": 1993,
+		"end_year": null,
+		"runtime_minutes": 104,
+		"genres": "Adventure,Comedy,Musical",
+		"directors": [
+			"Mel Brooks"
+		],
+		"writers": [
+			"J.D. Shapiro",
+			"Evan Chandler",
+			"Mel Brooks"
+		]
+	},
+	{
+		"tconst": "tt0120601",
+		"primary_title": "Being John Malkovich",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Comedy,Drama,Fantasy",
+		"directors": [
+			"Spike Jonze"
+		],
+		"writers": [
+			"Charlie Kaufman"
+		]
+	},
+	{
+		"tconst": "tt0103639",
+		"primary_title": "Aladdin",
+		"start_year": 1992,
+		"end_year": null,
+		"runtime_minutes": 90,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Ron Clements",
+			"John Musker"
+		],
+		"writers": [
+			"Ron Clements",
+			"John Musker",
+			"Ted Elliott",
+			"Terry Rossio",
+			"Burny Mattinson",
+			"Roger Allers",
+			"Daan Jippes",
+			"Kevin Harkey",
+			"Sue C. Nichols",
+			"Francis Glebas",
+			"Darrell Rooney",
+			"Larry Leker",
+			"James Fujii",
+			"Kirk Hanson",
+			"Kevin Lima",
+			"Rebecca Rees",
+			"David S. Smith",
+			"Chris Sanders",
+			"Brian Pimental",
+			"Patrick A. Ventura"
+		]
+	},
+	{
+		"tconst": "tt0241527",
+		"primary_title": "Harry Potter and the Sorcerer's Stone",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 152,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"Chris Columbus"
+		],
+		"writers": [
+			"J.K. Rowling",
+			"Steve Kloves"
+		]
+	},
+	{
+		"tconst": "tt0396269",
+		"primary_title": "Wedding Crashers",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Comedy,Romance",
+		"directors": [
+			"David Dobkin"
+		],
+		"writers": [
+			"Steve Faber",
+			"Bob Fisher"
+		]
+	},
+	{
+		"tconst": "tt2582846",
+		"primary_title": "The Fault in Our Stars",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 126,
+		"genres": "Drama,Romance",
+		"directors": [
+			"Josh Boone"
+		],
+		"writers": [
+			"Scott Neustadter",
+			"Michael H. Weber",
+			"John Green"
+		]
+	},
+	{
+		"tconst": "tt0276751",
+		"primary_title": "About a Boy",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Paul Weitz",
+			"Chris Weitz"
+		],
+		"writers": [
+			"Nick Hornby",
+			"Chris Weitz",
+			"Paul Weitz",
+			"Peter Hedges"
+		]
+	},
+	{
+		"tconst": "tt8404614",
+		"primary_title": "The Two Popes",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 125,
+		"genres": "Comedy,Drama",
+		"directors": [
+			"Fernando Meirelles"
+		],
+		"writers": [
+			"Anthony McCarten"
+		]
+	},
+	{
+		"tconst": "tt2848292",
+		"primary_title": "Pitch Perfect 2",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Comedy,Music",
+		"directors": [
+			"Elizabeth Banks"
+		],
+		"writers": [
+			"Kay Cannon",
+			"Mickey Rapkin"
+		]
+	},
+	{
+		"tconst": "tt1981677",
+		"primary_title": "Pitch Perfect",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Comedy,Music,Romance",
+		"directors": [
+			"Jason Moore"
+		],
+		"writers": [
+			"Kay Cannon",
+			"Mickey Rapkin"
+		]
+	},
+	{
+		"tconst": "tt0120338",
+		"primary_title": "Titanic",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 194,
+		"genres": "Drama,Romance",
+		"directors": [
+			"James Cameron"
+		],
+		"writers": [
+			"James Cameron"
+		]
+	},
+	{
+		"tconst": "tt0243155",
+		"primary_title": "Bridget Jones's Diary",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 97,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Sharon Maguire"
+		],
+		"writers": [
+			"Helen Fielding",
+			"Andrew Davies",
+			"Richard Curtis"
+		]
+	},
+	{
+		"tconst": "tt3778644",
+		"primary_title": "Solo: A Star Wars Story",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 135,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Ron Howard"
+		],
+		"writers": [
+			"Jonathan Kasdan",
+			"Lawrence Kasdan",
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt0458339",
+		"primary_title": "Captain America: The First Avenger",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Joe Johnston"
+		],
+		"writers": [
+			"Christopher Markus",
+			"Stephen McFeely",
+			"Joe Simon",
+			"Jack Kirby"
+		]
+	},
+	{
+		"tconst": "tt0105793",
+		"primary_title": "Wayne's World",
+		"start_year": 1992,
+		"end_year": null,
+		"runtime_minutes": 94,
+		"genres": "Comedy,Music",
+		"directors": [
+			"Penelope Spheeris"
+		],
+		"writers": [
+			"Mike Myers",
+			"Bonnie Turner",
+			"Terry Turner"
+		]
+	},
+	{
+		"tconst": "tt8079248",
+		"primary_title": "Yesterday",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Comedy,Fantasy,Music",
+		"directors": [
+			"Danny Boyle"
+		],
+		"writers": [
+			"Jack Barth",
+			"Richard Curtis"
+		]
+	},
+	{
+		"tconst": "tt1843866",
+		"primary_title": "Captain America: The Winter Soldier",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Anthony Russo",
+			"Joe Russo"
+		],
+		"writers": [
+			"Christopher Markus",
+			"Stephen McFeely",
+			"Jack Kirby",
+			"Gene Colan",
+			"Stan Lee",
+			"Brian Michael Bendis",
+			"Don Heck",
+			"Steve Epting",
+			"Kieron Dwyer",
+			"Don Rico",
+			"Bob Harras",
+			"Dick Ayers",
+			"Ed Brubaker",
+			"David Finch",
+			"Mark Gruenwald",
+			"Paul Neary",
+			"Michael Lark",
+			"Howard Purcell",
+			"Joe Simon"
+		]
+	},
+	{
+		"tconst": "tt5688932",
+		"primary_title": "Sorry to Bother You",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Comedy,Fantasy,Sci-Fi",
+		"directors": [
+			"Boots Riley"
+		],
+		"writers": [
+			"Boots Riley"
+		]
+	},
+	{
+		"tconst": "tt0372183",
+		"primary_title": "The Bourne Supremacy",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Action,Thriller",
+		"directors": [
+			"Paul Greengrass"
+		],
+		"writers": [
+			"Robert Ludlum",
+			"Tony Gilroy"
+		]
+	},
+	{
+		"tconst": "tt0338013",
+		"primary_title": "Eternal Sunshine of the Spotless Mind",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Drama,Romance,Sci-Fi",
+		"directors": [
+			"Michel Gondry"
+		],
+		"writers": [
+			"Charlie Kaufman",
+			"Michel Gondry",
+			"Pierre Bismuth"
+		]
+	},
+	{
+		"tconst": "tt1515091",
+		"primary_title": "Sherlock Holmes: A Game of Shadows",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 129,
+		"genres": "Action,Adventure,Crime",
+		"directors": [
+			"Guy Ritchie"
+		],
+		"writers": [
+			"Michele Mulroney",
+			"Kieran Mulroney",
+			"Arthur Conan Doyle"
+		]
+	},
+	{
+		"tconst": "tt1335975",
+		"primary_title": "47 Ronin",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Action,Adventure,Drama",
+		"directors": [
+			"Carl Rinsch"
+		],
+		"writers": [
+			"Walter Hamada",
+			"Hossein Amini",
+			"Chris Morgan"
+		]
+	},
+	{
+		"tconst": "tt1979376",
+		"primary_title": "Toy Story 4",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Josh Cooley"
+		],
+		"writers": [
+			"John Lasseter",
+			"Andrew Stanton",
+			"Pete Docter",
+			"Lee Unkrich",
+			"Will McCormack",
+			"Stephany Folsom"
+		]
+	},
+	{
+		"tconst": "tt3640424",
+		"primary_title": "Allied",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Drama,Romance",
+		"directors": [
+			"Robert Zemeckis"
+		],
+		"writers": [
+			"Steven Knight"
+		]
+	},
+	{
+		"tconst": "tt0440963",
+		"primary_title": "The Bourne Ultimatum",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Mystery,Thriller",
+		"directors": [
+			"Paul Greengrass"
+		],
+		"writers": [
+			"Tony Gilroy",
+			"Scott Z. Burns",
+			"Robert Ludlum",
+			"George Nolfi"
+		]
+	},
+	{
+		"tconst": "tt0328880",
+		"primary_title": "Brother Bear",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 85,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Aaron Blaise",
+			"Robert Walker"
+		],
+		"writers": [
+			"Tab Murphy",
+			"Lorne Cameron",
+			"David Hoselton",
+			"Steve Bencich",
+			"Ron J. Friedman",
+			"Stephen J. Anderson",
+			"Stevie Wermers",
+			"KevinDeters",
+			"Woody Woodman",
+			"Thom Enriquez",
+			"Kevin Harkey",
+			"Broose Johnson",
+			"John Norton",
+			"John Puglisi",
+			"Tom LaBaff",
+			"Ray Shenusay",
+			"Brian Pimental",
+			"Jim Story",
+			"Don Dougherty",
+			"Don Hall",
+			"Samuel Levine",
+			"Aurian Redson",
+			"Chris Williams",
+			"Jeff Hand",
+			"Tim Hodge"
+		]
+	},
+	{
+		"tconst": "tt2096673",
+		"primary_title": "Inside Out",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 95,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Ronnie Del Carmen",
+			"Pete Docter"
+		],
+		"writers": [
+			"Ronnie Del Carmen",
+			"Pete Docter",
+			"Meg LeFauve",
+			"Josh Cooley",
+			"Bill Hader",
+			"Michael Arndt",
+			"Simon Rich",
+			"Amy Poehler"
+		]
+	},
+	{
+		"tconst": "tt5463162",
+		"primary_title": "Deadpool 2",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"David Leitch"
+		],
+		"writers": [
+			"Rhett Reese",
+			"Paul Wernick",
+			"Ryan Reynolds",
+			"Jack Kirby",
+			"Stan Lee",
+			"Rob Liefeld",
+			"Louise Simonson",
+			"Bob Layton",
+			"Fabian Nicieza",
+			"Jackson Guice",
+			"Klaus Janson",
+			"Rick Leonardi",
+			"Chris Claremont",
+			"Dave Cockrum",
+			"Len Wein"
+		]
+	},
+	{
+		"tconst": "tt0234215",
+		"primary_title": "The Matrix Reloaded",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 138,
+		"genres": "Action,Sci-Fi",
+		"directors": [
+			"Lilly Wachowski",
+			"Lana Wachowski"
+		],
+		"writers": [
+			"Lilly Wachowski",
+			"Lana Wachowski"
+		]
+	},
+	{
+		"tconst": "tt0181689",
+		"primary_title": "Minority Report",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 145,
+		"genres": "Action,Adventure,Crime",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Philip K. Dick",
+			"Scott Frank",
+			"Jon Cohen"
+		]
+	},
+	{
+		"tconst": "tt0356910",
+		"primary_title": "Mr. & Mrs. Smith",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 120,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Doug Liman"
+		],
+		"writers": [
+			"Simon Kinberg"
+		]
+	},
+	{
+		"tconst": "tt0362227",
+		"primary_title": "The Terminal",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Andrew Niccol",
+			"Sacha Gervasi",
+			"Jeff Nathanson"
+		]
+	},
+	{
+		"tconst": "tt9358204",
+		"primary_title": "The Great Hack",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Documentary",
+		"directors": [
+			"Karim Amer",
+			"Jehane Noujaim"
+		],
+		"writers": [
+			"Karim Amer",
+			"Pedro Kos",
+			"Erin Barnett"
+		]
+	},
+	{
+		"tconst": "tt1727824",
+		"primary_title": "Bohemian Rhapsody",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Biography,Drama,Music",
+		"directors": [
+			"Bryan Singer"
+		],
+		"writers": [
+			"Peter Morgan",
+			"Anthony McCarten"
+		]
+	},
+	{
+		"tconst": "tt0078748",
+		"primary_title": "Alien",
+		"start_year": 1979,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Horror,Sci-Fi",
+		"directors": [
+			"Ridley Scott"
+		],
+		"writers": [
+			"Dan O'Bannon",
+			"Ronald Shusett"
+		]
+	},
+	{
+		"tconst": "tt1485796",
+		"primary_title": "The Greatest Showman",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Biography,Drama,Musical",
+		"directors": [
+			"Michael Gracey"
+		],
+		"writers": [
+			"Jenny Bicks",
+			"Bill Condon"
+		]
+	},
+	{
+		"tconst": "tt1772341",
+		"primary_title": "Wreck-It Ralph",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Rich Moore"
+		],
+		"writers": [
+			"Rich Moore",
+			"Phil Johnston",
+			"Jim Reardon",
+			"Jennifer Lee",
+			"John C. Reilly",
+			"Sam Levine",
+			"Jared Stern",
+			"Ed Boon",
+			"Warren Davis",
+			"Yôichi Kotabe",
+			"Shigeru Miyamoto",
+			"Yuji Naka",
+			"John Tobias",
+			"Toru Iwatani",
+			"Noritaka Funamizu",
+			"Naoto Ohshima",
+			"Hirokazu Yasuhara",
+			"Akira Yasuda",
+			"Takashi Nishiyama",
+			"Hiroshi Matsumoto",
+			"Akira Nishitani",
+			"Haruo Murata",
+			"Manabu Takemura",
+			"Bengus",
+			"Jeff Lee",
+			"Steve Meyer",
+			"Scott Morrison"
+		]
+	},
+	{
+		"tconst": "tt0355295",
+		"primary_title": "The Brothers Grimm",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Adventure,Comedy,Fantasy",
+		"directors": [
+			"Terry Gilliam"
+		],
+		"writers": [
+			"Ehren Kruger"
+		]
+	},
+	{
+		"tconst": "tt0057546",
+		"primary_title": "The Sword in the Stone",
+		"start_year": 1963,
+		"end_year": null,
+		"runtime_minutes": 79,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Wolfgang Reitherman"
+		],
+		"writers": [
+			"Bill Peet",
+			"T.H. White"
+		]
+	},
+	{
+		"tconst": "tt1276104",
+		"primary_title": "Looper",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Action,Crime,Drama",
+		"directors": [
+			"Rian Johnson"
+		],
+		"writers": [
+			"Rian Johnson"
+		]
+	},
+	{
+		"tconst": "tt3263904",
+		"primary_title": "Sully",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 96,
+		"genres": "Biography,Drama",
+		"directors": [
+			"Clint Eastwood"
+		],
+		"writers": [
+			"Todd Komarnicki",
+			"Jeffrey Zaslow",
+			"Chesley Sullenberger"
+		]
+	},
+	{
+		"tconst": "tt4649466",
+		"primary_title": "Kingsman: The Golden Circle",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 141,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Matthew Vaughn"
+		],
+		"writers": [
+			"Jane Goldman",
+			"Matthew Vaughn",
+			"Mark Millar",
+			"Dave Gibbons"
+		]
+	},
+	{
+		"tconst": "tt0383574",
+		"primary_title": "Pirates of the Caribbean: Dead Man's Chest",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 151,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Gore Verbinski"
+		],
+		"writers": [
+			"Ted Elliott",
+			"Terry Rossio",
+			"Stuart Beattie",
+			"Jay Wolpert"
+		]
+	},
+	{
+		"tconst": "tt3498820",
+		"primary_title": "Captain America: Civil War",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 147,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Anthony Russo",
+			"Joe Russo"
+		],
+		"writers": [
+			"Christopher Markus",
+			"Stephen McFeely",
+			"Joe Simon",
+			"Jack Kirby",
+			"Mark Millar",
+			"Steven McNiven"
+		]
+	},
+	{
+		"tconst": "tt0385004",
+		"primary_title": "House of Flying Daggers",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Action,Adventure,Drama",
+		"directors": [
+			"Yimou Zhang"
+		],
+		"writers": [
+			"Feng Li",
+			"Bin Wang",
+			"Yimou Zhang"
+		]
+	},
+	{
+		"tconst": "tt3460252",
+		"primary_title": "The Hateful Eight",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 187,
+		"genres": "Crime,Drama,Mystery",
+		"directors": [
+			"Quentin Tarantino"
+		],
+		"writers": [
+			"Quentin Tarantino"
+		]
+	},
+	{
+		"tconst": "tt0104361",
+		"primary_title": "A Grand Day Out",
+		"start_year": 1989,
+		"end_year": null,
+		"runtime_minutes": 23,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Nick Park"
+		],
+		"writers": [
+			"Nick Park"
+		]
+	},
+	{
+		"tconst": "tt1282140",
+		"primary_title": "Easy A",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 92,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Will Gluck"
+		],
+		"writers": [
+			"Bert V. Royal"
+		]
+	},
+	{
+		"tconst": "tt5431890",
+		"primary_title": "Official Secrets",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Biography,Drama,Thriller",
+		"directors": [
+			"Gavin Hood"
+		],
+		"writers": [
+			"Sara Bernstein",
+			"Gregory Bernstein",
+			"Gavin Hood",
+			"Marcia Mitchell",
+			"Thomas Mitchell"
+		]
+	},
+	{
+		"tconst": "tt1210166",
+		"primary_title": "Moneyball",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 133,
+		"genres": "Biography,Drama,Sport",
+		"directors": [
+			"Bennett Miller"
+		],
+		"writers": [
+			"Aaron Sorkin",
+			"Michael Lewis",
+			"Steven Zaillian",
+			"Stan Chervin"
+		]
+	},
+	{
+		"tconst": "tt0106977",
+		"primary_title": "The Fugitive",
+		"start_year": 1993,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Action,Crime,Drama",
+		"directors": [
+			"Andrew Davis"
+		],
+		"writers": [
+			"Jeb Stuart",
+			"David Twohy",
+			"Roy Huggins"
+		]
+	},
+	{
+		"tconst": "tt0409459",
+		"primary_title": "Watchmen",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 162,
+		"genres": "Action,Drama,Mystery",
+		"directors": [
+			"Zack Snyder"
+		],
+		"writers": [
+			"David Hayter",
+			"Alex Tse",
+			"Dave Gibbons",
+			"Alan Moore"
+		]
+	},
+	{
+		"tconst": "tt1118511",
+		"primary_title": "A Matter of Loaf and Death",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 30,
+		"genres": "Animation,Comedy,Crime",
+		"directors": [
+			"Nick Park"
+		],
+		"writers": [
+			"Nick Park",
+			"Bob Baker"
+		]
+	},
+	{
+		"tconst": "tt0332280",
+		"primary_title": "The Notebook",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 123,
+		"genres": "Drama,Romance",
+		"directors": [
+			"Nick Cassavetes"
+		],
+		"writers": [
+			"Jeremy Leven",
+			"Jan Sardi",
+			"Nicholas Sparks"
+		]
+	},
+	{
+		"tconst": "tt0312004",
+		"primary_title": "The Curse of the Were-Rabbit",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 85,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Steve Box",
+			"Nick Park"
+		],
+		"writers": [
+			"Steve Box",
+			"Nick Park",
+			"Mark Burton",
+			"Bob Baker"
+		]
+	},
+	{
+		"tconst": "tt3960412",
+		"primary_title": "Popstar: Never Stop Never Stopping",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 87,
+		"genres": "Comedy,Music",
+		"directors": [
+			"Akiva Schaffer",
+			"Jorma Taccone"
+		],
+		"writers": [
+			"Akiva Schaffer",
+			"Andy Samberg",
+			"Jorma Taccone"
+		]
+	},
+	{
+		"tconst": "tt0363771",
+		"primary_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 143,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"Andrew Adamson"
+		],
+		"writers": [
+			"Ann Peacock",
+			"Andrew Adamson",
+			"Stephen McFeely",
+			"C.S. Lewis",
+			"Christopher Markus"
+		]
+	},
+	{
+		"tconst": "tt0105417",
+		"primary_title": "Sister Act",
+		"start_year": 1992,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Comedy,Crime,Family",
+		"directors": [
+			"Emile Ardolino"
+		],
+		"writers": [
+			"Paul Rudnick"
+		]
+	},
+	{
+		"tconst": "tt0119528",
+		"primary_title": "Liar Liar",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 86,
+		"genres": "Comedy,Fantasy",
+		"directors": [
+			"Tom Shadyac"
+		],
+		"writers": [
+			"Paul Guay",
+			"Stephen Mazur"
+		]
+	},
+	{
+		"tconst": "tt0295297",
+		"primary_title": "Harry Potter and the Chamber of Secrets",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 161,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"Chris Columbus"
+		],
+		"writers": [
+			"Steve Kloves",
+			"J.K. Rowling"
+		]
+	},
+	{
+		"tconst": "tt0454921",
+		"primary_title": "The Pursuit of Happyness",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Biography,Drama",
+		"directors": [
+			"Gabriele Muccino"
+		],
+		"writers": [
+			"Steve Conrad"
+		]
+	},
+	{
+		"tconst": "tt0097351",
+		"primary_title": "Field of Dreams",
+		"start_year": 1989,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Drama,Family,Fantasy",
+		"directors": [
+			"Phil Alden Robinson"
+		],
+		"writers": [
+			"W.P. Kinsella",
+			"Phil Alden Robinson"
+		]
+	},
+	{
+		"tconst": "tt0090555",
+		"primary_title": "Crocodile Dundee",
+		"start_year": 1986,
+		"end_year": null,
+		"runtime_minutes": 97,
+		"genres": "Adventure,Comedy",
+		"directors": [
+			"Peter Faiman"
+		],
+		"writers": [
+			"Ken Shadie",
+			"John Cornell",
+			"Paul Hogan"
+		]
+	},
+	{
+		"tconst": "tt0120746",
+		"primary_title": "The Mask of Zorro",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Martin Campbell"
+		],
+		"writers": [
+			"Johnston McCulley",
+			"Ted Elliott",
+			"Randall Jahnson",
+			"Terry Rossio",
+			"John Eskow"
+		]
+	},
+	{
+		"tconst": "tt1219827",
+		"primary_title": "Ghost in the Shell",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Drama,Sci-Fi",
+		"directors": [
+			"Rupert Sanders"
+		],
+		"writers": [
+			"Shirow Masamune",
+			"Jamie Moss",
+			"Ehren Kruger",
+			"William Wheeler"
+		]
+	},
+	{
+		"tconst": "tt2294629",
+		"primary_title": "Frozen",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 102,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Chris Buck",
+			"Jennifer Lee"
+		],
+		"writers": [
+			"Jennifer Lee",
+			"Hans Christian Andersen",
+			"Chris Buck",
+			"Shane Morris"
+		]
+	},
+	{
+		"tconst": "tt3569230",
+		"primary_title": "Legend",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 132,
+		"genres": "Biography,Crime,Drama",
+		"directors": [
+			"Brian Helgeland"
+		],
+		"writers": [
+			"Brian Helgeland",
+			"John Pearson"
+		]
+	},
+	{
+		"tconst": "tt1535109",
+		"primary_title": "Captain Phillips",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 134,
+		"genres": "Biography,Drama,Thriller",
+		"directors": [
+			"Paul Greengrass"
+		],
+		"writers": [
+			"Richard Phillips",
+			"Billy Ray",
+			"Stephan Talty"
+		]
+	},
+	{
+		"tconst": "tt0418763",
+		"primary_title": "Jarhead",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 125,
+		"genres": "Biography,Drama,War",
+		"directors": [
+			"Sam Mendes"
+		],
+		"writers": [
+			"Anthony Swofford",
+			"William Broyles Jr."
+		]
+	},
+	{
+		"tconst": "tt0780536",
+		"primary_title": "In Bruges",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Comedy,Crime,Drama",
+		"directors": [
+			"Martin McDonagh"
+		],
+		"writers": [
+			"Martin McDonagh"
+		]
+	},
+	{
+		"tconst": "tt0114369",
+		"primary_title": "Se7en",
+		"start_year": 1995,
+		"end_year": null,
+		"runtime_minutes": 127,
+		"genres": "Crime,Drama,Mystery",
+		"directors": [
+			"David Fincher"
+		],
+		"writers": [
+			"Andrew Kevin Walker"
+		]
+	},
+	{
+		"tconst": "tt0078788",
+		"primary_title": "Apocalypse Now",
+		"start_year": 1979,
+		"end_year": null,
+		"runtime_minutes": 147,
+		"genres": "Drama,War",
+		"directors": [
+			"Francis Ford Coppola"
+		],
+		"writers": [
+			"John Milius",
+			"Francis Ford Coppola",
+			"Michael Herr",
+			"Joseph Conrad"
+		]
+	},
+	{
+		"tconst": "tt0093058",
+		"primary_title": "Full Metal Jacket",
+		"start_year": 1987,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Drama,War",
+		"directors": [
+			"Stanley Kubrick"
+		],
+		"writers": [
+			"Stanley Kubrick",
+			"Michael Herr",
+			"Gustav Hasford"
+		]
+	},
+	{
+		"tconst": "tt5013056",
+		"primary_title": "Dunkirk",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Action,Drama,History",
+		"directors": [
+			"Christopher Nolan"
+		],
+		"writers": [
+			"Christopher Nolan"
+		]
+	},
+	{
+		"tconst": "tt0399295",
+		"primary_title": "Lord of War",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 122,
+		"genres": "Crime,Drama,Thriller",
+		"directors": [
+			"Andrew Niccol"
+		],
+		"writers": [
+			"Andrew Niccol"
+		]
+	},
+	{
+		"tconst": "tt1528071",
+		"primary_title": "Horns",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 120,
+		"genres": "Crime,Drama,Fantasy",
+		"directors": [
+			"Alexandre Aja"
+		],
+		"writers": [
+			"Joe Hill",
+			"Keith Bunin"
+		]
+	},
+	{
+		"tconst": "tt0119282",
+		"primary_title": "Hercules",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"John Musker",
+			"Ron Clements"
+		],
+		"writers": [
+			"Ron Clements",
+			"John Musker",
+			"Don McEnery",
+			"Bob Shaw",
+			"Irene Mecchi",
+			"Kaan Kalyon",
+			"Kelly Wightman",
+			"Randy Cartwright",
+			"John Ramirez",
+			"Jeff Snow",
+			"Vance Gerry",
+			"Kirk Hanson",
+			"Tamara Lusher Stocker",
+			"Francis Glebas",
+			"Don Dougherty",
+			"Thom Enriquez",
+			"Mark Kennedy",
+			"Bruce Morris"
+		]
+	},
+	{
+		"tconst": "tt0145487",
+		"primary_title": "Spider-Man",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 121,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Sam Raimi"
+		],
+		"writers": [
+			"Steve Ditko",
+			"David Koepp",
+			"Stan Lee"
+		]
+	},
+	{
+		"tconst": "tt0945513",
+		"primary_title": "Source Code",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Mystery,Romance,Sci-Fi",
+		"directors": [
+			"Duncan Jones"
+		],
+		"writers": [
+			"Ben Ripley"
+		]
+	},
+	{
+		"tconst": "tt0116704",
+		"primary_title": "Police Story 4: First Strike",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Stanley Tong"
+		],
+		"writers": [
+			"Greg Mellott",
+			"Elliot Tong",
+			"Stanley Tong",
+			"Nick Tramontane"
+		]
+	},
+	{
+		"tconst": "tt1266029",
+		"primary_title": "Nowhere Boy",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Biography,Drama,Music",
+		"directors": [
+			"Sam Taylor-Johnson"
+		],
+		"writers": [
+			"Julia Baird",
+			"Matt Greenhalgh"
+		]
+	},
+	{
+		"tconst": "tt0393162",
+		"primary_title": "Coach Carter",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Biography,Drama,Sport",
+		"directors": [
+			"Thomas Carter"
+		],
+		"writers": [
+			"Mark Schwahn",
+			"John Gatins"
+		]
+	},
+	{
+		"tconst": "tt0119190",
+		"primary_title": "George of the Jungle",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 92,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Sam Weisman"
+		],
+		"writers": [
+			"Jay Ward",
+			"Dana Olsen",
+			"Audrey Wells"
+		]
+	},
+	{
+		"tconst": "tt1392190",
+		"primary_title": "Mad Max: Fury Road",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 120,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"George Miller"
+		],
+		"writers": [
+			"George Miller",
+			"Brendan McCarthy",
+			"Nick Lathouris",
+			"Byron Kennedy"
+		]
+	},
+	{
+		"tconst": "tt0108598",
+		"primary_title": "The Wrong Trousers",
+		"start_year": 1993,
+		"end_year": null,
+		"runtime_minutes": 30,
+		"genres": "Animation,Comedy,Crime",
+		"directors": [
+			"Nick Park"
+		],
+		"writers": [
+			"Bob Baker",
+			"Brian Sibley",
+			"Nick Park"
+		]
+	},
+	{
+		"tconst": "tt1228705",
+		"primary_title": "Iron Man 2",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Jon Favreau"
+		],
+		"writers": [
+			"Justin Theroux",
+			"Stan Lee",
+			"Don Heck",
+			"Larry Lieber",
+			"Jack Kirby"
+		]
+	},
+	{
+		"tconst": "tt0335266",
+		"primary_title": "Lost in Translation",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 102,
+		"genres": "Drama",
+		"directors": [
+			"Sofia Coppola"
+		],
+		"writers": [
+			"Sofia Coppola"
+		]
+	},
+	{
+		"tconst": "tt0118715",
+		"primary_title": "The Big Lebowski",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Comedy,Crime",
+		"directors": [
+			"Joel Coen",
+			"Ethan Coen"
+		],
+		"writers": [
+			"Ethan Coen",
+			"Joel Coen"
+		]
+	},
+	{
+		"tconst": "tt1340800",
+		"primary_title": "Tinker Tailor Soldier Spy",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 122,
+		"genres": "Drama,Mystery,Thriller",
+		"directors": [
+			"Tomas Alfredson"
+		],
+		"writers": [
+			"Bridget O'Connor",
+			"Peter Straughan",
+			"John le Carré"
+		]
+	},
+	{
+		"tconst": "tt2911666",
+		"primary_title": "John Wick",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Action,Crime,Thriller",
+		"directors": [
+			"Chad Stahelski",
+			"David Leitch"
+		],
+		"writers": [
+			"Derek Kolstad"
+		]
+	},
+	{
+		"tconst": "tt0095953",
+		"primary_title": "Rain Man",
+		"start_year": 1988,
+		"end_year": null,
+		"runtime_minutes": 133,
+		"genres": "Drama",
+		"directors": [
+			"Barry Levinson"
+		],
+		"writers": [
+			"Ronald Bass",
+			"Barry Morrow"
+		]
+	},
+	{
+		"tconst": "tt0467406",
+		"primary_title": "Juno",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 96,
+		"genres": "Comedy,Drama",
+		"directors": [
+			"Jason Reitman"
+		],
+		"writers": [
+			"Diablo Cody"
+		]
+	},
+	{
+		"tconst": "tt0080339",
+		"primary_title": "Airplane!",
+		"start_year": 1980,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Comedy",
+		"directors": [
+			"David Zucker",
+			"Jerry Zucker",
+			"Jim Abrahams"
+		],
+		"writers": [
+			"Jim Abrahams",
+			"David Zucker",
+			"Jerry Zucker",
+			"Hall Bartlett",
+			"John C. Champion",
+			"Arthur Hailey"
+		]
+	},
+	{
+		"tconst": "tt0120812",
+		"primary_title": "Rush Hour",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Brett Ratner"
+		],
+		"writers": [
+			"Ross LaManna",
+			"Jim Kouf"
+		]
+	},
+	{
+		"tconst": "tt9358052",
+		"primary_title": "Knock Down the House",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 86,
+		"genres": "Documentary",
+		"directors": [
+			"Rachel Lears"
+		],
+		"writers": []
+	},
+	{
+		"tconst": "tt0787524",
+		"primary_title": "The Man Who Knew Infinity",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Biography,Drama",
+		"directors": [
+			"Matt Brown"
+		],
+		"writers": [
+			"Matt Brown",
+			"Robert Kanigel"
+		]
+	},
+	{
+		"tconst": "tt1430626",
+		"primary_title": "The Pirates! Band of Misfits",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Jeff Newitt",
+			"Peter Lord"
+		],
+		"writers": [
+			"Gideon Defoe"
+		]
+	},
+	{
+		"tconst": "tt0094012",
+		"primary_title": "Spaceballs",
+		"start_year": 1987,
+		"end_year": null,
+		"runtime_minutes": 96,
+		"genres": "Adventure,Comedy,Sci-Fi",
+		"directors": [
+			"Mel Brooks"
+		],
+		"writers": [
+			"Mel Brooks",
+			"Thomas Meehan",
+			"Ronny Graham"
+		]
+	},
+	{
+		"tconst": "tt0217869",
+		"primary_title": "Unbreakable",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Drama,Mystery,Sci-Fi",
+		"directors": [
+			"M. Night Shyamalan"
+		],
+		"writers": [
+			"M. Night Shyamalan"
+		]
+	},
+	{
+		"tconst": "tt0265666",
+		"primary_title": "The Royal Tenenbaums",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 110,
+		"genres": "Comedy,Drama",
+		"directors": [
+			"Wes Anderson"
+		],
+		"writers": [
+			"Owen Wilson",
+			"Wes Anderson"
+		]
+	},
+	{
+		"tconst": "tt6921996",
+		"primary_title": "Johnny English Strikes Again",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"David Kerr"
+		],
+		"writers": [
+			"Neal Purvis",
+			"Robert Wade"
+		]
+	},
+	{
+		"tconst": "tt0114148",
+		"primary_title": "Pocahontas",
+		"start_year": 1995,
+		"end_year": null,
+		"runtime_minutes": 81,
+		"genres": "Adventure,Animation,Drama",
+		"directors": [
+			"Mike Gabriel",
+			"Eric Goldberg"
+		],
+		"writers": [
+			"Carl Binder",
+			"Susannah Grant",
+			"Philip LaZebnik",
+			"Glen Keane",
+			"Joe Grant",
+			"Ralph Zondag",
+			"Burny Mattinson",
+			"Ed Gombert",
+			"Kaan Kalyon",
+			"Francis Glebas",
+			"Rob Gibbs",
+			"Bruce Morris",
+			"Todd Kurosawa",
+			"Duncan Marjoribanks",
+			"Chris Buck",
+			"Mike Gabriel",
+			"Andrew Chapman",
+			"Randy Cartwright",
+			"Will Finn",
+			"Broose Johnson",
+			"T. Daniel Hofstedt",
+			"David Pruiksma",
+			"Nik Ranieri",
+			"Vincent DeFrances",
+			"Tom Mazzocco",
+			"Don Dougherty",
+			"Jorgen Klubien"
+		]
+	},
+	{
+		"tconst": "tt0368891",
+		"primary_title": "National Treasure",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 131,
+		"genres": "Action,Adventure,Family",
+		"directors": [
+			"Jon Turteltaub"
+		],
+		"writers": [
+			"Cormac Wibberley",
+			"Marianne Wibberley",
+			"Oren Aviv",
+			"Charles Segars",
+			"Jim Kouf"
+		]
+	},
+	{
+		"tconst": "tt0117060",
+		"primary_title": "Mission: Impossible",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 110,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Brian De Palma"
+		],
+		"writers": [
+			"Bruce Geller",
+			"David Koepp",
+			"Steven Zaillian",
+			"Robert Towne"
+		]
+	},
+	{
+		"tconst": "tt0373889",
+		"primary_title": "Harry Potter and the Order of the Phoenix",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 138,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"David Yates"
+		],
+		"writers": [
+			"J.K. Rowling",
+			"Michael Goldenberg"
+		]
+	},
+	{
+		"tconst": "tt1504320",
+		"primary_title": "The King's Speech",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Biography,Drama,History",
+		"directors": [
+			"Tom Hooper"
+		],
+		"writers": [
+			"David Seidler"
+		]
+	},
+	{
+		"tconst": "tt5052448",
+		"primary_title": "Get Out",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 104,
+		"genres": "Horror,Mystery,Thriller",
+		"directors": [
+			"Jordan Peele"
+		],
+		"writers": [
+			"Jordan Peele"
+		]
+	},
+	{
+		"tconst": "tt4139588",
+		"primary_title": "Polar",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Action,Crime,Drama",
+		"directors": [
+			"Jonas Åkerlund"
+		],
+		"writers": [
+			"Jayson Rothwell",
+			"Víctor Santos"
+		]
+	},
+	{
+		"tconst": "tt4701724",
+		"primary_title": "Early Man",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 89,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Nick Park"
+		],
+		"writers": [
+			"Mark Burton",
+			"James Higginson",
+			"Nick Park"
+		]
+	},
+	{
+		"tconst": "tt0134847",
+		"primary_title": "Pitch Black",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 109,
+		"genres": "Horror,Sci-Fi",
+		"directors": [
+			"David Twohy"
+		],
+		"writers": [
+			"Jim Wheat",
+			"Ken Wheat",
+			"David Twohy"
+		]
+	},
+	{
+		"tconst": "tt0146316",
+		"primary_title": "Lara Croft: Tomb Raider",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Simon West"
+		],
+		"writers": [
+			"Sara B. Cooper",
+			"Mike Werb",
+			"Michael Colleary",
+			"Simon West",
+			"Patrick Massett",
+			"John Zinman"
+		]
+	},
+	{
+		"tconst": "tt6823368",
+		"primary_title": "Glass",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 129,
+		"genres": "Drama,Mystery,Sci-Fi",
+		"directors": [
+			"M. Night Shyamalan"
+		],
+		"writers": [
+			"M. Night Shyamalan"
+		]
+	},
+	{
+		"tconst": "tt0926084",
+		"primary_title": "Harry Potter and the Deathly Hallows: Part 1",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 146,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"David Yates"
+		],
+		"writers": [
+			"Steve Kloves",
+			"J.K. Rowling"
+		]
+	},
+	{
+		"tconst": "tt1201607",
+		"primary_title": "Harry Potter and the Deathly Hallows: Part 2",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Adventure,Drama,Fantasy",
+		"directors": [
+			"David Yates"
+		],
+		"writers": [
+			"Steve Kloves",
+			"J.K. Rowling"
+		]
+	},
+	{
+		"tconst": "tt0381971",
+		"primary_title": "Curious George",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 87,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Matthew O'Callaghan"
+		],
+		"writers": [
+			"Ken Kaufman",
+			"Mike Werb",
+			"Margret Rey",
+			"H.A. Rey"
+		]
+	},
+	{
+		"tconst": "tt0299977",
+		"primary_title": "Hero",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Adventure,History",
+		"directors": [
+			"Yimou Zhang"
+		],
+		"writers": [
+			"Feng Li",
+			"Yimou Zhang",
+			"Bin Wang"
+		]
+	},
+	{
+		"tconst": "tt4972582",
+		"primary_title": "Split",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Horror,Thriller",
+		"directors": [
+			"M. Night Shyamalan"
+		],
+		"writers": [
+			"M. Night Shyamalan"
+		]
+	},
+	{
+		"tconst": "tt1320253",
+		"primary_title": "The Expendables",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Sylvester Stallone"
+		],
+		"writers": [
+			"Dave Callaham",
+			"Sylvester Stallone"
+		]
+	},
+	{
+		"tconst": "tt0102057",
+		"primary_title": "Hook",
+		"start_year": 1991,
+		"end_year": null,
+		"runtime_minutes": 142,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"J.M. Barrie",
+			"Malia Scotch Marmo",
+			"James V. Hart",
+			"Nick Castle"
+		]
+	},
+	{
+		"tconst": "tt3631112",
+		"primary_title": "The Girl on the Train",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Crime,Drama,Mystery",
+		"directors": [
+			"Tate Taylor"
+		],
+		"writers": [
+			"Erin Cressida Wilson",
+			"Paula Hawkins"
+		]
+	},
+	{
+		"tconst": "tt4302938",
+		"primary_title": "Kubo and the Two Strings",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Travis Knight"
+		],
+		"writers": [
+			"Marc Haimes",
+			"Chris Butler",
+			"Shannon Tindle"
+		]
+	},
+	{
+		"tconst": "tt3361792",
+		"primary_title": "Tolkien",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Biography,Drama",
+		"directors": [
+			"Dome Karukoski"
+		],
+		"writers": [
+			"David Gleeson",
+			"Stephen Beresford"
+		]
+	},
+	{
+		"tconst": "tt0079470",
+		"primary_title": "Monty Python's Life of Brian",
+		"start_year": 1979,
+		"end_year": null,
+		"runtime_minutes": 94,
+		"genres": "Comedy",
+		"directors": [
+			"Terry Jones"
+		],
+		"writers": [
+			"Graham Chapman",
+			"John Cleese",
+			"Terry Jones",
+			"Eric Idle",
+			"Terry Gilliam",
+			"Michael Palin"
+		]
+	},
+	{
+		"tconst": "tt0325703",
+		"primary_title": "Lara Croft Tomb Raider: The Cradle of Life",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Jan de Bont"
+		],
+		"writers": [
+			"Dean Georgaris",
+			"Steven E. de Souza",
+			"James V. Hart"
+		]
+	},
+	{
+		"tconst": "tt1634122",
+		"primary_title": "Johnny English Reborn",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Oliver Parker"
+		],
+		"writers": [
+			"Hamish McColl",
+			"William Davies",
+			"Neal Purvis",
+			"Robert Wade"
+		]
+	},
+	{
+		"tconst": "tt0080455",
+		"primary_title": "The Blues Brothers",
+		"start_year": 1980,
+		"end_year": null,
+		"runtime_minutes": 133,
+		"genres": "Adventure,Comedy,Crime",
+		"directors": [
+			"John Landis"
+		],
+		"writers": [
+			"Dan Aykroyd",
+			"John Landis"
+		]
+	},
+	{
+		"tconst": "tt3062096",
+		"primary_title": "Inferno",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 121,
+		"genres": "Action,Adventure,Crime",
+		"directors": [
+			"Ron Howard"
+		],
+		"writers": [
+			"David Koepp",
+			"Dan Brown"
+		]
+	},
+	{
+		"tconst": "tt0800369",
+		"primary_title": "Thor",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Kenneth Branagh"
+		],
+		"writers": [
+			"Ashley Miller",
+			"Zack Stentz",
+			"Don Payne",
+			"J. Michael Straczynski",
+			"Mark Protosevich",
+			"Stan Lee",
+			"Larry Lieber",
+			"Jack Kirby"
+		]
+	},
+	{
+		"tconst": "tt4287320",
+		"primary_title": "The Circle",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 110,
+		"genres": "Drama,Sci-Fi,Thriller",
+		"directors": [
+			"James Ponsoldt"
+		],
+		"writers": [
+			"James Ponsoldt",
+			"Dave Eggers"
+		]
+	},
+	{
+		"tconst": "tt0316654",
+		"primary_title": "Spider-Man 2",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 127,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Sam Raimi"
+		],
+		"writers": [
+			"Stan Lee",
+			"Steve Ditko",
+			"Alfred Gough",
+			"Miles Millar",
+			"Michael Chabon",
+			"Alvin Sargent"
+		]
+	},
+	{
+		"tconst": "tt0448157",
+		"primary_title": "Hancock",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 92,
+		"genres": "Action,Drama,Sci-Fi",
+		"directors": [
+			"Peter Berg"
+		],
+		"writers": [
+			"Vincent Ngo",
+			"Vince Gilligan"
+		]
+	},
+	{
+		"tconst": "tt6574146",
+		"primary_title": "Blame!",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Action,Animation,Drama",
+		"directors": [
+			"Hiroyuki Seshita"
+		],
+		"writers": [
+			"Sadayuki Murai",
+			"Tsutomu Nihei"
+		]
+	},
+	{
+		"tconst": "tt0266915",
+		"primary_title": "Rush Hour 2",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 90,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Brett Ratner"
+		],
+		"writers": [
+			"Ross LaManna",
+			"Jeff Nathanson"
+		]
+	},
+	{
+		"tconst": "tt0128853",
+		"primary_title": "You've Got Mail",
+		"start_year": 1998,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Nora Ephron"
+		],
+		"writers": [
+			"Miklós László",
+			"Nora Ephron",
+			"Delia Ephron"
+		]
+	},
+	{
+		"tconst": "tt0107048",
+		"primary_title": "Groundhog Day",
+		"start_year": 1993,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Comedy,Fantasy,Romance",
+		"directors": [
+			"Harold Ramis"
+		],
+		"writers": [
+			"Danny Rubin",
+			"Harold Ramis"
+		]
+	},
+	{
+		"tconst": "tt1074638",
+		"primary_title": "Skyfall",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 143,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Sam Mendes"
+		],
+		"writers": [
+			"Neal Purvis",
+			"Ian Fleming",
+			"Robert Wade",
+			"John Logan"
+		]
+	},
+	{
+		"tconst": "tt0494222",
+		"primary_title": "Eagle vs Shark",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Comedy,Romance",
+		"directors": [
+			"Taika Waititi"
+		],
+		"writers": [
+			"Loren Taylor",
+			"Taika Waititi"
+		]
+	},
+	{
+		"tconst": "tt1137450",
+		"primary_title": "Death Wish",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Crime,Drama",
+		"directors": [
+			"Eli Roth"
+		],
+		"writers": [
+			"Brian Garfield",
+			"Joe Carnahan",
+			"Wendell Mayes"
+		]
+	},
+	{
+		"tconst": "tt1139328",
+		"primary_title": "The Ghost Writer",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Drama,Mystery,Thriller",
+		"directors": [
+			"Roman Polanski"
+		],
+		"writers": [
+			"Robert Harris",
+			"Roman Polanski"
+		]
+	},
+	{
+		"tconst": "tt0120912",
+		"primary_title": "Men in Black II",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Barry Sonnenfeld"
+		],
+		"writers": [
+			"Lowell Cunningham",
+			"Robert Gordon",
+			"Barry Fanaro"
+		]
+	},
+	{
+		"tconst": "tt0462538",
+		"primary_title": "The Simpsons Movie",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 87,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"David Silverman"
+		],
+		"writers": [
+			"James L. Brooks",
+			"Matt Groening",
+			"Al Jean",
+			"Ian Maxtone-Graham",
+			"George Meyer",
+			"David Mirkin",
+			"Mike Reiss",
+			"Mike Scully",
+			"Matt Selman",
+			"John Swartzwelder",
+			"Jon Vitti",
+			"Joel H. Cohen",
+			"John Frink",
+			"Tim Long",
+			"Michael Price",
+			"Sam Simon"
+		]
+	},
+	{
+		"tconst": "tt2379713",
+		"primary_title": "Spectre",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 148,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Sam Mendes"
+		],
+		"writers": [
+			"Robert Wade",
+			"Jez Butterworth",
+			"John Logan",
+			"Ian Fleming",
+			"Neal Purvis"
+		]
+	},
+	{
+		"tconst": "tt0116282",
+		"primary_title": "Fargo",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Crime,Drama,Thriller",
+		"directors": [
+			"Joel Coen",
+			"Ethan Coen"
+		],
+		"writers": [
+			"Ethan Coen",
+			"Joel Coen"
+		]
+	},
+	{
+		"tconst": "tt0094226",
+		"primary_title": "The Untouchables",
+		"start_year": 1987,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Crime,Drama,Thriller",
+		"directors": [
+			"Brian De Palma"
+		],
+		"writers": [
+			"Oscar Fraley",
+			"David Mamet",
+			"Eliot Ness"
+		]
+	},
+	{
+		"tconst": "tt0172495",
+		"primary_title": "Gladiator",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 155,
+		"genres": "Action,Adventure,Drama",
+		"directors": [
+			"Ridley Scott"
+		],
+		"writers": [
+			"William Nicholson",
+			"John Logan",
+			"David Franzoni"
+		]
+	},
+	{
+		"tconst": "tt7349662",
+		"primary_title": "BlacKkKlansman",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 135,
+		"genres": "Biography,Comedy,Crime",
+		"directors": [
+			"Spike Lee"
+		],
+		"writers": [
+			"Spike Lee",
+			"Kevin Willmott",
+			"David Rabinowitz",
+			"Ron Stallworth",
+			"Charlie Wachtel"
+		]
+	},
+	{
+		"tconst": "tt0067992",
+		"primary_title": "Willy Wonka & the Chocolate Factory",
+		"start_year": 1971,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Family,Fantasy,Musical",
+		"directors": [
+			"Mel Stuart"
+		],
+		"writers": [
+			"Roald Dahl",
+			"David Seltzer"
+		]
+	},
+	{
+		"tconst": "tt0449059",
+		"primary_title": "Little Miss Sunshine",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Comedy,Drama",
+		"directors": [
+			"Valerie Faris",
+			"Jonathan Dayton"
+		],
+		"writers": [
+			"Michael Arndt"
+		]
+	},
+	{
+		"tconst": "tt1057500",
+		"primary_title": "Invictus",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 134,
+		"genres": "Biography,Drama,History",
+		"directors": [
+			"Clint Eastwood"
+		],
+		"writers": [
+			"Anthony Peckham",
+			"John Carlin"
+		]
+	},
+	{
+		"tconst": "tt0955308",
+		"primary_title": "Robin Hood",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 140,
+		"genres": "Action,Adventure,Drama",
+		"directors": [
+			"Ridley Scott"
+		],
+		"writers": [
+			"Brian Helgeland",
+			"Ethan Reiff",
+			"Cyrus Voris"
+		]
+	},
+	{
+		"tconst": "tt7775622",
+		"primary_title": "Free Solo",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Documentary,Sport",
+		"directors": [
+			"Jimmy Chin",
+			"Elizabeth Chai Vasarhelyi"
+		],
+		"writers": []
+	},
+	{
+		"tconst": "tt0477347",
+		"primary_title": "Night at the Museum",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Shawn Levy"
+		],
+		"writers": [
+			"Robert Ben Garant",
+			"Thomas Lennon",
+			"Milan Trenc"
+		]
+	},
+	{
+		"tconst": "tt0416449",
+		"primary_title": "300",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Action,Fantasy",
+		"directors": [
+			"Zack Snyder"
+		],
+		"writers": [
+			"Zack Snyder",
+			"Kurt Johnstad",
+			"Michael B. Gordon",
+			"Frank Miller",
+			"Lynn Varley"
+		]
+	},
+	{
+		"tconst": "tt1979320",
+		"primary_title": "Rush",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 123,
+		"genres": "Action,Biography,Drama",
+		"directors": [
+			"Ron Howard"
+		],
+		"writers": [
+			"Peter Morgan"
+		]
+	},
+	{
+		"tconst": "tt4912910",
+		"primary_title": "Mission: Impossible - Fallout",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 147,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Christopher McQuarrie"
+		],
+		"writers": [
+			"Christopher McQuarrie",
+			"Bruce Geller"
+		]
+	},
+	{
+		"tconst": "tt2357129",
+		"primary_title": "Jobs",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Biography,Drama",
+		"directors": [
+			"Joshua Michael Stern"
+		],
+		"writers": [
+			"Matt Whiteley"
+		]
+	},
+	{
+		"tconst": "tt1478964",
+		"primary_title": "Attack the Block",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Action,Comedy,Sci-Fi",
+		"directors": [
+			"Joe Cornish"
+		],
+		"writers": [
+			"Joe Cornish"
+		]
+	},
+	{
+		"tconst": "tt0246578",
+		"primary_title": "Donnie Darko",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Drama,Sci-Fi,Thriller",
+		"directors": [
+			"Richard Kelly"
+		],
+		"writers": [
+			"Richard Kelly"
+		]
+	},
+	{
+		"tconst": "tt0296572",
+		"primary_title": "The Chronicles of Riddick",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"David Twohy"
+		],
+		"writers": [
+			"Jim Wheat",
+			"Ken Wheat",
+			"David Twohy"
+		]
+	},
+	{
+		"tconst": "tt0418279",
+		"primary_title": "Transformers",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 144,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Michael Bay"
+		],
+		"writers": [
+			"Roberto Orci",
+			"Alex Kurtzman",
+			"John Rogers"
+		]
+	},
+	{
+		"tconst": "tt2080374",
+		"primary_title": "Steve Jobs",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 122,
+		"genres": "Biography,Drama",
+		"directors": [
+			"Danny Boyle"
+		],
+		"writers": [
+			"Aaron Sorkin",
+			"Walter Isaacson"
+		]
+	},
+	{
+		"tconst": "tt2562232",
+		"primary_title": "Birdman or (The Unexpected Virtue of Ignorance)",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Comedy,Drama",
+		"directors": [
+			"Alejandro G. Iñárritu"
+		],
+		"writers": [
+			"Alejandro G. Iñárritu",
+			"Nicolás Giacobone",
+			"Alexander Dinelaris",
+			"Armando Bo",
+			"Raymond Carver"
+		]
+	},
+	{
+		"tconst": "tt0120755",
+		"primary_title": "Mission: Impossible II",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 123,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"John Woo"
+		],
+		"writers": [
+			"Bruce Geller",
+			"Ronald D. Moore",
+			"Brannon Braga",
+			"Robert Towne"
+		]
+	},
+	{
+		"tconst": "tt2005151",
+		"primary_title": "War Dogs",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 114,
+		"genres": "Comedy,Crime,Drama",
+		"directors": [
+			"Todd Phillips"
+		],
+		"writers": [
+			"Stephen Chin",
+			"Todd Phillips",
+			"Jason Smilovic",
+			"Guy Lawson"
+		]
+	},
+	{
+		"tconst": "tt1336608",
+		"primary_title": "Rock of Ages",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 123,
+		"genres": "Comedy,Drama,Musical",
+		"directors": [
+			"Adam Shankman"
+		],
+		"writers": [
+			"Justin Theroux",
+			"Chris D'Arienzo",
+			"Allan Loeb"
+		]
+	},
+	{
+		"tconst": "tt4686844",
+		"primary_title": "The Death of Stalin",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Comedy,History",
+		"directors": [
+			"Armando Iannucci"
+		],
+		"writers": [
+			"Armando Iannucci",
+			"David Schneider",
+			"Ian Martin",
+			"Peter Fellows",
+			"Fabien Nury",
+			"Thierry Robin"
+		]
+	},
+	{
+		"tconst": "tt0790724",
+		"primary_title": "Jack Reacher",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Action,Crime,Thriller",
+		"directors": [
+			"Christopher McQuarrie"
+		],
+		"writers": [
+			"Christopher McQuarrie",
+			"Lee Child"
+		]
+	},
+	{
+		"tconst": "tt0093409",
+		"primary_title": "Lethal Weapon",
+		"start_year": 1987,
+		"end_year": null,
+		"runtime_minutes": 110,
+		"genres": "Action,Crime,Thriller",
+		"directors": [
+			"Richard Donner"
+		],
+		"writers": [
+			"Shane Black",
+			"Jeffrey Boam"
+		]
+	},
+	{
+		"tconst": "tt1486834",
+		"primary_title": "What If",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Comedy,Romance",
+		"directors": [
+			"Michael Dowse"
+		],
+		"writers": [
+			"Elan Mastai",
+			"T.J. Dawe",
+			"Michael Rinaldi"
+		]
+	},
+	{
+		"tconst": "tt0829482",
+		"primary_title": "Superbad",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Comedy",
+		"directors": [
+			"Greg Mottola"
+		],
+		"writers": [
+			"Seth Rogen",
+			"Evan Goldberg"
+		]
+	},
+	{
+		"tconst": "tt0105204",
+		"primary_title": "A Question of Attribution",
+		"start_year": 1991,
+		"end_year": null,
+		"runtime_minutes": 70,
+		"genres": "Comedy,Crime,Drama",
+		"directors": [
+			"John Schlesinger"
+		],
+		"writers": [
+			"Alan Bennett"
+		]
+	},
+	{
+		"tconst": "tt1365519",
+		"primary_title": "Tomb Raider",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Roar Uthaug"
+		],
+		"writers": [
+			"Geneva Robertson-Dworet",
+			"Alastair Siddons",
+			"Evan Daugherty"
+		]
+	},
+	{
+		"tconst": "tt4425200",
+		"primary_title": "John Wick: Chapter 2",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 122,
+		"genres": "Action,Crime,Thriller",
+		"directors": [
+			"Chad Stahelski"
+		],
+		"writers": [
+			"Derek Kolstad"
+		]
+	},
+	{
+		"tconst": "tt0343818",
+		"primary_title": "I, Robot",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Adventure,Crime",
+		"directors": [
+			"Alex Proyas"
+		],
+		"writers": [
+			"Jeff Vintar",
+			"Akiva Goldsman",
+			"Isaac Asimov"
+		]
+	},
+	{
+		"tconst": "tt0084726",
+		"primary_title": "Star Trek II: The Wrath of Khan",
+		"start_year": 1982,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Nicholas Meyer"
+		],
+		"writers": [
+			"Gene Roddenberry",
+			"Harve Bennett",
+			"Jack B. Sowards",
+			"Nicholas Meyer",
+			"Samuel A. Peeples"
+		]
+	},
+	{
+		"tconst": "tt0120910",
+		"primary_title": "Fantasia 2000",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 75,
+		"genres": "Animation,Comedy,Family",
+		"directors": [
+			"Pixote Hunt",
+			"Don Hahn",
+			"Francis Glebas",
+			"Hendel Butoy",
+			"Paul Brizzi",
+			"Eric Goldberg",
+			"James Algar",
+			"Gaëtan Brizzi"
+		],
+		"writers": [
+			"Eric Goldberg",
+			"Hans Christian Andersen",
+			"Joe Grant",
+			"Perce Pearce",
+			"Carl Fallberg",
+			"Gaëtan Brizzi",
+			"Paul Brizzi",
+			"Don Hahn",
+			"David Reynolds",
+			"Irene Mecchi",
+			"Brenda Chapman",
+			"Elena Driskill"
+		]
+	},
+	{
+		"tconst": "tt1430607",
+		"primary_title": "Arthur Christmas",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 97,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Barry Cook",
+			"Sarah Smith"
+		],
+		"writers": [
+			"Peter Baynham",
+			"Sarah Smith"
+		]
+	},
+	{
+		"tconst": "tt5439796",
+		"primary_title": "Logan Lucky",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Comedy,Crime,Drama",
+		"directors": [
+			"Steven Soderbergh"
+		],
+		"writers": [
+			"Rebecca Blunt"
+		]
+	},
+	{
+		"tconst": "tt0765429",
+		"primary_title": "American Gangster",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 157,
+		"genres": "Biography,Crime,Drama",
+		"directors": [
+			"Ridley Scott"
+		],
+		"writers": [
+			"Steven Zaillian",
+			"Mark Jacobson"
+		]
+	},
+	{
+		"tconst": "tt2140479",
+		"primary_title": "The Accountant",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 128,
+		"genres": "Action,Crime,Drama",
+		"directors": [
+			"Gavin O'Connor"
+		],
+		"writers": [
+			"Bill Dubuque"
+		]
+	},
+	{
+		"tconst": "tt1570728",
+		"primary_title": "Crazy, Stupid, Love.",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Glenn Ficarra",
+			"John Requa"
+		],
+		"writers": [
+			"Dan Fogelman"
+		]
+	},
+	{
+		"tconst": "tt0375912",
+		"primary_title": "Layer Cake",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Crime,Drama,Thriller",
+		"directors": [
+			"Matthew Vaughn"
+		],
+		"writers": [
+			"J.J. Connolly"
+		]
+	},
+	{
+		"tconst": "tt5462602",
+		"primary_title": "The Big Sick",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 120,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Michael Showalter"
+		],
+		"writers": [
+			"Emily V. Gordon",
+			"Kumail Nanjiani"
+		]
+	},
+	{
+		"tconst": "tt6146586",
+		"primary_title": "John Wick: Chapter 3 - Parabellum",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Action,Thriller",
+		"directors": [
+			"Chad Stahelski"
+		],
+		"writers": [
+			"Derek Kolstad",
+			"Marc Abrams",
+			"Shay Hatten",
+			"Chris Collins"
+		]
+	},
+	{
+		"tconst": "tt0075860",
+		"primary_title": "Close Encounters of the Third Kind",
+		"start_year": 1977,
+		"end_year": null,
+		"runtime_minutes": 138,
+		"genres": "Drama,Sci-Fi",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Steven Spielberg",
+			"Hal Barwood",
+			"Jerry Belson",
+			"John Hill",
+			"Matthew Robbins"
+		]
+	},
+	{
+		"tconst": "tt2245084",
+		"primary_title": "Big Hero 6",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 102,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Don Hall",
+			"Chris Williams"
+		],
+		"writers": [
+			"Steven T. Seagle",
+			"Duncan Rouleau",
+			"Chris Claremont",
+			"David Nakayama",
+			"Jordan Roberts",
+			"Robert L. Baird",
+			"Man of Action",
+			"Daniel Gerson"
+		]
+	},
+	{
+		"tconst": "tt0083866",
+		"primary_title": "E.T. the Extra-Terrestrial",
+		"start_year": 1982,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Family,Sci-Fi",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Melissa Mathison"
+		]
+	},
+	{
+		"tconst": "tt1411250",
+		"primary_title": "Riddick",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Action,Sci-Fi,Thriller",
+		"directors": [
+			"David Twohy"
+		],
+		"writers": [
+			"David Twohy",
+			"Jim Wheat",
+			"Ken Wheat"
+		]
+	},
+	{
+		"tconst": "tt2395427",
+		"primary_title": "Avengers: Age of Ultron",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 141,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Joss Whedon"
+		],
+		"writers": [
+			"Joss Whedon",
+			"Stan Lee",
+			"Jack Kirby",
+			"Joe Simon",
+			"Jim Starlin",
+			"Roy Thomas",
+			"John Buscema"
+		]
+	},
+	{
+		"tconst": "tt1454468",
+		"primary_title": "Gravity",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 91,
+		"genres": "Drama,Sci-Fi,Thriller",
+		"directors": [
+			"Alfonso Cuarón"
+		],
+		"writers": [
+			"Alfonso Cuarón",
+			"Jonás Cuarón",
+			"George Clooney"
+		]
+	},
+	{
+		"tconst": "tt0367882",
+		"primary_title": "Indiana Jones and the Kingdom of the Crystal Skull",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 122,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"David Koepp",
+			"George Lucas",
+			"Jeff Nathanson",
+			"Philip Kaufman"
+		]
+	},
+	{
+		"tconst": "tt1650554",
+		"primary_title": "Kick-Ass 2",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Jeff Wadlow"
+		],
+		"writers": [
+			"Jeff Wadlow",
+			"Mark Millar",
+			"John Romita Jr."
+		]
+	},
+	{
+		"tconst": "tt1220719",
+		"primary_title": "Ip Man",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Action,Biography,Drama",
+		"directors": [
+			"Wilson Yip"
+		],
+		"writers": [
+			"Tai-lee Chan",
+			"Edmond Wong"
+		]
+	},
+	{
+		"tconst": "tt2888046",
+		"primary_title": "Ip Man 3",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Action,Biography,Drama",
+		"directors": [
+			"Wilson Yip"
+		],
+		"writers": [
+			"Tai-lee Chan",
+			"Edmond Wong",
+			"Lai-Yin Leung"
+		]
+	},
+	{
+		"tconst": "tt0417741",
+		"primary_title": "Harry Potter and the Half-Blood Prince",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 153,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"David Yates"
+		],
+		"writers": [
+			"Steve Kloves",
+			"J.K. Rowling"
+		]
+	},
+	{
+		"tconst": "tt0073629",
+		"primary_title": "The Rocky Horror Picture Show",
+		"start_year": 1975,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Comedy,Musical",
+		"directors": [
+			"Jim Sharman"
+		],
+		"writers": [
+			"Richard O'Brien",
+			"Jim Sharman"
+		]
+	},
+	{
+		"tconst": "tt0102926",
+		"primary_title": "The Silence of the Lambs",
+		"start_year": 1991,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Crime,Drama,Thriller",
+		"directors": [
+			"Jonathan Demme"
+		],
+		"writers": [
+			"Thomas Harris",
+			"Ted Tally"
+		]
+	},
+	{
+		"tconst": "tt0315327",
+		"primary_title": "Bruce Almighty",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 101,
+		"genres": "Comedy,Drama,Fantasy",
+		"directors": [
+			"Tom Shadyac"
+		],
+		"writers": [
+			"Steve Koren",
+			"Mark O'Keefe",
+			"Steve Oedekerk"
+		]
+	},
+	{
+		"tconst": "tt0062622",
+		"primary_title": "2001: A Space Odyssey",
+		"start_year": 1968,
+		"end_year": null,
+		"runtime_minutes": 149,
+		"genres": "Adventure,Sci-Fi",
+		"directors": [
+			"Stanley Kubrick"
+		],
+		"writers": [
+			"Stanley Kubrick",
+			"Arthur C. Clarke"
+		]
+	},
+	{
+		"tconst": "tt1825157",
+		"primary_title": "The Double",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Comedy,Drama,Thriller",
+		"directors": [
+			"Richard Ayoade"
+		],
+		"writers": [
+			"Fyodor Dostoevsky",
+			"Richard Ayoade",
+			"Avi Korine"
+		]
+	},
+	{
+		"tconst": "tt1355644",
+		"primary_title": "Passengers",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Drama,Romance,Sci-Fi",
+		"directors": [
+			"Morten Tyldum"
+		],
+		"writers": [
+			"Jon Spaihts"
+		]
+	},
+	{
+		"tconst": "tt0242653",
+		"primary_title": "The Matrix Revolutions",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 129,
+		"genres": "Action,Sci-Fi",
+		"directors": [
+			"Lana Wachowski",
+			"Lilly Wachowski"
+		],
+		"writers": [
+			"Lilly Wachowski",
+			"Lana Wachowski"
+		]
+	},
+	{
+		"tconst": "tt1213663",
+		"primary_title": "The World's End",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 109,
+		"genres": "Action,Comedy,Sci-Fi",
+		"directors": [
+			"Edgar Wright"
+		],
+		"writers": [
+			"Edgar Wright",
+			"Simon Pegg"
+		]
+	},
+	{
+		"tconst": "tt0822832",
+		"primary_title": "Marley & Me",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Comedy,Drama,Family",
+		"directors": [
+			"David Frankel"
+		],
+		"writers": [
+			"Scott Frank",
+			"Don Roos",
+			"John Grogan"
+		]
+	},
+	{
+		"tconst": "tt0963743",
+		"primary_title": "Angus, Thongs and Perfect Snogging",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Gurinder Chadha"
+		],
+		"writers": [
+			"Gurinder Chadha",
+			"Paul Mayeda Berges",
+			"Louise Rennison",
+			"Chris Viscardi",
+			"Will McRobb"
+		]
+	},
+	{
+		"tconst": "tt1959563",
+		"primary_title": "The Hitman's Bodyguard",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Action,Comedy,Thriller",
+		"directors": [
+			"Patrick Hughes"
+		],
+		"writers": [
+			"Tom O'Connor"
+		]
+	},
+	{
+		"tconst": "tt0848228",
+		"primary_title": "The Avengers",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 143,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Joss Whedon"
+		],
+		"writers": [
+			"Joss Whedon",
+			"Zak Penn"
+		]
+	},
+	{
+		"tconst": "tt3402236",
+		"primary_title": "Murder on the Orient Express",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 114,
+		"genres": "Crime,Drama,Mystery",
+		"directors": [
+			"Kenneth Branagh"
+		],
+		"writers": [
+			"Michael Green",
+			"Agatha Christie"
+		]
+	},
+	{
+		"tconst": "tt0247638",
+		"primary_title": "The Princess Diaries",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 111,
+		"genres": "Comedy,Family,Romance",
+		"directors": [
+			"Garry Marshall"
+		],
+		"writers": [
+			"Meg Cabot",
+			"Gina Wendkos"
+		]
+	},
+	{
+		"tconst": "tt2873282",
+		"primary_title": "Red Sparrow",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 140,
+		"genres": "Drama,Mystery,Thriller",
+		"directors": [
+			"Francis Lawrence"
+		],
+		"writers": [
+			"Justin Haythe",
+			"Jason Matthews"
+		]
+	},
+	{
+		"tconst": "tt4532826",
+		"primary_title": "Robin Hood",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Action,Adventure",
+		"directors": [
+			"Otto Bathurst"
+		],
+		"writers": [
+			"Ben Chandler",
+			"David James Kelly"
+		]
+	},
+	{
+		"tconst": "tt0808151",
+		"primary_title": "Angels & Demons",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 138,
+		"genres": "Mystery,Thriller",
+		"directors": [
+			"Ron Howard"
+		],
+		"writers": [
+			"David Koepp",
+			"Akiva Goldsman",
+			"Dan Brown"
+		]
+	},
+	{
+		"tconst": "tt1300854",
+		"primary_title": "Iron Man 3",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Shane Black"
+		],
+		"writers": [
+			"Drew Pearce",
+			"Shane Black",
+			"Stan Lee",
+			"Don Heck",
+			"Larry Lieber",
+			"Jack Kirby",
+			"Adi Granov",
+			"Warren Ellis"
+		]
+	},
+	{
+		"tconst": "tt0107290",
+		"primary_title": "Jurassic Park",
+		"start_year": 1993,
+		"end_year": null,
+		"runtime_minutes": 127,
+		"genres": "Adventure,Sci-Fi,Thriller",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Michael Crichton",
+			"David Koepp"
+		]
+	},
+	{
+		"tconst": "tt5884052",
+		"primary_title": "Pokémon Detective Pikachu",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 104,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Rob Letterman"
+		],
+		"writers": [
+			"Dan Hernandez",
+			"Rob Letterman",
+			"Derek Connolly",
+			"Benji Samit",
+			"Satoshi Tajiri",
+			"Nicole Perlman",
+			"Junichi Masuda",
+			"Ken Sugimori",
+			"Haruka Utsui",
+			"Atsuko Nishida",
+			"Tomokazu Ohara"
+		]
+	},
+	{
+		"tconst": "tt2406566",
+		"primary_title": "Atomic Blonde",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Mystery,Thriller",
+		"directors": [
+			"David Leitch"
+		],
+		"writers": [
+			"Antony Johnston",
+			"Kurt Johnstad",
+			"Sam Hart"
+		]
+	},
+	{
+		"tconst": "tt1308728",
+		"primary_title": "The Happytime Murders",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 91,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Brian Henson"
+		],
+		"writers": [
+			"Todd Berger",
+			"Dee Austin Robertson"
+		]
+	},
+	{
+		"tconst": "tt0985699",
+		"primary_title": "Valkyrie",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 121,
+		"genres": "Drama,History,Thriller",
+		"directors": [
+			"Bryan Singer"
+		],
+		"writers": [
+			"Christopher McQuarrie",
+			"Nathan Alexander"
+		]
+	},
+	{
+		"tconst": "tt1489889",
+		"primary_title": "Central Intelligence",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Rawson Marshall Thurber"
+		],
+		"writers": [
+			"Rawson Marshall Thurber",
+			"Ike Barinholtz",
+			"David Stassen"
+		]
+	},
+	{
+		"tconst": "tt0425061",
+		"primary_title": "Get Smart",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 110,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Peter Segal"
+		],
+		"writers": [
+			"Tom J. Astle",
+			"Matt Ember",
+			"Mel Brooks",
+			"Buck Henry"
+		]
+	},
+	{
+		"tconst": "tt1615160",
+		"primary_title": "The Foreigner",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Action,Crime,Drama",
+		"directors": [
+			"Martin Campbell"
+		],
+		"writers": [
+			"David Marconi",
+			"Stephen Leather"
+		]
+	},
+	{
+		"tconst": "tt2231461",
+		"primary_title": "Rampage",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Brad Peyton"
+		],
+		"writers": [
+			"Ryan Engle",
+			"Carlton Cuse",
+			"Ryan J. Condal",
+			"Adam Sztykiel"
+		]
+	},
+	{
+		"tconst": "tt0085127",
+		"primary_title": "Project A",
+		"start_year": 1983,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Action,Comedy",
+		"directors": [
+			"Sammo Kam-Bo Hung",
+			"Jackie Chan"
+		],
+		"writers": [
+			"Jackie Chan",
+			"Edward Tang",
+			"Jack Maeby"
+		]
+	},
+	{
+		"tconst": "tt0472399",
+		"primary_title": "The Mechanic",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Action,Crime,Thriller",
+		"directors": [
+			"Simon West"
+		],
+		"writers": [
+			"Lewis John Carlino",
+			"Richard Wenk"
+		]
+	},
+	{
+		"tconst": "tt0209163",
+		"primary_title": "The Mummy Returns",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 130,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Stephen Sommers"
+		],
+		"writers": [
+			"Stephen Sommers"
+		]
+	},
+	{
+		"tconst": "tt0088247",
+		"primary_title": "The Terminator",
+		"start_year": 1984,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Sci-Fi",
+		"directors": [
+			"James Cameron"
+		],
+		"writers": [
+			"James Cameron",
+			"GaleAnne Hurd",
+			"William Wisher"
+		]
+	},
+	{
+		"tconst": "tt1179933",
+		"primary_title": "10 Cloverfield Lane",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 103,
+		"genres": "Drama,Horror,Mystery",
+		"directors": [
+			"Dan Trachtenberg"
+		],
+		"writers": [
+			"Josh Campbell",
+			"Matthew Stuecken",
+			"Damien Chazelle"
+		]
+	},
+	{
+		"tconst": "tt0401792",
+		"primary_title": "Sin City",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Crime,Thriller",
+		"directors": [
+			"Frank Miller",
+			"Quentin Tarantino",
+			"Robert Rodriguez"
+		],
+		"writers": [
+			"Frank Miller"
+		]
+	},
+	{
+		"tconst": "tt1060277",
+		"primary_title": "Cloverfield",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 85,
+		"genres": "Action,Horror,Sci-Fi",
+		"directors": [
+			"Matt Reeves"
+		],
+		"writers": [
+			"Drew Goddard"
+		]
+	},
+	{
+		"tconst": "tt1663202",
+		"primary_title": "The Revenant",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 156,
+		"genres": "Action,Adventure,Drama",
+		"directors": [
+			"Alejandro G. Iñárritu"
+		],
+		"writers": [
+			"Mark L. Smith",
+			"Alejandro G. Iñárritu",
+			"Michael Punke"
+		]
+	},
+	{
+		"tconst": "tt0208092",
+		"primary_title": "Snatch",
+		"start_year": 2000,
+		"end_year": null,
+		"runtime_minutes": 104,
+		"genres": "Comedy,Crime",
+		"directors": [
+			"Guy Ritchie"
+		],
+		"writers": [
+			"Guy Ritchie"
+		]
+	},
+	{
+		"tconst": "tt0293564",
+		"primary_title": "Rush Hour 3",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 91,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Brett Ratner"
+		],
+		"writers": [
+			"Jeff Nathanson",
+			"Ross LaManna"
+		]
+	},
+	{
+		"tconst": "tt4758646",
+		"primary_title": "War Machine",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 122,
+		"genres": "Comedy,Drama,War",
+		"directors": [
+			"David Michôd"
+		],
+		"writers": [
+			"David Michôd",
+			"Michael Hastings"
+		]
+	},
+	{
+		"tconst": "tt6320628",
+		"primary_title": "Spider-Man: Far from Home",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 129,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Jon Watts"
+		],
+		"writers": [
+			"Chris McKenna",
+			"Stan Lee",
+			"Steve Ditko",
+			"Erik Sommers"
+		]
+	},
+	{
+		"tconst": "tt3532216",
+		"primary_title": "American Made",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Biography,Comedy",
+		"directors": [
+			"Doug Liman"
+		],
+		"writers": [
+			"Gary Spinelli"
+		]
+	},
+	{
+		"tconst": "tt1517451",
+		"primary_title": "A Star Is Born",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Drama,Music,Musical",
+		"directors": [
+			"Bradley Cooper"
+		],
+		"writers": [
+			"Bradley Cooper",
+			"Eric Roth",
+			"Will Fetters",
+			"Dorothy Parker",
+			"Alan Campbell",
+			"William A. Wellman",
+			"Robert Carson"
+		]
+	},
+	{
+		"tconst": "tt1386932",
+		"primary_title": "Ip Man 2",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Action,Drama,Sport",
+		"directors": [
+			"Wilson Yip"
+		],
+		"writers": [
+			"Tai-lee Chan",
+			"Hiu-Yan Choi",
+			"Edmond Wong"
+		]
+	},
+	{
+		"tconst": "tt0367594",
+		"primary_title": "Charlie and the Chocolate Factory",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Tim Burton"
+		],
+		"writers": [
+			"Roald Dahl",
+			"John August"
+		]
+	},
+	{
+		"tconst": "tt6644200",
+		"primary_title": "A Quiet Place",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 90,
+		"genres": "Drama,Horror,Sci-Fi",
+		"directors": [
+			"John Krasinski"
+		],
+		"writers": [
+			"Bryan Woods",
+			"Scott Beck",
+			"John Krasinski"
+		]
+	},
+	{
+		"tconst": "tt0449088",
+		"primary_title": "Pirates of the Caribbean: At World's End",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 169,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Gore Verbinski"
+		],
+		"writers": [
+			"Ted Elliott",
+			"Terry Rossio",
+			"Stuart Beattie",
+			"Jay Wolpert"
+		]
+	},
+	{
+		"tconst": "tt0116683",
+		"primary_title": "James and the Giant Peach",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 79,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Henry Selick"
+		],
+		"writers": [
+			"Roald Dahl",
+			"Karey Kirkpatrick",
+			"Jonathan Roberts",
+			"Steve Bloom"
+		]
+	},
+	{
+		"tconst": "tt0099487",
+		"primary_title": "Edward Scissorhands",
+		"start_year": 1990,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Drama,Fantasy,Romance",
+		"directors": [
+			"Tim Burton"
+		],
+		"writers": [
+			"Tim Burton",
+			"Caroline Thompson"
+		]
+	},
+	{
+		"tconst": "tt0330373",
+		"primary_title": "Harry Potter and the Goblet of Fire",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 157,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"Mike Newell"
+		],
+		"writers": [
+			"Steve Kloves",
+			"J.K. Rowling"
+		]
+	},
+	{
+		"tconst": "tt0064115",
+		"primary_title": "Butch Cassidy and the Sundance Kid",
+		"start_year": 1969,
+		"end_year": null,
+		"runtime_minutes": 110,
+		"genres": "Biography,Crime,Drama",
+		"directors": [
+			"George Roy Hill"
+		],
+		"writers": [
+			"William Goldman"
+		]
+	},
+	{
+		"tconst": "tt5164214",
+		"primary_title": "Ocean's Eight",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 110,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Gary Ross"
+		],
+		"writers": [
+			"Jack Golden Russell",
+			"Gary Ross",
+			"George Clayton Johnson",
+			"Olivia Milch"
+		]
+	},
+	{
+		"tconst": "tt0441773",
+		"primary_title": "Kung Fu Panda",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 92,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"John Stevenson",
+			"Mark Osborne"
+		],
+		"writers": [
+			"Jonathan Aibel",
+			"Cyrus Voris",
+			"Glenn Berger",
+			"Ethan Reiff"
+		]
+	},
+	{
+		"tconst": "tt7286456",
+		"primary_title": "Joker",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 122,
+		"genres": "Crime,Drama,Thriller",
+		"directors": [
+			"Todd Phillips"
+		],
+		"writers": [
+			"Todd Phillips",
+			"Scott Silver",
+			"Bob Kane",
+			"Bill Finger",
+			"Jerry Robinson"
+		]
+	},
+	{
+		"tconst": "tt2737304",
+		"primary_title": "Bird Box",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Drama,Sci-Fi,Thriller",
+		"directors": [
+			"Susanne Bier"
+		],
+		"writers": [
+			"Eric Heisserer",
+			"Josh Malerman"
+		]
+	},
+	{
+		"tconst": "tt0246460",
+		"primary_title": "Die Another Day",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 133,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Lee Tamahori"
+		],
+		"writers": [
+			"Ian Fleming",
+			"Neal Purvis",
+			"Robert Wade"
+		]
+	},
+	{
+		"tconst": "tt0844471",
+		"primary_title": "Cloudy with a Chance of Meatballs",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 90,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Phil Lord",
+			"Christopher Miller"
+		],
+		"writers": [
+			"Ron Barrett",
+			"Christopher Miller",
+			"Phil Lord",
+			"Judi Barrett",
+			"Rob Greenberg"
+		]
+	},
+	{
+		"tconst": "tt0960144",
+		"primary_title": "You Don't Mess with the Zohan",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Comedy",
+		"directors": [
+			"Dennis Dugan"
+		],
+		"writers": [
+			"Judd Apatow",
+			"Adam Sandler",
+			"Robert Smigel"
+		]
+	},
+	{
+		"tconst": "tt1626146",
+		"primary_title": "Hector and the Search for Happiness",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 120,
+		"genres": "Adventure,Comedy,Drama",
+		"directors": [
+			"Peter Chelsom"
+		],
+		"writers": [
+			"Maria von Heland",
+			"Peter Chelsom",
+			"TinkerLindsay",
+			"François Lelord"
+		]
+	},
+	{
+		"tconst": "tt0317919",
+		"primary_title": "Mission: Impossible III",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 126,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"J.J. Abrams"
+		],
+		"writers": [
+			"Alex Kurtzman",
+			"Roberto Orci",
+			"J.J. Abrams",
+			"Bruce Geller"
+		]
+	},
+	{
+		"tconst": "tt1092026",
+		"primary_title": "Paul",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 104,
+		"genres": "Adventure,Comedy,Sci-Fi",
+		"directors": [
+			"Greg Mottola"
+		],
+		"writers": [
+			"Nick Frost",
+			"Simon Pegg"
+		]
+	},
+	{
+		"tconst": "tt0470752",
+		"primary_title": "Ex Machina",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Drama,Mystery,Sci-Fi",
+		"directors": [
+			"Alex Garland"
+		],
+		"writers": [
+			"Alex Garland"
+		]
+	},
+	{
+		"tconst": "tt5268348",
+		"primary_title": "Generation Wealth",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Documentary",
+		"directors": [
+			"Lauren Greenfield"
+		],
+		"writers": [
+			"Lauren Greenfield"
+		]
+	},
+	{
+		"tconst": "tt6040662",
+		"primary_title": "The Children Act",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Drama",
+		"directors": [
+			"Richard Eyre"
+		],
+		"writers": [
+			"Ian McEwan"
+		]
+	},
+	{
+		"tconst": "tt2234155",
+		"primary_title": "The Internship",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Comedy",
+		"directors": [
+			"Shawn Levy"
+		],
+		"writers": [
+			"Jared Stern",
+			"Vince Vaughn"
+		]
+	},
+	{
+		"tconst": "tt0472062",
+		"primary_title": "Charlie Wilson's War",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 102,
+		"genres": "Biography,Comedy,Drama",
+		"directors": [
+			"Mike Nichols"
+		],
+		"writers": [
+			"Aaron Sorkin",
+			"George Crile"
+		]
+	},
+	{
+		"tconst": "tt0268380",
+		"primary_title": "Ice Age",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 81,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Chris Wedge",
+			"Carlos Saldanha"
+		],
+		"writers": [
+			"Michael Berg",
+			"James Bresnahan",
+			"Peter Ackerman",
+			"Doug Compton",
+			"Jeff Siergey",
+			"Mike Thurmeier",
+			"Xeth Feinberg",
+			"Galen T. Chu",
+			"Michael J. Wilson"
+		]
+	},
+	{
+		"tconst": "tt1078912",
+		"primary_title": "Night at the Museum: Battle of the Smithsonian",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Shawn Levy"
+		],
+		"writers": [
+			"Robert Ben Garant",
+			"Thomas Lennon"
+		]
+	},
+	{
+		"tconst": "tt0116996",
+		"primary_title": "Mars Attacks!",
+		"start_year": 1996,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Comedy,Sci-Fi",
+		"directors": [
+			"Tim Burton"
+		],
+		"writers": [
+			"Len Brown",
+			"Woody Gelman",
+			"Wally Wood",
+			"Norman Saunders",
+			"Jonathan Gems",
+			"Bob Powell"
+		]
+	},
+	{
+		"tconst": "tt0126029",
+		"primary_title": "Shrek",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 90,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Andrew Adamson",
+			"Vicky Jenson"
+		],
+		"writers": [
+			"Joe Stillman",
+			"William Steig",
+			"Roger S.H. Schulman",
+			"Ted Elliott",
+			"Conrad Vernon",
+			"Chris Miller",
+			"Cody Cameron",
+			"Terry Rossio"
+		]
+	},
+	{
+		"tconst": "tt1219289",
+		"primary_title": "Limitless",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Mystery,Sci-Fi,Thriller",
+		"directors": [
+			"Neil Burger"
+		],
+		"writers": [
+			"Alan Glynn",
+			"Leslie Dixon"
+		]
+	},
+	{
+		"tconst": "tt1323594",
+		"primary_title": "Despicable Me",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 95,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Pierre Coffin",
+			"Chris Renaud"
+		],
+		"writers": [
+			"Cinco Paul",
+			"Ken Daurio",
+			"Sergio Pablos"
+		]
+	},
+	{
+		"tconst": "tt0062803",
+		"primary_title": "Chitty Chitty Bang Bang",
+		"start_year": 1968,
+		"end_year": null,
+		"runtime_minutes": 144,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"Ken Hughes"
+		],
+		"writers": [
+			"Roald Dahl",
+			"Ian Fleming",
+			"Ken Hughes",
+			"Richard Maibaum"
+		]
+	},
+	{
+		"tconst": "tt5519340",
+		"primary_title": "Bright",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Action,Crime,Fantasy",
+		"directors": [
+			"David Ayer"
+		],
+		"writers": [
+			"Max Landis"
+		]
+	},
+	{
+		"tconst": "tt1690953",
+		"primary_title": "Despicable Me 2",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Chris Renaud",
+			"Pierre Coffin"
+		],
+		"writers": [
+			"Cinco Paul",
+			"Ken Daurio"
+		]
+	},
+	{
+		"tconst": "tt3469046",
+		"primary_title": "Despicable Me 3",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 89,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Eric Guillon",
+			"Pierre Coffin",
+			"Kyle Balda"
+		],
+		"writers": [
+			"Cinco Paul",
+			"Ken Daurio"
+		]
+	},
+	{
+		"tconst": "tt1568911",
+		"primary_title": "War Horse",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 146,
+		"genres": "Drama,History,War",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Richard Curtis",
+			"Lee Hall",
+			"Michael Morpurgo",
+			"Nick Stafford"
+		]
+	},
+	{
+		"tconst": "tt3393786",
+		"primary_title": "Jack Reacher: Never Go Back",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 118,
+		"genres": "Action,Thriller",
+		"directors": [
+			"Edward Zwick"
+		],
+		"writers": [
+			"Edward Zwick",
+			"Richard Wenk",
+			"Lee Child",
+			"Marshall Herskovitz"
+		]
+	},
+	{
+		"tconst": "tt0057076",
+		"primary_title": "From Russia with Love",
+		"start_year": 1963,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Terence Young"
+		],
+		"writers": [
+			"Ian Fleming",
+			"Richard Maibaum",
+			"Johanna Harwood",
+			"Berkely Mather"
+		]
+	},
+	{
+		"tconst": "tt0408236",
+		"primary_title": "Sweeney Todd: The Demon Barber of Fleet Street",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 116,
+		"genres": "Drama,Horror,Musical",
+		"directors": [
+			"Tim Burton"
+		],
+		"writers": [
+			"John Logan",
+			"Christopher Bond",
+			"Hugh Wheeler"
+		]
+	},
+	{
+		"tconst": "tt0448694",
+		"primary_title": "Puss in Boots",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 90,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Chris Miller"
+		],
+		"writers": [
+			"David H. Steinberg",
+			"Brian Lynch",
+			"William Davies",
+			"Tom Wheeler",
+			"Charles Perrault"
+		]
+	},
+	{
+		"tconst": "tt0317219",
+		"primary_title": "Cars",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 117,
+		"genres": "Animation,Comedy,Family",
+		"directors": [
+			"John Lasseter",
+			"Joe Ranft"
+		],
+		"writers": [
+			"John Lasseter",
+			"Joe Ranft",
+			"Phil Lorin",
+			"Steve Purcell",
+			"Jorgen Klubien",
+			"Kiel Murray",
+			"Dan Fogelman"
+		]
+	},
+	{
+		"tconst": "tt0465234",
+		"primary_title": "National Treasure: Book of Secrets",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Adventure,Family",
+		"directors": [
+			"Jon Turteltaub"
+		],
+		"writers": [
+			"Cormac Wibberley",
+			"Ted Elliott",
+			"Gregory Poirier",
+			"Terry Rossio",
+			"Oren Aviv",
+			"Jim Kouf",
+			"Charles Segars",
+			"Marianne Wibberley"
+		]
+	},
+	{
+		"tconst": "tt2692250",
+		"primary_title": "Night at the Museum: Secret of the Tomb",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Shawn Levy"
+		],
+		"writers": [
+			"David Guion",
+			"Michael Handelman",
+			"Mark Friedman",
+			"Thomas Lennon",
+			"Robert Ben Garant"
+		]
+	},
+	{
+		"tconst": "tt0339291",
+		"primary_title": "A Series of Unfortunate Events",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Brad Silberling"
+		],
+		"writers": [
+			"Daniel Handler",
+			"Robert Gordon"
+		]
+	},
+	{
+		"tconst": "tt0120855",
+		"primary_title": "Tarzan",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Adventure,Animation,Family",
+		"directors": [
+			"Kevin Lima",
+			"Chris Buck"
+		],
+		"writers": [
+			"Tab Murphy",
+			"Bob Tzudiker",
+			"Noni White",
+			"Don Dougherty",
+			"Mark Kennedy",
+			"Carole Holliday",
+			"Stephen J. Anderson",
+			"Ed Gombert",
+			"Paul Brizzi",
+			"Don Hall",
+			"Gaëtan Brizzi",
+			"Randy Haycock",
+			"Kevin Harkey",
+			"Glen Keane",
+			"Jeff Snow",
+			"Kelly Wightman",
+			"Frank Nissen",
+			"Michael Surrey",
+			"Chris Ure",
+			"Edgar Rice Burroughs",
+			"Mark Walton",
+			"John Norton",
+			"Burny Mattinson",
+			"Stevie Wermers",
+			"John Ramirez"
+		]
+	},
+	{
+		"tconst": "tt1453405",
+		"primary_title": "Monsters University",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 104,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Dan Scanlon"
+		],
+		"writers": [
+			"Dan Scanlon",
+			"Daniel Gerson",
+			"Robert L. Baird",
+			"Adrian Molina"
+		]
+	},
+	{
+		"tconst": "tt0478087",
+		"primary_title": "21",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 123,
+		"genres": "Crime,Drama,History",
+		"directors": [
+			"Robert Luketic"
+		],
+		"writers": [
+			"Peter Steinfeld",
+			"Allan Loeb",
+			"Ben Mezrich"
+		]
+	},
+	{
+		"tconst": "tt6781982",
+		"primary_title": "Night School",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Comedy",
+		"directors": [
+			"Malcolm D. Lee"
+		],
+		"writers": [
+			"John Hamburg",
+			"Kevin Hart",
+			"Nicholas Stoller",
+			"Joey Wells",
+			"Harry Ratchford",
+			"Matthew Kellard"
+		]
+	},
+	{
+		"tconst": "tt5758778",
+		"primary_title": "Skyscraper",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 102,
+		"genres": "Action,Crime,Drama",
+		"directors": [
+			"Rawson Marshall Thurber"
+		],
+		"writers": [
+			"Rawson Marshall Thurber"
+		]
+	},
+	{
+		"tconst": "tt0486822",
+		"primary_title": "Disturbia",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 105,
+		"genres": "Drama,Mystery,Thriller",
+		"directors": [
+			"D.J. Caruso"
+		],
+		"writers": [
+			"Christopher Landon",
+			"Carl Ellsworth"
+		]
+	},
+	{
+		"tconst": "tt0286499",
+		"primary_title": "Bend It Like Beckham",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Comedy,Drama,Romance",
+		"directors": [
+			"Gurinder Chadha"
+		],
+		"writers": [
+			"Guljit Bindra",
+			"Paul Mayeda Berges",
+			"Gurinder Chadha"
+		]
+	},
+	{
+		"tconst": "tt1155076",
+		"primary_title": "The Karate Kid",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 140,
+		"genres": "Action,Drama,Family",
+		"directors": [
+			"Harald Zwart"
+		],
+		"writers": [
+			"Robert Mark Kamen",
+			"Christopher Murphey"
+		]
+	},
+	{
+		"tconst": "tt2390237",
+		"primary_title": "Cuban Fury",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Comedy,Romance,Sport",
+		"directors": [
+			"James Griffiths"
+		],
+		"writers": [
+			"Jon Brown",
+			"Nick Frost"
+		]
+	},
+	{
+		"tconst": "tt2872732",
+		"primary_title": "Lucy",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 89,
+		"genres": "Action,Sci-Fi,Thriller",
+		"directors": [
+			"Luc Besson"
+		],
+		"writers": [
+			"Luc Besson"
+		]
+	},
+	{
+		"tconst": "tt0141369",
+		"primary_title": "Inspector Gadget",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 78,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"David Kellogg"
+		],
+		"writers": [
+			"Andy Heyward",
+			"Bruno Bianchi",
+			"Jean Chalopin",
+			"Dana Olsen",
+			"Kerry Ehrin",
+			"Zak Penn"
+		]
+	},
+	{
+		"tconst": "tt0086250",
+		"primary_title": "Scarface",
+		"start_year": 1983,
+		"end_year": null,
+		"runtime_minutes": 170,
+		"genres": "Crime,Drama",
+		"directors": [
+			"Brian De Palma"
+		],
+		"writers": [
+			"Oliver Stone",
+			"Howard Hawks",
+			"Armitage Trail",
+			"Ben Hecht"
+		]
+	},
+	{
+		"tconst": "tt1133985",
+		"primary_title": "Green Lantern",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 114,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Martin Campbell"
+		],
+		"writers": [
+			"Michael Goldenberg",
+			"Michael Green",
+			"Marc Guggenheim",
+			"Greg Berlanti"
+		]
+	},
+	{
+		"tconst": "tt2381249",
+		"primary_title": "Mission: Impossible - Rogue Nation",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 131,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Christopher McQuarrie"
+		],
+		"writers": [
+			"Drew Pearce",
+			"Bruce Geller",
+			"Christopher McQuarrie"
+		]
+	},
+	{
+		"tconst": "tt0079315",
+		"primary_title": "The Fearless Hyena",
+		"start_year": 1979,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Action,Comedy",
+		"directors": [
+			"Jackie Chan"
+		],
+		"writers": [
+			"Jackie Chan",
+			"Wei Lo"
+		]
+	},
+	{
+		"tconst": "tt0196229",
+		"primary_title": "Zoolander",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 90,
+		"genres": "Comedy",
+		"directors": [
+			"Ben Stiller"
+		],
+		"writers": [
+			"Drake Sather",
+			"Ben Stiller",
+			"John Hamburg"
+		]
+	},
+	{
+		"tconst": "tt4463894",
+		"primary_title": "Shaft",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Action,Crime",
+		"directors": [
+			"Tim Story"
+		],
+		"writers": [
+			"Alex Barnow",
+			"Kenya Barris",
+			"Ernest Tidyman"
+		]
+	},
+	{
+		"tconst": "tt0413099",
+		"primary_title": "Evan Almighty",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 96,
+		"genres": "Comedy,Family,Fantasy",
+		"directors": [
+			"Tom Shadyac"
+		],
+		"writers": [
+			"Alec Sokolow",
+			"Steve Oedekerk",
+			"Joel Cohen",
+			"Steve Koren",
+			"Mark O'Keefe"
+		]
+	},
+	{
+		"tconst": "tt0119137",
+		"primary_title": "Flubber",
+		"start_year": 1997,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Comedy,Family,Sci-Fi",
+		"directors": [
+			"Les Mayfield"
+		],
+		"writers": [
+			"Samuel W. Taylor",
+			"John Hughes",
+			"Bill Walsh"
+		]
+	},
+	{
+		"tconst": "tt0163651",
+		"primary_title": "American Pie",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 95,
+		"genres": "Comedy",
+		"directors": [
+			"Paul Weitz",
+			"Chris Weitz"
+		],
+		"writers": [
+			"Adam Herz"
+		]
+	},
+	{
+		"tconst": "tt1013743",
+		"primary_title": "Knight and Day",
+		"start_year": 2010,
+		"end_year": null,
+		"runtime_minutes": 109,
+		"genres": "Action,Comedy",
+		"directors": [
+			"James Mangold"
+		],
+		"writers": [
+			"Patrick O'Neill"
+		]
+	},
+	{
+		"tconst": "tt0252866",
+		"primary_title": "American Pie 2",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 108,
+		"genres": "Comedy",
+		"directors": [
+			"J.B. Rogers"
+		],
+		"writers": [
+			"Adam Herz",
+			"David H. Steinberg"
+		]
+	},
+	{
+		"tconst": "tt0328828",
+		"primary_title": "American Wedding",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 96,
+		"genres": "Comedy",
+		"directors": [
+			"Jesse Dylan"
+		],
+		"writers": [
+			"Adam Herz"
+		]
+	},
+	{
+		"tconst": "tt0227538",
+		"primary_title": "Spy Kids",
+		"start_year": 2001,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Robert Rodriguez"
+		],
+		"writers": [
+			"Robert Rodriguez"
+		]
+	},
+	{
+		"tconst": "tt1618442",
+		"primary_title": "The Last Witch Hunter",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Breck Eisner"
+		],
+		"writers": [
+			"Cory Goodman",
+			"Matt Sazama",
+			"Burk Sharpless"
+		]
+	},
+	{
+		"tconst": "tt0369610",
+		"primary_title": "Jurassic World",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Colin Trevorrow"
+		],
+		"writers": [
+			"Colin Trevorrow",
+			"Rick Jaffa",
+			"Amanda Silver",
+			"Derek Connolly",
+			"Michael Crichton"
+		]
+	},
+	{
+		"tconst": "tt0164912",
+		"primary_title": "Stuart Little",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 84,
+		"genres": "Adventure,Comedy,Family",
+		"directors": [
+			"Rob Minkoff"
+		],
+		"writers": [
+			"E.B. White",
+			"Greg Brooker",
+			"M. Night Shyamalan"
+		]
+	},
+	{
+		"tconst": "tt8106534",
+		"primary_title": "6 Underground",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 127,
+		"genres": "Action,Thriller",
+		"directors": [
+			"Michael Bay"
+		],
+		"writers": [
+			"Rhett Reese",
+			"Paul Wernick"
+		]
+	},
+	{
+		"tconst": "tt2709768",
+		"primary_title": "The Secret Life of Pets",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 87,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Chris Renaud",
+			"Yarrow Cheney"
+		],
+		"writers": [
+			"Ken Daurio",
+			"Cinco Paul",
+			"Brian Lynch"
+		]
+	},
+	{
+		"tconst": "tt0169547",
+		"primary_title": "American Beauty",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 122,
+		"genres": "Drama",
+		"directors": [
+			"Sam Mendes"
+		],
+		"writers": [
+			"Alan Ball"
+		]
+	},
+	{
+		"tconst": "tt0413300",
+		"primary_title": "Spider-Man 3",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 139,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Sam Raimi"
+		],
+		"writers": [
+			"Stan Lee",
+			"Alvin Sargent",
+			"Ivan Raimi",
+			"Steve Ditko",
+			"Sam Raimi"
+		]
+	},
+	{
+		"tconst": "tt0066279",
+		"primary_title": "The Railway Children",
+		"start_year": 1970,
+		"end_year": null,
+		"runtime_minutes": 109,
+		"genres": "Drama,Family",
+		"directors": [
+			"Lionel Jeffries"
+		],
+		"writers": [
+			"E. Nesbit",
+			"Lionel Jeffries"
+		]
+	},
+	{
+		"tconst": "tt0396752",
+		"primary_title": "Nanny McPhee",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 97,
+		"genres": "Comedy,Family,Fantasy",
+		"directors": [
+			"Kirk Jones"
+		],
+		"writers": [
+			"Christianna Brand",
+			"Emma Thompson"
+		]
+	},
+	{
+		"tconst": "tt0107688",
+		"primary_title": "The Nightmare Before Christmas",
+		"start_year": 1993,
+		"end_year": null,
+		"runtime_minutes": 76,
+		"genres": "Animation,Family,Fantasy",
+		"directors": [
+			"Henry Selick"
+		],
+		"writers": [
+			"Tim Burton",
+			"Caroline Thompson",
+			"Michael McDowell"
+		]
+	},
+	{
+		"tconst": "tt2404435",
+		"primary_title": "The Magnificent Seven",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 132,
+		"genres": "Action,Adventure,Western",
+		"directors": [
+			"Antoine Fuqua"
+		],
+		"writers": [
+			"Richard Wenk",
+			"Akira Kurosawa",
+			"Shinobu Hashimoto",
+			"Hideo Oguni",
+			"Nic Pizzolatto"
+		]
+	},
+	{
+		"tconst": "tt0831387",
+		"primary_title": "Godzilla",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 123,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Gareth Edwards"
+		],
+		"writers": [
+			"Max Borenstein",
+			"Frank Darabont",
+			"Dave Callaham",
+			"David S. Goyer",
+			"Shigeru Kayama",
+			"Ishirô Honda",
+			"Takeo Murata"
+		]
+	},
+	{
+		"tconst": "tt0316396",
+		"primary_title": "Peter Pan",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 113,
+		"genres": "Adventure,Family,Fantasy",
+		"directors": [
+			"P.J. Hogan"
+		],
+		"writers": [
+			"J.M. Barrie",
+			"P.J. Hogan",
+			"Michael Goldenberg"
+		]
+	},
+	{
+		"tconst": "tt0079945",
+		"primary_title": "Star Trek: The Motion Picture",
+		"start_year": 1979,
+		"end_year": null,
+		"runtime_minutes": 132,
+		"genres": "Adventure,Mystery,Sci-Fi",
+		"directors": [
+			"Robert Wise"
+		],
+		"writers": [
+			"Gene Roddenberry",
+			"Harold Livingston",
+			"Alan Dean Foster"
+		]
+	},
+	{
+		"tconst": "tt0493464",
+		"primary_title": "Wanted",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 110,
+		"genres": "Action,Crime,Fantasy",
+		"directors": [
+			"Timur Bekmambetov"
+		],
+		"writers": [
+			"Derek Haas",
+			"Michael Brandt",
+			"Chris Morgan",
+			"Mark Millar",
+			"J.G. Jones"
+		]
+	},
+	{
+		"tconst": "tt0029583",
+		"primary_title": "Snow White and the Seven Dwarfs",
+		"start_year": 1937,
+		"end_year": null,
+		"runtime_minutes": 83,
+		"genres": "Animation,Family,Fantasy",
+		"directors": [
+			"David Hand",
+			"Wilfred Jackson",
+			"Larry Morey",
+			"Perce Pearce",
+			"Ben Sharpsteen",
+			"William Cottrell"
+		],
+		"writers": [
+			"Jacob Grimm",
+			"Ted Sears",
+			"Otto Englander",
+			"Earl Hurd",
+			"Merrill De Maris",
+			"Dorothy Ann Blank",
+			"Wilhelm Grimm",
+			"Richard Creedon",
+			"Dick Rickard",
+			"Webb Smith"
+		]
+	},
+	{
+		"tconst": "tt1758830",
+		"primary_title": "This Is 40",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 134,
+		"genres": "Comedy,Romance",
+		"directors": [
+			"Judd Apatow"
+		],
+		"writers": [
+			"Judd Apatow"
+		]
+	},
+	{
+		"tconst": "tt0475276",
+		"primary_title": "United 93",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 111,
+		"genres": "Drama,History,Thriller",
+		"directors": [
+			"Paul Greengrass"
+		],
+		"writers": [
+			"Paul Greengrass"
+		]
+	},
+	{
+		"tconst": "tt0277296",
+		"primary_title": "The Scorpion King",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 92,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Chuck Russell"
+		],
+		"writers": [
+			"William Osborne",
+			"David Hayter",
+			"Jonathan Hales",
+			"Stephen Sommers"
+		]
+	},
+	{
+		"tconst": "tt1270797",
+		"primary_title": "Venom",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Action,Horror,Sci-Fi",
+		"directors": [
+			"Ruben Fleischer"
+		],
+		"writers": [
+			"Kelly Marcel",
+			"Scott Rosenberg",
+			"Will Beall",
+			"Jeff Pinkner",
+			"Todd McFarlane",
+			"David Michelinie"
+		]
+	},
+	{
+		"tconst": "tt0358082",
+		"primary_title": "Robots",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 91,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Carlos Saldanha",
+			"Chris Wedge"
+		],
+		"writers": [
+			"Ron Mita",
+			"Jim McClain",
+			"Lowell Ganz",
+			"David Lindsay-Abaire",
+			"Babaloo Mandel"
+		]
+	},
+	{
+		"tconst": "tt1979388",
+		"primary_title": "The Good Dinosaur",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Peter Sohn"
+		],
+		"writers": [
+			"Bob Peterson",
+			"Adrian Molina",
+			"Peter Hedges",
+			"Kelsey Mann",
+			"Peter Sohn",
+			"Erik Benson",
+			"Meg LeFauve"
+		]
+	},
+	{
+		"tconst": "tt0830515",
+		"primary_title": "Quantum of Solace",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Action,Adventure,Thriller",
+		"directors": [
+			"Marc Forster"
+		],
+		"writers": [
+			"Ian Fleming",
+			"Paul Haggis",
+			"Neal Purvis",
+			"Robert Wade"
+		]
+	},
+	{
+		"tconst": "tt0859163",
+		"primary_title": "The Mummy: Tomb of the Dragon Emperor",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Rob Cohen"
+		],
+		"writers": [
+			"AlfredGough",
+			"John L. Balderston",
+			"Miles Millar",
+			"Stephen Sommers"
+		]
+	},
+	{
+		"tconst": "tt5848272",
+		"primary_title": "Ralph Breaks the Internet",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Phil Johnston",
+			"Rich Moore"
+		],
+		"writers": [
+			"Phil Johnston",
+			"Rich Moore",
+			"Jim Reardon",
+			"Pamela Ribon"
+		]
+	},
+	{
+		"tconst": "tt0120667",
+		"primary_title": "Fantastic Four",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 106,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Tim Story"
+		],
+		"writers": [
+			"Mark Frost",
+			"Michael France",
+			"Stan Lee",
+			"Jack Kirby"
+		]
+	},
+	{
+		"tconst": "tt0121766",
+		"primary_title": "Star Wars: Episode III - Revenge of the Sith",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 140,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"George Lucas"
+		],
+		"writers": [
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt0482603",
+		"primary_title": "Space Chimps",
+		"start_year": 2008,
+		"end_year": null,
+		"runtime_minutes": 81,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Kirk DeMicco"
+		],
+		"writers": [
+			"Robert Moreland",
+			"Kirk DeMicco",
+			"Joe Piscatella",
+			"Jason Mayland"
+		]
+	},
+	{
+		"tconst": "tt1065073",
+		"primary_title": "Boyhood",
+		"start_year": 2014,
+		"end_year": null,
+		"runtime_minutes": 165,
+		"genres": "Drama",
+		"directors": [
+			"Richard Linklater"
+		],
+		"writers": [
+			"Richard Linklater"
+		]
+	},
+	{
+		"tconst": "tt0290095",
+		"primary_title": "The Tuxedo",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 98,
+		"genres": "Action,Comedy,Sci-Fi",
+		"directors": [
+			"Kevin Donovan"
+		],
+		"writers": [
+			"Phil Hay",
+			"Michael J. Wilson",
+			"Matt Manfredi",
+			"Michael Leeson"
+		]
+	},
+	{
+		"tconst": "tt0038969",
+		"primary_title": "Song of the South",
+		"start_year": 1946,
+		"end_year": null,
+		"runtime_minutes": 94,
+		"genres": "Animation,Comedy,Family",
+		"directors": [
+			"Harve Foster",
+			"Wilfred Jackson"
+		],
+		"writers": [
+			"Bill Peet",
+			"Ralph Wright",
+			"Vernon Stallings",
+			"Morton Grant",
+			"Joel Chandler Harris",
+			"MauriceRapf",
+			"Dalton S. Reymond"
+		]
+	},
+	{
+		"tconst": "tt0101414",
+		"primary_title": "Beauty and the Beast",
+		"start_year": 1991,
+		"end_year": null,
+		"runtime_minutes": 84,
+		"genres": "Animation,Family,Fantasy",
+		"directors": [
+			"Gary Trousdale",
+			"Kirk Wise"
+		],
+		"writers": [
+			"Robert Lence",
+			"Gabrielle-Suzanne Barbot de Villeneuve",
+			"Jeanne-Marie Leprince de Beaumont",
+			"Linda Woolverton",
+			"Brenda Chapman",
+			"Chris Sanders",
+			"Brian Pimental",
+			"Burny Mattinson",
+			"Kevin Harkey",
+			"Tom Ellery",
+			"Kelly Asbury",
+			"Joe Ranft",
+			"Bruce Woodside"
+		]
+	},
+	{
+		"tconst": "tt3079380",
+		"primary_title": "Spy",
+		"start_year": 2015,
+		"end_year": null,
+		"runtime_minutes": 119,
+		"genres": "Action,Comedy,Crime",
+		"directors": [
+			"Paul Feig"
+		],
+		"writers": [
+			"Paul Feig"
+		]
+	},
+	{
+		"tconst": "tt0319343",
+		"primary_title": "Elf",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 97,
+		"genres": "Comedy,Family,Fantasy",
+		"directors": [
+			"Jon Favreau"
+		],
+		"writers": [
+			"David Berenbaum"
+		]
+	},
+	{
+		"tconst": "tt0486576",
+		"primary_title": "Fantastic 4: Rise of the Silver Surfer",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 92,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Tim Story"
+		],
+		"writers": [
+			"John Turman",
+			"Mark Frost",
+			"Stan Lee",
+			"Jack Kirby",
+			"Don Payne"
+		]
+	},
+	{
+		"tconst": "tt0298148",
+		"primary_title": "Shrek 2",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Conrad Vernon",
+			"Kelly Asbury",
+			"Andrew Adamson"
+		],
+		"writers": [
+			"William Steig",
+			"Joe Stillman",
+			"J. David Stem",
+			"Andrew Adamson",
+			"Cody Cameron",
+			"Walt Dohrn",
+			"Chris Miller",
+			"David P. Smith",
+			"Conrad Vernon",
+			"David N. Weiss"
+		]
+	},
+	{
+		"tconst": "tt1483013",
+		"primary_title": "Oblivion",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 124,
+		"genres": "Action,Adventure,Mystery",
+		"directors": [
+			"Joseph Kosinski"
+		],
+		"writers": [
+			"Michael Arndt",
+			"Joseph Kosinski",
+			"Karl Gajdusek"
+		]
+	},
+	{
+		"tconst": "tt1981115",
+		"primary_title": "Thor: The Dark World",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 112,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Alan Taylor"
+		],
+		"writers": [
+			"Christopher Yost",
+			"Christopher Markus",
+			"Don Payne",
+			"Robert Rodat",
+			"Jack Kirby",
+			"Stan Lee",
+			"Larry Lieber",
+			"Walter Simonson",
+			"Stephen McFeely"
+		]
+	},
+	{
+		"tconst": "tt0974661",
+		"primary_title": "17 Again",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 102,
+		"genres": "Comedy,Drama,Fantasy",
+		"directors": [
+			"Burr Steers"
+		],
+		"writers": [
+			"Jason Filardi"
+		]
+	},
+	{
+		"tconst": "tt0120915",
+		"primary_title": "Star Wars: Episode I - The Phantom Menace",
+		"start_year": 1999,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"George Lucas"
+		],
+		"writers": [
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt2527338",
+		"primary_title": "Star Wars: Episode IX - The Rise of Skywalker",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": 141,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"J.J. Abrams"
+		],
+		"writers": [
+			"Chris Terrio",
+			"J.J. Abrams",
+			"Colin Trevorrow",
+			"George Lucas",
+			"Derek Connolly"
+		]
+	},
+	{
+		"tconst": "tt0121765",
+		"primary_title": "Star Wars: Episode II - Attack of the Clones",
+		"start_year": 2002,
+		"end_year": null,
+		"runtime_minutes": 142,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"George Lucas"
+		],
+		"writers": [
+			"Jonathan Hales",
+			"George Lucas"
+		]
+	},
+	{
+		"tconst": "tt0449010",
+		"primary_title": "Eragon",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 104,
+		"genres": "Action,Adventure,Family",
+		"directors": [
+			"Stefen Fangmeier"
+		],
+		"writers": [
+			"Christopher Paolini",
+			"Peter Buchman"
+		]
+	},
+	{
+		"tconst": "tt0457495",
+		"primary_title": "Alex Rider: Operation Stormbreaker",
+		"start_year": 2006,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Action,Adventure,Family",
+		"directors": [
+			"Geoffrey Sax"
+		],
+		"writers": [
+			"Anthony Horowitz"
+		]
+	},
+	{
+		"tconst": "tt0112642",
+		"primary_title": "Casper",
+		"start_year": 1995,
+		"end_year": null,
+		"runtime_minutes": 100,
+		"genres": "Comedy,Family,Fantasy",
+		"directors": [
+			"Brad Silberling"
+		],
+		"writers": [
+			"Sherri Stoner",
+			"Deanna Oliver",
+			"Joseph Oriolo"
+		]
+	},
+	{
+		"tconst": "tt0796366",
+		"primary_title": "Star Trek",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 127,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"J.J. Abrams"
+		],
+		"writers": [
+			"Roberto Orci",
+			"Gene Roddenberry",
+			"Alex Kurtzman"
+		]
+	},
+	{
+		"tconst": "tt5113040",
+		"primary_title": "The Secret Life of Pets 2",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Chris Renaud",
+			"Jonathan del Val"
+		],
+		"writers": [
+			"Brian Lynch"
+		]
+	},
+	{
+		"tconst": "tt1670345",
+		"primary_title": "Now You See Me",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Crime,Mystery,Thriller",
+		"directors": [
+			"Louis Leterrier"
+		],
+		"writers": [
+			"Ed Solomon",
+			"Boaz Yakin",
+			"Edward Ricourt"
+		]
+	},
+	{
+		"tconst": "tt0042332",
+		"primary_title": "Cinderella",
+		"start_year": 1950,
+		"end_year": null,
+		"runtime_minutes": 74,
+		"genres": "Animation,Family,Fantasy",
+		"directors": [
+			"Hamilton Luske",
+			"Wilfred Jackson",
+			"Clyde Geronimi"
+		],
+		"writers": [
+			"Bill Peet",
+			"Ken Anderson",
+			"Ted Sears",
+			"Charles Perrault",
+			"Erdman Penner",
+			"Harry Reeves",
+			"Homer Brightman",
+			"Winston Hibler",
+			"Maurice Rapf",
+			"Joe Rinaldi"
+		]
+	},
+	{
+		"tconst": "tt0032910",
+		"primary_title": "Pinocchio",
+		"start_year": 1940,
+		"end_year": null,
+		"runtime_minutes": 88,
+		"genres": "Animation,Comedy,Family",
+		"directors": [
+			"Bill Roberts",
+			"T. Hee",
+			"Ben Sharpsteen",
+			"Wilfred Jackson",
+			"Norman Ferguson",
+			"Hamilton Luske",
+			"Jack Kinney"
+		],
+		"writers": [
+			"Joseph Sabo",
+			"Erdman Penner",
+			"Bill Peet",
+			"Carlo Collodi",
+			"Ted Sears",
+			"Aurelius Battaglia",
+			"Webb Smith",
+			"Otto Englander",
+			"William Cottrell"
+		]
+	},
+	{
+		"tconst": "tt2239822",
+		"primary_title": "Valerian and the City of a Thousand Planets",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 137,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Luc Besson"
+		],
+		"writers": [
+			"Pierre Christin",
+			"Jean-Claude Mézières",
+			"Luc Besson"
+		]
+	},
+	{
+		"tconst": "tt1408101",
+		"primary_title": "Star Trek: Into Darkness",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 132,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"J.J. Abrams"
+		],
+		"writers": [
+			"Gene Roddenberry",
+			"Alex Kurtzman",
+			"Roberto Orci",
+			"Damon Lindelof"
+		]
+	},
+	{
+		"tconst": "tt0948470",
+		"primary_title": "The Amazing Spider-Man",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Marc Webb"
+		],
+		"writers": [
+			"Steve Ditko",
+			"Stan Lee",
+			"Steve Kloves",
+			"Alvin Sargent",
+			"James Vanderbilt"
+		]
+	},
+	{
+		"tconst": "tt1013752",
+		"primary_title": "Fast & Furious",
+		"start_year": 2009,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Crime,Thriller",
+		"directors": [
+			"Justin Lin"
+		],
+		"writers": [
+			"Chris Morgan",
+			"Gary Scott Thompson"
+		]
+	},
+	{
+		"tconst": "tt1677720",
+		"primary_title": "Ready Player One",
+		"start_year": 2018,
+		"end_year": null,
+		"runtime_minutes": 140,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Steven Spielberg"
+		],
+		"writers": [
+			"Ernest Cline",
+			"Zak Penn"
+		]
+	},
+	{
+		"tconst": "tt0071230",
+		"primary_title": "Blazing Saddles",
+		"start_year": 1974,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Comedy,Western",
+		"directors": [
+			"Mel Brooks"
+		],
+		"writers": [
+			"Mel Brooks",
+			"Andrew Bergman",
+			"Norman Steinberg",
+			"Alan Uger",
+			"Richard Pryor"
+		]
+	},
+	{
+		"tconst": "tt1288558",
+		"primary_title": "Evil Dead",
+		"start_year": 2013,
+		"end_year": null,
+		"runtime_minutes": 91,
+		"genres": "Fantasy,Horror,Thriller",
+		"directors": [
+			"Fede Alvarez"
+		],
+		"writers": [
+			"Rodo Sayagues",
+			"Fede Alvarez",
+			"Sam Raimi"
+		]
+	},
+	{
+		"tconst": "tt2238032",
+		"primary_title": "Skiptrace",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Renny Harlin"
+		],
+		"writers": [
+			"Jay Longino",
+			"Wen-Chia Chang",
+			"BenDavid Grabinski"
+		]
+	},
+	{
+		"tconst": "tt2094766",
+		"primary_title": "Assassin's Creed",
+		"start_year": 2016,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Action,Adventure,Sci-Fi",
+		"directors": [
+			"Justin Kurzel"
+		],
+		"writers": [
+			"Michael Lesslie",
+			"Corey May",
+			"Bill Collage",
+			"Adam Cooper",
+			"Jade Raymond",
+			"Patrice Désilets"
+		]
+	},
+	{
+		"tconst": "tt0413267",
+		"primary_title": "Shrek the Third",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 93,
+		"genres": "Adventure,Animation,Comedy",
+		"directors": [
+			"Chris Miller",
+			"Raman Hui"
+		],
+		"writers": [
+			"Jeffrey Price",
+			"Andrew Adamson",
+			"William Steig",
+			"Peter S. Seaman",
+			"Chris Miller",
+			"Aron Warner"
+		]
+	},
+	{
+		"tconst": "tt5697572",
+		"primary_title": "Cats",
+		"start_year": 2019,
+		"end_year": null,
+		"runtime_minutes": null,
+		"genres": "Animation,Comedy,Drama",
+		"directors": [
+			"Tom Hooper"
+		],
+		"writers": [
+			"Lee Hall",
+			"T.S. Eliot",
+			"Tom Hooper",
+			"Andrew Lloyd Webber"
+		]
+	},
+	{
+		"tconst": "tt0369281",
+		"primary_title": "Bionicle: Mask of Light",
+		"start_year": 2003,
+		"end_year": null,
+		"runtime_minutes": 70,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"Terry Shakespeare",
+			"David Molina"
+		],
+		"writers": [
+			"Tracy Berna",
+			"Greg Weisman",
+			"Alastair Swinnerton",
+			"Bob Thompson",
+			"Henry Gilroy"
+		]
+	},
+	{
+		"tconst": "tt0387658",
+		"primary_title": "Bionicle 2: Legends of Metru Nui",
+		"start_year": 2004,
+		"end_year": null,
+		"runtime_minutes": 75,
+		"genres": "Action,Adventure,Animation",
+		"directors": [
+			"David Molina",
+			"Terry Shakespeare"
+		],
+		"writers": [
+			"Tom Pugsley",
+			"Greg Klein",
+			"Henry Gilroy",
+			"Bob Thompson"
+		]
+	},
+	{
+		"tconst": "tt0471588",
+		"primary_title": "Bionicle 3: Web of Shadows",
+		"start_year": 2005,
+		"end_year": null,
+		"runtime_minutes": 74,
+		"genres": "Adventure,Animation,Fantasy",
+		"directors": [
+			"David Molina",
+			"Terry Shakespeare"
+		],
+		"writers": [
+			"Henry Gilroy",
+			"Brett Matthews",
+			"Bob Thompson"
+		]
+	},
+	{
+		"tconst": "tt1298650",
+		"primary_title": "Pirates of the Caribbean: On Stranger Tides",
+		"start_year": 2011,
+		"end_year": null,
+		"runtime_minutes": 136,
+		"genres": "Action,Adventure,Fantasy",
+		"directors": [
+			"Rob Marshall"
+		],
+		"writers": [
+			"Stuart Beattie",
+			"Tim Powers",
+			"Terry Rossio",
+			"Ted Elliott",
+			"Jay Wolpert"
+		]
+	},
+	{
+		"tconst": "tt4217392",
+		"primary_title": "Kung Fu Yoga",
+		"start_year": 2017,
+		"end_year": null,
+		"runtime_minutes": 107,
+		"genres": "Action,Adventure,Comedy",
+		"directors": [
+			"Stanley Tong"
+		],
+		"writers": [
+			"Stanley Tong"
+		]
+	},
+	{
+		"tconst": "tt0259324",
+		"primary_title": "Ghost Rider",
+		"start_year": 2007,
+		"end_year": null,
+		"runtime_minutes": 114,
+		"genres": "Action,Fantasy,Thriller",
+		"directors": [
+			"Mark Steven Johnson"
+		],
+		"writers": [
+			"Mark Steven Johnson"
+		]
+	},
+	{
+		"tconst": "tt1673434",
+		"primary_title": "The Twilight Saga: Breaking Dawn - Part 2",
+		"start_year": 2012,
+		"end_year": null,
+		"runtime_minutes": 115,
+		"genres": "Adventure,Drama,Fantasy",
+		"directors": [
+			"Bill Condon"
+		],
+		"writers": [
+			"Melissa Rosenberg",
+			"Stephenie Meyer"
+		]
+	}
+]

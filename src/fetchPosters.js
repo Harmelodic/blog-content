@@ -7,7 +7,7 @@ const https = require('https');
 const fs = require('fs');
 
 const tempPostersDirectory = `${__dirname}/posters`;
-const finalPostersDirectory = `${__dirname}/../posts/posters`;
+const finalPostersDirectory = `${__dirname}/../public/posts/posters`;
 
 if (!fs.existsSync(tempPostersDirectory)) {
   fs.mkdirSync(tempPostersDirectory);

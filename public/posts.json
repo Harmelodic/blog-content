@@ -47,7 +47,8 @@
     "lastUpdated": 1599900046000,
     "fileName": "Governance.md",
     "labels": [
-      "Blog"
+      "Blog",
+      "Management Philosophy"
     ]
   },
   {
@@ -69,7 +70,8 @@
     "fileName": "Software_Development_Principles.md",
     "labels": [
       "Blog",
-      "Tech Guide"
+      "Tech Guide",
+      "Engineering Philosophy"
     ]
   },
   {
@@ -80,7 +82,8 @@
     "fileName": "Project_Development_Structure.md",
     "labels": [
       "Blog",
-      "Tech Guide"
+      "Tech Guide",
+      "Engineering Philosophy"
     ]
   },
   {
@@ -101,7 +104,8 @@
     "fileName": "Managing_and_Empowering_Software_Engineering_Teams.md",
     "labels": [
       "Blog",
-      "Tech Guide"
+      "Tech Guide",
+      "Management Philosophy"
     ]
   },
   {
@@ -298,7 +302,8 @@
     "lastUpdated": 1543341600000,
     "fileName": "ci-cd-pipeline.md",
     "labels": [
-      "Tech Guide"
+      "Tech Guide",
+      "Engineering Philosophy"
     ]
   },
   {
@@ -308,7 +313,8 @@
     "lastUpdated": 1543243500000,
     "fileName": "npm-package-principles.md",
     "labels": [
-      "Tech Guide"
+      "Tech Guide",
+      "Engineering Philosophy"
     ]
   },
   {

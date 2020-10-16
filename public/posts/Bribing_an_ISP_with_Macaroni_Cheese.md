@@ -24,7 +24,7 @@ It wasn't.
 
 It said this:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese1.jpg" alt="Telcom Poster" style="height: 500px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese1.jpg" alt="Telcom Poster" style="height: 500px;">
 
 [HOLY SHIT BALLS, MOM!](https://youtu.be/o6TKpkY4WcM?t=1m43s)
 
@@ -59,47 +59,47 @@ Days pass and on the 6th of June, my buddy Vertex tweets me saying that he could
 
 I responded:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese3.png" alt="Harm Tweet 1" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese3.png" alt="Harm Tweet 1" style="width: 400px;">
 
 Vertex:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese4.png" alt="Vertex Tweet 2" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese4.png" alt="Vertex Tweet 2" style="width: 400px;">
 
 And then an idea sparked in my head? What if I be a _little_ cheeky and ask Telcom if I can get my internet before the 19th:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese5.png" alt="Harm Tweet 2" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese5.png" alt="Harm Tweet 2" style="width: 400px;">
 
 Another spark hit me. I'd recently been making Macaroni Cheese (my favourite meal of all time) from my mother's recipe (in my opinion: the best recipe).
 
 What if I jokingly bribed them with Macaroni Cheese?
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese6.png" alt="Harm Tweet 3" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese6.png" alt="Harm Tweet 3" style="width: 400px;">
 
 Vertex, man of the fucking hour, backs me up of his own volition:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese7.png" alt="Vertex Tweet 3" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese7.png" alt="Vertex Tweet 3" style="width: 400px;">
 
 This was getting hilarious. I laid it on thick:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese8.png" alt="Harm Tweet 4" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese8.png" alt="Harm Tweet 4" style="width: 400px;">
 
 Vertex, man of the fucking _century_, backs me up again:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese9.png" alt="Vertex Tweet 4" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese9.png" alt="Vertex Tweet 4" style="width: 400px;">
 
 AND THEN IT HAPPENS.
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese10.png" alt="Telcom Tweet 1" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese10.png" alt="Telcom Tweet 1" style="width: 400px;">
 
 I burst into laughter at the insanity and ridiculousness of the situation. This started out as a joke and now we're here. This was awesome customer service and I wanted to show my friends on Twitter, so I quote tweeted:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese11.png" alt="Harm Tweet 4" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese11.png" alt="Harm Tweet 4" style="width: 400px;">
 
 But then a thought struck me: What if they can actually get me hooked up with my internet connection early?
 
 I followed them and responded to them:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese12.png" alt="Harm Tweet 5" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese12.png" alt="Harm Tweet 5" style="width: 400px;">
 
 and then all went quiet.
 
@@ -113,11 +113,11 @@ I fell asleep.
 
 Morning came and I was rushed off my feet a little. I woke up a little later than I should have and I had a busy day at work ahead of me. On my way out of the door, I checked my phone:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese13.png" alt="Screenshot of Notifaction" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese13.png" alt="Screenshot of Notifaction" style="width: 400px;">
 
 Huh, maybe it wasn't a joke? I dropped them a DM and got a response back!:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese14.png" alt="Telcom-Harmelodic DM Conversation" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese14.png" alt="Telcom-Harmelodic DM Conversation" style="width: 400px;">
 
 This was genuinely happening! All because me and my friend wanted to watch Doctor fucking Who and rip it to shreds.
 
@@ -151,7 +151,7 @@ The following morning I'd just had a meeting and was about to get settled in for
 
 I threw a little tweet out before I closed my laptop:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese15.png" alt="Harm Tweet 6" style="width: 400px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese15.png" alt="Harm Tweet 6" style="width: 400px;">
 
 I went home and met a guy called Daniel who was going to be setting up my router and wiring up my apartment.
 
@@ -165,6 +165,6 @@ Thanks Telcom &#10084;
 
 Oh and if you're wondering, OP delivered:
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese16.jpg" alt="Macaroni Cheese" style="height: 250px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese16.jpg" alt="Macaroni Cheese" style="height: 250px;">
 
-<img src="/posts/images/BribingAnISPWithMacaroniCheese17.jpg" alt="Telcom has Macaroni Cheese" style="height: 250px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/BribingAnISPWithMacaroniCheese17.jpg" alt="Telcom has Macaroni Cheese" style="height: 250px;">

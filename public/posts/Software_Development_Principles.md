@@ -10,7 +10,7 @@ Keep it small & simple <sub>[[C.H.]](https://twitter.com/CliveHackney/status/125
 
 ## Test Pyramid
 
-<img src="/posts/images/test-pyramid.png" alt="Test Pyramid" style="width: 90%; max-width: 560px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/test-pyramid.png" alt="Test Pyramid" style="width: 90%; max-width: 560px;">
 
 - Unit Tests are fast and cheap, so make more of your tests Unit Tests.
 - Service Tests are slower and more expensive, so only make some of those.
@@ -18,7 +18,7 @@ Keep it small & simple <sub>[[C.H.]](https://twitter.com/CliveHackney/status/125
 
 ## 3 Types of Functional Testing - State, Collaboration, Contract
 
-<img src="/posts/images/functional-tests.jpg" alt="Functional Tests" style="width: 90%; max-width: 560px;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/functional-tests.jpg" alt="Functional Tests" style="width: 90%; max-width: 560px;">
 
 Provided you design your solution well - i.e. into components that connect to interfaces that have other components that implement those interfaces.
 

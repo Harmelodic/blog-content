@@ -39,18 +39,18 @@ For Ops automation: Implement [GitOps](https://www.weave.works/blog/gitops-opera
 
 ### Build
 
-<img src="/posts/images/Dev-Build.jpg" alt="Dev Build" style="width: 90%; box-shadow: 0 0 10px 0px #999;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/Dev-Build.jpg" alt="Dev Build" style="width: 90%; box-shadow: 0 0 10px 0px #999;">
 
 ### Deployment & Promotion
 
-<img src="/posts/images/Dev-Deploy.jpg" alt="Dev Deploy" style="width: 80%; box-shadow: 0 0 10px 0px #999;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/Dev-Deploy.jpg" alt="Dev Deploy" style="width: 80%; box-shadow: 0 0 10px 0px #999;">
 
 ## Ops
 
 ### Build
 
-<img src="/posts/images/Ops-Build.jpg" alt="Ops Build" style="width: 90%; box-shadow: 0 0 10px 0px #999;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/Ops-Build.jpg" alt="Ops Build" style="width: 90%; box-shadow: 0 0 10px 0px #999;">
 
 ### Deployment & Promotion
 
-<img src="/posts/images/Ops-Deploy.jpg" alt="Ops Deploy" style="width: 80%; box-shadow: 0 0 10px 0px #999;">
+<img src="https://harmelodic.gitlab.io/scribbles-content/posts/images/Ops-Deploy.jpg" alt="Ops Deploy" style="width: 80%; box-shadow: 0 0 10px 0px #999;">

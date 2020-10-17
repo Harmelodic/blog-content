@@ -20,6 +20,16 @@
     ]
   },
   {
+    "title": "12 Factor App Methodology is good",
+    "route": "post",
+    "datePosted": 1602942653000,
+    "lastUpdated": 1602942653000,
+    "fileName": "12_Factor_App_Methodology_is_good.md",
+    "labels": [
+      "Engineering Philosophy"
+    ]
+  },
+  {
     "title": "Living in Stockholm, September 2020",
     "route": "post",
     "datePosted": 1601237008000,
@@ -36,7 +46,6 @@
     "lastUpdated": 1600193068000,
     "fileName": "Apple_Special_Event_2020.md",
     "labels": [
-      "Blog",
       "Review"
     ]
   },
@@ -47,7 +56,6 @@
     "lastUpdated": 1599900046000,
     "fileName": "Governance.md",
     "labels": [
-      "Blog",
       "Management Philosophy"
     ]
   },
@@ -58,7 +66,6 @@
     "lastUpdated": 1594844960000,
     "fileName": "Pixel_Buds_Review.md",
     "labels": [
-      "Blog",
       "Review"
     ]
   },
@@ -69,8 +76,6 @@
     "lastUpdated": 1589744358000,
     "fileName": "Software_Development_Principles.md",
     "labels": [
-      "Blog",
-      "Tech Guide",
       "Engineering Philosophy"
     ]
   },
@@ -81,8 +86,6 @@
     "lastUpdated": 1576799674000,
     "fileName": "Project_Development_Structure.md",
     "labels": [
-      "Blog",
-      "Tech Guide",
       "Management Philosophy"
     ]
   },
@@ -103,8 +106,6 @@
     "lastUpdated": 1574880077000,
     "fileName": "Managing_and_Empowering_Software_Engineering_Teams.md",
     "labels": [
-      "Blog",
-      "Tech Guide",
       "Management Philosophy"
     ]
   },
@@ -115,7 +116,7 @@
     "lastUpdated": 1574794192000,
     "fileName": "Onboarding.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -125,7 +126,6 @@
     "lastUpdated": 1568142000000,
     "fileName": "Apple_Special_Event_2019.md",
     "labels": [
-      "Blog",
       "Review"
     ]
   },
@@ -136,8 +136,7 @@
     "lastUpdated": 1561901400000,
     "fileName": "build-deploy-like-a-pro.md",
     "labels": [
-      "Blog",
-      "Tech Guide"
+      "Engineering Philosophy"
     ]
   },
   {
@@ -147,7 +146,6 @@
     "lastUpdated": 1559653200000,
     "fileName": "Apple-WWDC-2019-Keynote-Review.md",
     "labels": [
-      "Blog",
       "Review"
     ]
   },
@@ -158,7 +156,6 @@
     "lastUpdated": 1558773480000,
     "fileName": "What-is-homebrew.md",
     "labels": [
-      "Tech Guide",
       "What is..."
     ]
   },
@@ -170,7 +167,6 @@
     "fileName": "Avengers_Endgame_Review.md",
     "labels": [
       "Review",
-      "Blog"
     ]
   },
   {
@@ -220,7 +216,6 @@
     "lastUpdated": 1491310800000,
     "fileName": "TomSkas_Worst_Video.md",
     "labels": [
-      "Blog",
       "Review"
     ]
   },
@@ -231,7 +226,6 @@
     "lastUpdated": 1464436800000,
     "fileName": "Telegraph_Tor_Article_Corrections.md",
     "labels": [
-      "Blog",
       "Review"
     ]
   },
@@ -302,7 +296,6 @@
     "lastUpdated": 1543341600000,
     "fileName": "ci-cd-pipeline.md",
     "labels": [
-      "Tech Guide",
       "Engineering Philosophy"
     ]
   },
@@ -313,7 +306,6 @@
     "lastUpdated": 1543243500000,
     "fileName": "npm-package-principles.md",
     "labels": [
-      "Tech Guide",
       "Engineering Philosophy"
     ]
   },
@@ -324,7 +316,7 @@
     "lastUpdated": 1542578400000,
     "fileName": "cert-manager-setup.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -334,7 +326,7 @@
     "lastUpdated": 1541246400000,
     "fileName": "nginx-ingress-setup.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -344,7 +336,7 @@
     "lastUpdated": 1541160000000,
     "fileName": "deployment-registry-access.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -354,7 +346,7 @@
     "lastUpdated": 1541073600000,
     "fileName": "deployment-service-account-token.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -364,7 +356,7 @@
     "lastUpdated": 1540990800000,
     "fileName": "Bullets_Wireless_MacOS.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -374,7 +366,7 @@
     "lastUpdated": 1538751600000,
     "fileName": "Double-not-Truthy.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -384,7 +376,7 @@
     "lastUpdated": 1538304000000,
     "fileName": "Vertical-Align-Anything.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -394,7 +386,7 @@
     "lastUpdated": 1479211200000,
     "fileName": "Setup_CLion_On_Windows.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -404,7 +396,7 @@
     "lastUpdated": 1478779200000,
     "fileName": "Special_characters_URLs_and_Percent-encoding.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -414,7 +406,7 @@
     "lastUpdated": 1474639200000,
     "fileName": "Setting_Up_A_Large_Minecraft_Server.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -424,7 +416,6 @@
     "lastUpdated": 1474635600000,
     "fileName": "What_Is_Programming.md",
     "labels": [
-      "Tech Guide",
       "What is..."
     ]
   },
@@ -435,7 +426,7 @@
     "lastUpdated": 1474632000000,
     "fileName": "Installing_Apache_HTTP_Server.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -445,7 +436,7 @@
     "lastUpdated": 1464458400000,
     "fileName": "Win10_Configuring_And_Cleaning.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -455,7 +446,7 @@
     "lastUpdated": 1464454800000,
     "fileName": "Win10_Upgrading.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -465,7 +456,7 @@
     "lastUpdated": 1464451200000,
     "fileName": "Win10_Installation.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -475,7 +466,7 @@
     "lastUpdated": 1464447600000,
     "fileName": "Win10_Getting_Your_Product_Key.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -485,7 +476,7 @@
     "lastUpdated": 1464444000000,
     "fileName": "Win10_Downloading_Installation_Media.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   },
   {
@@ -495,7 +486,7 @@
     "lastUpdated": 1464440400000,
     "fileName": "Win10_Introduction.md",
     "labels": [
-      "Tech Guide"
+      "Tech Runbook"
     ]
   }
 ]

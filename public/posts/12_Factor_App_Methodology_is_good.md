@@ -1,4 +1,4 @@
-Back in 2011, [Heroku](https://en.wikipedia.org/wiki/Heroku) published a methodology called *12 Factor App*, which denotes a methodology for building systems that are portable and resilient.
+Back in 2011, [Heroku](https://en.wikipedia.org/wiki/Heroku) published a methodology called [*12 Factor App*](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology), which denotes a methodology for building systems that are portable and resilient.
 
 I've found the 12 factor app to be an incredibly powerful design methodology for organising, structuring and separating applications, founded in other solid Engineering principles, like "Package-by-feature, build-by-layer", "Stateless Computation", "Unix Philosphy", "Composition over Inheritance", "KISS". 
 

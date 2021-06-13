@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: example-app
-        # .,,
+        # ...
       imagePullSecrets:
       - name: <REPO>-registry-deploy-token
 ```

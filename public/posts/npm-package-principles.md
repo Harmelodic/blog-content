@@ -29,7 +29,7 @@ These instablity and security concerns have been publicly voiced and:
 
 - [A package owner transferred ownership of a relatively popular package to a hacker](https://github.com/dominictarr/event-stream/issues/116)
 
-#### We need principles to follow.
+**We need principles to follow.**
 
 I've written some:
 

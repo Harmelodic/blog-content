@@ -2,9 +2,9 @@ Here we go again.
 
 Fuck off, Tim.
 
-# App Store
+## App Store
 
-## Apple Arcade
+### Apple Arcade
 
 More updates but Apple Arcade has already been announced, so are we just showing demos of games? Seems so:
 
@@ -18,7 +18,7 @@ The rhythm-based racing/fighting games looks kinda cool, but I'm guessing the ga
 
 $4.99/month is decent, but then if the calibre of games is on par with what was demo'd, then it's not even worth that.
 
-# Apple tv+
+## Apple tv+
 
 Wait... you're done with the App Store, Tim? Okay.
 
@@ -30,7 +30,7 @@ The shows looks kinda boring. 100,000,000 views on the trailers sound good thoug
 
 1 year included...that's how they get ya!
 
-# iPad
+## iPad
 
 Ah yes, the thing with the new operating system that still hasn't been released yet.
 
@@ -45,9 +45,9 @@ $329...how does that match up to the previous prices I wonder?
 
 30th September release.
 
-# Apple Watch
+## Apple Watch
 
-## Health
+### Health
 
 All the rings and everything...did anyone else ever watch that movie with Tom Hanks and Emma Watson called "The Circle"? Cause this is reminding me of that.
 
@@ -63,7 +63,7 @@ Ah, so this is only happening if people actively enrol. Okay then, that's better
 
 I wonder what biases these Studies have due to the economic circumstances of people buying Apple Watch / Apple products. Also, if these Studies fail, what will Apple say? Or will they not fail? In which case they're not studies. Hmm.
 
-## Series 5
+### Series 5
 
 Always On display, goodbye battery life.  
 This guy is way to excited about a display that just remains on.  
@@ -84,9 +84,9 @@ $399 for the GPS version
 $499 for the Cellular version.  
 Pricey.
 
-# iPhone
+## iPhone
 
-## iPhone 11
+### iPhone 11
 
 Here's the bit that most people were waiting for, thought they'd do the "one more thing" with this bit.
 
@@ -114,7 +114,7 @@ This doesn't feel like anything new or innovative. Just some camera updates, an 
 
 $699. That's a price drop, isn't it?
 
-## iPhone 11 Pro & iPhone 11 Pro Max
+### iPhone 11 Pro & iPhone 11 Pro Max
 
 Not 2 but 3 cameras in the ugly square!
 
@@ -140,7 +140,7 @@ $999 for iPhone 11 Pro
 $1099 for iPhone 11 Pro Max  
 Fucking pricey.
 
-# Apple Retail
+## Apple Retail
 
 I'm sure Louis Rossmann would have a lot to say about the people in the Apple Retail stores. Not that Apple would like to hear it.
 

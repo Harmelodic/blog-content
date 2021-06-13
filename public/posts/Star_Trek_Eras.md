@@ -1,5 +1,3 @@
-# Star Trek Eras
-
 Star Trek is an excellent sci-fi TV show about... well, that's a difficult sentence to finish.
 
 Over time there have been many different Star Trek series, each with their own qualities, differences, stories, and characters as well as sharing commonalities between the series themselves.

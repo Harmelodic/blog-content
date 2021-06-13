@@ -1,18 +1,18 @@
 It's that time of year.
 
-# Waiting
+## Waiting
 
 That logo and animation is just weird and ew. I suspect it's supposed to be indicative of what is to come, at which point we'll all be like "Ohhh, that's why the logo and animation was like that".
 
 Load the gun, Chekhov.
 
-# Tim Cook's Intro
+## Tim Cook's Intro
 
 Doesn't he walk like a robot.
 
 I know working from home is important, but that Apple building looks disturbingly empty - even of furniture.
 
-# Apple Watch
+## Apple Watch
 
 Apple Watch revolutionised it? What about smart watches, or fitbits? That happened... let me check... yep, before Apple Watch.
 
@@ -44,17 +44,17 @@ Watch Faces. - This is a major talking point in Apple's event? Wow. This is bori
 
 Watch Bands. - Another major talking point that is boring as shit.
 
-## Apple Watch - Family Setup
+### Apple Watch - Family Setup
 
 "Currently you need to pair an Apple Watch with an iPhone, which your children might not have" - Oh so you're making them accessible without an iPhone? - "So we're introducing Family Setup, where you can set it up on YOUR iPhone" - Oh... okay.
 
-## Apple Watch SE
+### Apple Watch SE
 
 A cheaper than Series 6 model, but with a reduced feature setup.
 
 Steve Jobs once said that if you add 
 
-## Apple Watch's Environmental Footprint
+### Apple Watch's Environmental Footprint
 
 100% renewable energy, everywhere is good.
 
@@ -76,13 +76,15 @@ It's not for me, but sure - neat.
 
 $9.99/month or $79.99 is cheap compared to the gym, or fitness classes.
 
-# Apple One
+## Apple One
 
 All subscription services in one service - I knew it was coming; You can't have this many services and not think about integrating them like this.
 
 Individual, Family and Premier (where Premier includes News+ and Fitness+) - for $14.95, $19.95, $29.95, respectively.
 
-# iPad 8th Generation
+## iPad
+
+### iPad 8th Generation
 
 iPad is #1 in customer satisfaction compared to...what? Other Apple products? Other products on the market?
 
@@ -96,7 +98,7 @@ All this Apple Pencil and iPadOS stuff is shit that has already been announced a
 
 A minor upgrade - not fucking worth it.
 
-# iPad Air
+### iPad Air
 
 I see this is where that swirly thing came in; Chekhov, fire!
 
@@ -108,7 +110,7 @@ TouchID in the top button is not innovative - it's VERY old technology, relative
 
 Retroactive note: USB-C - YES YES YES.
 
-## A14 chip
+#### A14 chip
 
 5nm CPU is insane.
 
@@ -126,7 +128,7 @@ DJ Pro - as my Sound Engineer girlfriend just said "it's for people who want to 
 
 Keeping in line with the good recycled stuff - Good.
 
-# End
+## End
 
 Was that it?
 

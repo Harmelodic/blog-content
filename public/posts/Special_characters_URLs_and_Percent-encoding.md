@@ -70,7 +70,7 @@ Keep your code clean.
 
 ---
 
-#### Final note on implementation:
+## Final note on implementation:
 
 ***Don't*** (for heavens sake) simplify your HTTP code down to providing a single static function that takes an entire URL (including query string parameters) and %-encode that.
 

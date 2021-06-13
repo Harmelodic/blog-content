@@ -54,4 +54,4 @@ You should already have installed CLion, now find the `CLion` program.
 
 ---
 
-### And you're done! Enjoy programming in C/C++ on your Windows machine!
+And you're done! Enjoy programming in C/C++ on your Windows machine!

@@ -99,7 +99,7 @@ Now initially you’ve read this segment title and gone “oh fuck not the comme
 
 The top comment on this video is Josh himself commenting:
 
-> A lot of people think I lost my leg to cancer. This, however, is the true story.﻿”
+> A lot of people think I lost my leg to cancer. This, however, is the true story.”
 
 Now, with this in mind, wouldn’t it have been better/funnier to do a longer, more in-depth video (in that “Cake” and “Coffee” style I mentioned above) with more gags about how Josh lost his leg, not to cancer, but to something else (most likely completely ridiculous).  
 

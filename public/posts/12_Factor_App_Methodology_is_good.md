@@ -4,40 +4,40 @@ I've found the 12 factor app to be an incredibly powerful design methodology for
 
 Below are the 12 factors in the metholodgy - it may be a long read, but it's super important to read and understand each.
 
----
+## The Methodology
 
-## Codebase
+### Codebase
 There should be exactly one codebase for a deployed service with the codebase being used for many deployments.
 
-## Dependencies
+### Dependencies
 All dependencies should be declared, with no implicit reliance on system tools or libraries.
 
-## Config 
+### Config 
 Configuration that varies between deployments should be stored in the environment.
 
-## Backing services
+### Backing services
 All backing services are treated as attached resources and attached and detached by the execution environment.
 
-## Build, release, run
+### Build, release, run
 The delivery pipeline should strictly consist of build, release, run.
 
-## Processes
+### Processes
 Applications should be deployed as one or more stateless processes with persisted data stored on a backing service.
 
-## Port binding
+### Port binding
 Self-contained services should make themselves available to other services by specified ports.
 
-## Concurrency
+### Concurrency
 Concurrency is advocated by scaling individual processes.
 
-## Disposability
+### Disposability
 Fast startup and shutdown are advocated for a more robust and resilient system.
 
-## Dev/Prod parity
+### Dev/Prod parity
 All environments should be as similar as possible.
 
-## Logs
+### Logs
 Applications should produce logs as event streams and leave the execution environment to aggregate.
 
-## Admin Processes
+### Admin Processes
 Any needed admin tasks should be kept in source control and packaged with the application.

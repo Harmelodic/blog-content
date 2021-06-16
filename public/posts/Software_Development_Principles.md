@@ -25,9 +25,9 @@ Provided you design your solution well - i.e. into components that connect to in
 - State testing is the testing you do on the component you've made.
 - Collaboration testing is the testing you do between your component and it's interfaces.
 - Contract testing is the testing you do to check your external interface implementations adhere to the interface in the way that your component expects them to (aka - adhering to the Contract).
-- The only other _functional_ testing that is required is the few integration tests that you need to test components outside of your domain.
+- The only other _functional_ testing that is required is the few integrated tests that you need to test components outside of your domain.
 
-This is my own principle based on J.B. Rainsburger's talk about how [_Integration Tests are a Scam_](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam). It's a very good talk with very compelling points.
+This is my own principle based on J.B. Rainsburger's talk about how [_Integrated Tests are a Scam_](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam). It's a very good talk with very compelling points.
 
 Non-functional testing, such as security, performance and reliability and acceptance testing cannot be fully covered by this methodology.
 

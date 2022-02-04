@@ -17,7 +17,7 @@
   },
   "homepage": "https://gitlab.com/Harmelodic/scribbles-content#readme",
   "dependencies": {
-    "chromedriver": "^85.0.1",
-    "selenium-webdriver": "^4.0.0-alpha.7"
+    "chromedriver": "^97.0.4",
+    "selenium-webdriver": "^4.1.1"
   }
 }

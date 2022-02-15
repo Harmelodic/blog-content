@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/Harmelodic/scribbles-content.git"
+    "url": "git+https://github.com/Harmelodic/blog-content.git"
   },
   "author": "Harmelodic",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://gitlab.com/Harmelodic/scribbles-content/issues"
+    "url": "https://github.com/Harmelodic/blog-content/issues"
   },
-  "homepage": "https://gitlab.com/Harmelodic/scribbles-content#readme",
+  "homepage": "https://github.com/Harmelodic/blog-content#readme",
   "dependencies": {
     "chromedriver": "^97.0.4",
     "selenium-webdriver": "^4.1.1"

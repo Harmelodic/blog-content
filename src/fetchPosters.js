@@ -1,8 +1,8 @@
 require('chromedriver');
 const {Builder, By} = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
-const films = require('../posts/filmsSeen.json');
-const tvShows = require('../posts/tvShowsSeen.json');
+const films = require('../public/posts/filmsSeen.json');
+const tvShows = require('../public/posts/tvShowsSeen.json');
 const https = require('https');
 const fs = require('fs');
 
@@ -53,7 +53,7 @@ async function fetchPoster(tconst) {
   });
 
   driver.quit();
-};
+}
 
 async function main() {
   for (const film of films) {
@@ -68,4 +68,4 @@ async function main() {
   }
 }
 
-main();
+main().then(() => console.log("Done."));

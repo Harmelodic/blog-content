@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Harmelodic/blog-content#readme",
   "dependencies": {
-    "chromedriver": "121.0.0",
-    "selenium-webdriver": "4.17.0"
+    "chromedriver": "123.0.1",
+    "selenium-webdriver": "4.19.0"
   }
 }
